@@ -1312,19 +1312,19 @@ window.TRACTEURS = [
     "reservoir_l": 77,
     "prix_epoque": "",
     "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/laurent-renault-851-4s-1.jpg": {
+        "auteur": "Laurent",
+        "licence": "tous droits réservés"
+      }
+    },
     "sources": [
       "https://de.wikibooks.org/wiki/Traktorenlexikon:_Renault_851-4_R7664",
       "https://www.koneviesti.fi/en/konedata/traktorit/renault/renault-461s-851s",
       "https://www.koneviesti.fi/en/konedata/traktorit/renault/renault-551-851",
       "https://www.tractordata.com/farm-tractors/004/3/1/4315-renault-851s.html"
     ],
-    "verifie": false,
-    "credits": {
-      "assets/img/tracteurs/laurent-renault-851-4s-1.jpg": {
-        "auteur": "Laurent",
-        "licence": "tous droits réservés"
-      }
-    }
+    "verifie": false
   },
   {
     "id": "renault-551-4s",
@@ -1618,18 +1618,18 @@ window.TRACTEURS = [
     "reservoir_l": 144,
     "prix_epoque": "",
     "cote_collection": "",
-    "sources": [
-      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Renault_1451-4_R7694",
-      "https://www.koneviesti.fi/en/konedata/traktorit/renault/renault-891-1451",
-      "https://www.tractordata.com/farm-tractors/004/3/0/4308-renault-1451.html"
-    ],
-    "verifie": false,
     "credits": {
       "assets/img/tracteurs/laurent-renault-1451-1.jpg": {
         "auteur": "Laurent",
         "licence": "tous droits réservés"
       }
-    }
+    },
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Renault_1451-4_R7694",
+      "https://www.koneviesti.fi/en/konedata/traktorit/renault/renault-891-1451",
+      "https://www.tractordata.com/farm-tractors/004/3/0/4308-renault-1451.html"
+    ],
+    "verifie": false
   },
   {
     "id": "ih-745",
@@ -1980,17 +1980,661 @@ window.TRACTEURS = [
     "reservoir_l": 180,
     "prix_epoque": "",
     "cote_collection": "",
-    "sources": [
-      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Fiat_1380_(DT)",
-      "https://www.tractordata.com/farm-tractors/002/0/0/2001-fiat-1380.html",
-      "https://fr.wikipedia.org/wiki/Fiat_Trattori"
-    ],
-    "verifie": false,
     "credits": {
       "assets/img/tracteurs/laurent-fiat-1380-1.jpg": {
         "auteur": "Laurent",
         "licence": "tous droits réservés"
       }
-    }
+    },
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Fiat_1380_(DT)",
+      "https://www.tractordata.com/farm-tractors/002/0/0/2001-fiat-1380.html",
+      "https://fr.wikipedia.org/wiki/Fiat_Trattori"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "john-deere-3130",
+    "modele": "3130",
+    "surnom": "",
+    "constructeur": "john-deere",
+    "photos": [
+      "assets/img/tracteurs/commons-john-deere-3130-1.jpg"
+    ],
+    "debut": 1972,
+    "fin": 1979,
+    "pays": "Allemagne",
+    "puissance_ch": 89,
+    "moteur": "John Deere 6.329, diesel atmosphérique à injection directe",
+    "cylindres": 6,
+    "cylindree_cm3": 5356,
+    "couple_nm": 317,
+    "poids_kg": 3466,
+    "qualites": [
+      "Seul tracteur de moins de 100 ch de la gamme Mannheim à six cylindres",
+      "Inverseur Hi-Lo sous charge de série",
+      "Cabine OPU spacieuse avec bonne visibilité"
+    ],
+    "defauts": [
+      "Distributeurs hydrauliques placés sous le siège, difficiles à atteindre"
+    ],
+    "reputation": "Selon le Traktorenlexikon, c'est le plus gros succès commercial des six-cylindres John Deere de sa catégorie.",
+    "histoire": "Présenté en 1972, le 3130 est le plus gros modèle de la série 30 assemblée à Mannheim, dans l'ancienne usine Lanz. La puissance passe de 89 à 92 ch en 1976 et la production s'arrête en 1979.",
+    "anecdote": "Au lieu d'un arbre de transmission vers le pont avant, la version quatre roues motrices du 3130 utilisait un moteur hydraulique dans chaque moyeu avant, une solution qui tranchait avec celles des concurrents.\n\nEn Allemagne, le modèle de base était affiché à 40 560 DM en 1975.",
+    "versions": "2 roues motrices (1972), quatre roues motrices hydrostatique à moteurs hydrauliques dans les moyeux avant à partir de 1974, cabine de sécurité OPU dès 1974, restylage en 1975, 92 ch en 1976. Vendu aux États-Unis sous le nom de 2840.",
+    "usine": "Mannheim (ancienne usine Lanz)",
+    "serie": "Série 30 européenne, plus gros modèle produit à Mannheim",
+    "nombre_produit": "Environ 15 700 exemplaires",
+    "alesage_course": "102 × 110 mm",
+    "regime": "2 500 tr/min (92 ch à partir de 1976)",
+    "refroidissement": "Liquide",
+    "vitesses": "12 AV / 6 AR avec inverseur Hi-Lo sous charge",
+    "vitesse_min_kmh": 2.0,
+    "vitesse_max_kmh": 24.6,
+    "prise_de_force": "Indépendante, enclenchable sous charge, 540 et 1 000 tr/min",
+    "relevage": "Catégorie II, environ 3 400 à 3 800 kg selon les sources",
+    "dimensions": "Longueur 4 140 mm, empattement 2 464 mm",
+    "pneus": "AV 7.50-18 ; AR 18.4-34",
+    "reservoir_l": 106,
+    "prix_epoque": "40 560 DM (version de base, 1975)",
+    "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/commons-john-deere-3130-1.jpg": {
+        "auteur": "Père Igor",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Tracteur_John_Deere_3130_Saint-Cybranet.jpg"
+      }
+    },
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_John_Deere_3130",
+      "https://www.tractordata.com/farm-tractors/001/4/0/1403-john-deere-3130.html",
+      "https://www.southernstar.ie/farming/farm-classics-sleeker-john-deer-launched-in-1974-4246296",
+      "https://commons.wikimedia.org/wiki/File:Tracteur_John_Deere_3130_Saint-Cybranet.jpg"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "john-deere-4440",
+    "modele": "4440",
+    "surnom": "",
+    "constructeur": "john-deere",
+    "photos": [],
+    "debut": 1977,
+    "fin": 1982,
+    "pays": "États-Unis",
+    "puissance_ch": 130,
+    "moteur": "John Deere 6.466, diesel turbocompressé à injection directe",
+    "cylindres": 6,
+    "cylindree_cm3": 7637,
+    "couple_nm": 579,
+    "poids_kg": 5343,
+    "qualites": [
+      "Robustesse : pas de défaut de conception majeur sur les organes vitaux",
+      "Cabine Sound-Gard, la plus silencieuse de son époque",
+      "Fiabilité : beaucoup roulent encore sans grosse révision"
+    ],
+    "defauts": [
+      "Consommation un peu supérieure à celle du 4430",
+      "Power Shift et options haut de gamme coûteux"
+    ],
+    "reputation": "TractorData le désigne comme le modèle le plus populaire de la série Iron Horses ; Green Magazine le juge « solide, surdimensionné, polyvalent, fiable », avec plus de 13 000 ventes par an en moyenne.",
+    "histoire": "La gamme « New Iron Horses » est annoncée à l'automne 1977 ; le 4440 y remplace le 4430. Il est remplacé à son tour par le 4450 en 1983.",
+    "anecdote": "Deere annonçait 130 ch à la prise de force, mais selon Green Magazine, les mesures au banc à 150 ch ou plus étaient courantes.\n\nUne chroniqueuse de Farms.com raconte avoir acheté un 4440 à 16 000 heures dont le moteur, la direction, l'hydraulique et la transmission fonctionnaient encore parfaitement.",
+    "versions": "Deux roues motrices ou quatre roues motrices hydrostatique (option rare), version enjambeuse Hi-Crop, cabine Sound-Gard ou arceau Roll-Gard.",
+    "usine": "Waterloo, Iowa (États-Unis)",
+    "serie": "Série 40 « Iron Horses »",
+    "nombre_produit": "",
+    "alesage_course": "116 × 121 mm",
+    "regime": "2 200 tr/min (130 ch à la prise de force)",
+    "refroidissement": "Liquide",
+    "vitesses": "Quad-Range 16 AV / 6 AR ou Power Shift 8 AV / 4 AR sous charge",
+    "vitesse_min_kmh": 3.0,
+    "vitesse_max_kmh": 32.0,
+    "prise_de_force": "Indépendante, 540 et 1 000 tr/min",
+    "relevage": "Environ 2 600 kg, 3 060 kg avec vérin d'assistance",
+    "dimensions": "Longueur 4 020 mm, largeur 2 430 mm, empattement 2 710 mm",
+    "pneus": "AV 10.00-16 ; AR 18.4-38",
+    "reservoir_l": 246,
+    "prix_epoque": "Environ 38 400 à 45 100 $ en 1982 selon l'équipement (TractorData)",
+    "cote_collection": "",
+    "sources": [
+      "https://www.tractordata.com/farm-tractors/000/0/9/96-john-deere-4440.html",
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_John_Deere_4440",
+      "https://greenmagazine.com/the-4440-one-of-deeres-best/",
+      "https://farms.com/ag-industry-news/an-ode-to-the-john-deere-4440-223.aspx"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "massey-ferguson-590",
+    "modele": "MF 590",
+    "surnom": "",
+    "constructeur": "massey-ferguson",
+    "photos": [
+      "assets/img/tracteurs/commons-massey-ferguson-590-1.jpg"
+    ],
+    "debut": 1976,
+    "fin": 1982,
+    "pays": "Royaume-Uni",
+    "puissance_ch": 75,
+    "moteur": "Perkins A4.248, diesel atmosphérique à injection directe",
+    "cylindres": 4,
+    "cylindree_cm3": 4060,
+    "couple_nm": 275,
+    "poids_kg": 3378,
+    "qualites": [
+      "Mécanique très robuste et simple, sans électronique",
+      "Plancher plat dans la cabine, une première chez MF",
+      "Pièces faciles à trouver"
+    ],
+    "defauts": [
+      "Corrosion de la cabine",
+      "Une seule porte jusqu'en 1979",
+      "Embrayage dur"
+    ],
+    "reputation": "Classique à cabine très recherché au Royaume-Uni, robuste et simple, souvent sous-estimé (Tractor & Machinery).",
+    "histoire": "La série 500 succède à la série 100, en partie à cause des nouvelles normes de bruit qui imposaient des cabines. Le 590, lancé en 1976, est le plus gros modèle britannique de la série.",
+    "anecdote": "Selon Tractor & Machinery, l'option quatre roues motrices coûtait 2 553 £ sur un MF 590 : avec cette somme, on pouvait s'offrir une benne basculante de 10 tonnes… et il restait de la monnaie.",
+    "versions": "Deux et quatre roues motrices (à partir de 1977-1978), Multi-Power, 590 Turbo de 90 ch. Cabine à une porte jusqu'en 1979, puis à deux portes.",
+    "usine": "Banner Lane, Coventry (Angleterre)",
+    "serie": "Série 500",
+    "nombre_produit": "20 876 exemplaires",
+    "alesage_course": "",
+    "regime": "2 200 tr/min",
+    "refroidissement": "Liquide",
+    "vitesses": "8 AV / 2 AR ; Multi-Power 12 AV / 4 AR en option",
+    "vitesse_min_kmh": "",
+    "vitesse_max_kmh": 29.3,
+    "prise_de_force": "540 et 1 000 tr/min ; indépendante en option",
+    "relevage": "Système Ferguson (contrôle d'effort, de position et de pression), 2 227 kg aux bras inférieurs",
+    "dimensions": "Empattement 2 280 mm",
+    "pneus": "AV 7.50-18 ; AR 16.9-34",
+    "reservoir_l": 98,
+    "prix_epoque": "",
+    "cote_collection": "Au Royaume-Uni en 2024 : 4 500 à 5 000 £ pour un exemplaire fatigué, environ 10 000 £ restauré, 15 000 £ et plus pour un exemplaire d'origine impeccable (Tractor & Machinery)",
+    "credits": {
+      "assets/img/tracteurs/commons-massey-ferguson-590-1.jpg": {
+        "auteur": "kallerna",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Mower_Vampula_1.jpg"
+      }
+    },
+    "sources": [
+      "https://www.tractordata.com/farm-tractors/004/7/1/4715-massey-ferguson-590.html",
+      "https://tractorandmachinery.co.uk/tractors/the-mf-590-a-very-desirable-cabbed-classic/",
+      "http://jarlef.no/Massey_Ferguson/Tractors/mf500.htm",
+      "https://commons.wikimedia.org/wiki/File:Mower_Vampula_1.jpg"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "fendt-favorit-614ls",
+    "modele": "Favorit 614 LS Turbomatik",
+    "surnom": "",
+    "constructeur": "fendt",
+    "photos": [
+      "assets/img/tracteurs/commons-fendt-favorit-614ls-1.jpg"
+    ],
+    "debut": 1977,
+    "fin": 1984,
+    "pays": "Allemagne",
+    "puissance_ch": 135,
+    "moteur": "MWM TD 226-6, diesel turbocompressé à injection directe",
+    "cylindres": 6,
+    "cylindree_cm3": 6240,
+    "couple_nm": 466,
+    "poids_kg": 6360,
+    "qualites": [
+      "Six-cylindres turbo puissant",
+      "Turbomatik : arrêt à la seule pédale de frein, redémarrage à l'accélérateur",
+      "Finition haut de gamme, « construit comme un char d'assaut » (Southern Star)"
+    ],
+    "defauts": [
+      "Prix élevé, qui rendait ces Fendt relativement rares"
+    ],
+    "reputation": "Tracteur haut de gamme réputé pour la qualité de sa fabrication, son équipement et sa fiabilité, mais cher (Southern Star).",
+    "histoire": "Successeur du Favorit 614 SA, considéré comme le précurseur de la nouvelle génération de gros tracteurs Fendt, le 614 LS Turbomatik arrive en 1977. Il passe à 145 ch en 1980 et est remplacé en 1984.",
+    "anecdote": "En trois ans, entre 1977 et 1980, son prix catalogue est passé de 79 930 DM à 112 955 DM, pendant que la puissance montait de 135 à 145 ch.",
+    "versions": "135 ch (1977), puis 145 ch (1980) ; nouvelle cabine en 1979 ; quatre roues motrices avec pont avant ZF.",
+    "usine": "",
+    "serie": "Favorit 600, génération LS / LSA Turbomatik",
+    "nombre_produit": "1 180 exemplaires (614 LSA)",
+    "alesage_course": "105 × 120 mm",
+    "regime": "2 400 tr/min (145 ch à partir de 1980)",
+    "refroidissement": "Liquide",
+    "vitesses": "Boîte ZF synchronisée 16 AV / 7 AR avec rampantes, coupleur Turbomatik",
+    "vitesse_min_kmh": 0.9,
+    "vitesse_max_kmh": 30,
+    "prise_de_force": "Sous charge, 540 et 1 000 tr/min ; prise de force avant en option",
+    "relevage": "Catégorie III, 5 800 kg (6 570 kg à partir de 1980)",
+    "dimensions": "4 684 × 2 420 × 2 890 mm, empattement 2 715 mm",
+    "pneus": "",
+    "reservoir_l": 222,
+    "prix_epoque": "79 930 DM (1977) ; 112 955 DM (1980)",
+    "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/commons-fendt-favorit-614ls-1.jpg": {
+        "auteur": "Dirk Pauluweit",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Fendt_Favorit_614_LS_Turbomatik.jpg"
+      }
+    },
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Fendt_Favorit_614_LS",
+      "https://www.koneviesti.fi/en/konedata/traktorit/fendt/fendt-favorit-600-ls-615-ls-1979-84",
+      "https://www.southernstar.ie/subscriber-exclusives/farm-classics-the-fendt-favorit-610sl-4343488",
+      "https://commons.wikimedia.org/wiki/File:Fendt_Favorit_614_LS_Turbomatik.jpg"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "ford-7600",
+    "modele": "7600",
+    "surnom": "",
+    "constructeur": "ford",
+    "photos": [],
+    "debut": 1975,
+    "fin": 1981,
+    "pays": "Royaume-Uni",
+    "puissance_ch": 94,
+    "moteur": "Ford 256, diesel turbocompressé à injection directe (4,4 L à partir de fin 1980)",
+    "cylindres": 4,
+    "cylindree_cm3": 4195,
+    "couple_nm": 361,
+    "poids_kg": 3300,
+    "qualites": [
+      "Moteur turbo vif",
+      "Cabine Q assez silencieuse pour écouter la radio",
+      "Assez puissant pour une ensileuse, assez maniable pour racler une cour"
+    ],
+    "defauts": [
+      "Blocs moteur poreux (eau dans l'huile), généralement remplacés sous garantie",
+      "Rouille autour du pare-brise et des montants de cabine"
+    ],
+    "reputation": "Selon Southern Star, il a « établi la référence » des tracteurs de moyenne puissance de son époque.",
+    "histoire": "La série 600 remplace la série 1000 fin 1975 ; le 7600 succède au Ford 7000, premier tracteur turbo britannique. La cabine Q apparaît à l'été 1976.",
+    "anecdote": "Pour vanter l'insonorisation de sa cabine Q, Ford affirmait que le décollage d'un Boeing 747 à l'extérieur, à 145 dB, ne s'entendait plus qu'à 85 dB dans la cabine.",
+    "versions": "Deux et quatre roues motrices, boîte 8/2 ou 16/4 Dual Power, cabine Q silencieuse à partir de 1976, moteur 4,4 L fin 1980 ; remplacé par le 7610.",
+    "usine": "Basildon, Essex (Angleterre)",
+    "serie": "Série 600",
+    "nombre_produit": "",
+    "alesage_course": "112 × 107 mm",
+    "regime": "2 100 tr/min",
+    "refroidissement": "Liquide",
+    "vitesses": "8 AV / 2 AR ou 16 AV / 4 AR avec Dual Power sous charge",
+    "vitesse_min_kmh": 2.0,
+    "vitesse_max_kmh": 29.1,
+    "prise_de_force": "Indépendante, 540 et 1 000 tr/min",
+    "relevage": "Catégorie II, 2 700 kg (4 260 kg avec vérin d'assistance)",
+    "dimensions": "3 689 × 2 051 × 2 537 mm, empattement 2 223 mm",
+    "pneus": "",
+    "reservoir_l": 75,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "sources": [
+      "https://www.tractordata.com/farm-tractors/000/2/7/277-ford-7600.html",
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Ford_7600",
+      "https://www.koneviesti.fi/en/konedata/traktorit/ford/ford-5600-7600",
+      "https://www.southernstar.ie/farming/farm-classics-the-ford-7600-delivered-bubble-cab-bliss-4224403",
+      "https://www.agriland.co.uk/farming-news/classic-corner-a-true-blue-all-decked-out-with-a-comfy-q/"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "deutz-dx-110",
+    "modele": "DX 110",
+    "surnom": "",
+    "constructeur": "deutz",
+    "photos": [
+      "assets/img/tracteurs/commons-deutz-dx-110-1.jpg"
+    ],
+    "debut": 1978,
+    "fin": 1983,
+    "pays": "Allemagne",
+    "puissance_ch": 102,
+    "moteur": "Deutz F6L 912, diesel atmosphérique à injection directe",
+    "cylindres": 6,
+    "cylindree_cm3": 5652,
+    "couple_nm": 349,
+    "poids_kg": 4900,
+    "qualites": [
+      "Relevage de 5 150 kg, parmi les meilleurs de son époque",
+      "Cabine MasterCab à plancher plat, lumineuse",
+      "Six-cylindres refroidi par air, sans circuit d'eau"
+    ],
+    "defauts": [
+      "Cabine bruyante (85 dB)",
+      "Faible réserve de couple"
+    ],
+    "reputation": "La série DX est considérée comme la dernière génération de tracteurs « purement mécaniques » de Deutz, et la première vendue sous le logo Deutz-Fahr.",
+    "histoire": "Présenté à l'automne 1978 avec les autres DX, le DX 110 remplace le D 10006 de la série 06. La série a été conçue d'emblée pour la transmission intégrale.",
+    "anecdote": "La cabine MasterCab de la série DX s'inspire de celle du porte-outils Deutz Intrac. Aux États-Unis, la gamme a aussi été vendue sous la marque Deutz-Allis.",
+    "versions": "Deux et quatre roues motrices, cabine MasterCab, blocage automatique du différentiel avant en 1980, nouvelle boîte en 1982 ; remplacé par le DX 6.10 en 1983.",
+    "usine": "",
+    "serie": "Deutz DX, première génération",
+    "nombre_produit": "",
+    "alesage_course": "100 × 120 mm",
+    "regime": "2 300 tr/min",
+    "refroidissement": "Air",
+    "vitesses": "12 AV / 4 AR ou 15 AV / 5 AR synchronisées ; rampantes en option",
+    "vitesse_min_kmh": 2.0,
+    "vitesse_max_kmh": 30,
+    "prise_de_force": "Indépendante, sous charge, 540 et 1 000 tr/min",
+    "relevage": "Catégorie II, environ 5 150 kg ; relevage avant en option",
+    "dimensions": "Longueur environ 4 460 mm, largeur 2 300 mm, empattement 2 683 mm (4 RM)",
+    "pneus": "AV 12.4-24 ; AR 18.4-38",
+    "reservoir_l": 120,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/commons-deutz-dx-110-1.jpg": {
+        "auteur": "Alf van Beem",
+        "licence": "CC0 1.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Deutz_DX110.JPG"
+      }
+    },
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Deutz-Fahr_DX_110",
+      "https://koneviesti.fi/en/konedata/traktorit/deutz/deutz-dx-85-dx-110",
+      "https://de.wikipedia.org/wiki/Deutz_DX",
+      "https://www.agriland.co.uk/farming-news/classic-corner-straight-lines-and-sharp-angles-adorn-this-gleaming-dx/",
+      "https://commons.wikimedia.org/wiki/File:Deutz_DX110.JPG"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "fiat-880-dt",
+    "modele": "880 DT",
+    "surnom": "",
+    "constructeur": "fiat",
+    "photos": [
+      "assets/img/tracteurs/commons-fiat-880-dt-1.jpg"
+    ],
+    "debut": 1975,
+    "fin": 1980,
+    "pays": "Italie",
+    "puissance_ch": 88,
+    "moteur": "Fiat / OM CO3/130, diesel atmosphérique",
+    "cylindres": 4,
+    "cylindree_cm3": 4562,
+    "couple_nm": 295,
+    "poids_kg": 4310,
+    "qualites": [
+      "Plateforme montée sur silentblocs, une première mondiale pour la série 80",
+      "Freins à disques à bain d'huile, direction hydrostatique"
+    ],
+    "defauts": [
+      "Couple jugé assez faible pour la cylindrée",
+      "Cabine dépassée au début des années 1980"
+    ],
+    "reputation": "Pilier de la série 80, la gamme qui a introduit chez Fiat la plateforme suspendue et la cabine Pininfarina.",
+    "histoire": "Deuxième modèle de la série 80 lancée en 1975, le 880 DT reçoit une cabine Pininfarina et un relevage renforcé en 1978, puis cède la place au 880 DT 5 à moteur cinq cylindres en 1980.",
+    "anecdote": "Les Fiat 780 et 880 de 1975 sont présentés comme les premiers tracteurs au monde à recevoir une plateforme de conduite suspendue sur silentblocs. Après le rachat de l'américain Hesston, le 880 a aussi été vendu outre-Atlantique sous le nom Hesston-Fiat.",
+    "versions": "880 (deux roues motrices) et 880 DT (quatre roues motrices). Cabine Pininfarina à partir de 1978. En 1980, le moteur quatre cylindres est remplacé par un cinq cylindres Fiat de 88 ch : c'est le 880 DT 5 (1980-1984), que montrent les photos.",
+    "usine": "",
+    "serie": "Série 80",
+    "nombre_produit": "",
+    "alesage_course": "110 × 120 mm",
+    "regime": "2 400 tr/min",
+    "refroidissement": "",
+    "vitesses": "8 AV / 2 AR ; 12 AV / 3 AR en option ; 16 AV / 4 AR à partir de 1978",
+    "vitesse_min_kmh": 1.8,
+    "vitesse_max_kmh": 25,
+    "prise_de_force": "540 et 1 000 tr/min, et proportionnelle à l'avancement",
+    "relevage": "Catégorie II, 2 090 kg puis 2 820 kg à partir de 1978",
+    "dimensions": "4 160 × 1 980 × 2 650 mm, empattement 2 420 mm",
+    "pneus": "",
+    "reservoir_l": 106,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/commons-fiat-880-dt-1.jpg": {
+        "auteur": "Cjp24",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Fiat_880_DT5,_1983_(1).jpg"
+      }
+    },
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Fiat_880/880_DT",
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Fiat_880_DT_5",
+      "https://koneviesti.fi/en/konedata/traktorit/fiat-fiatagri/fiat-880-980",
+      "https://fr.wikipedia.org/wiki/Fiat_Trattori",
+      "https://commons.wikimedia.org/wiki/File:Fiat_880_DT5,_1983_(1).jpg"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "mercedes-mb-trac-1000",
+    "modele": "MB-trac 1000",
+    "surnom": "",
+    "constructeur": "mercedes-benz",
+    "photos": [
+      "assets/img/tracteurs/commons-mercedes-mb-trac-1000-1.jpg"
+    ],
+    "debut": 1982,
+    "fin": 1991,
+    "pays": "Allemagne",
+    "puissance_ch": 95,
+    "moteur": "Mercedes-Benz OM 352, diesel atmosphérique (OM 366 à partir de 1987)",
+    "cylindres": 6,
+    "cylindree_cm3": 5675,
+    "couple_nm": 324,
+    "poids_kg": 4500,
+    "qualites": [
+      "Quatre roues égales motrices, essieux portiques, blocages de différentiel avant et arrière",
+      "40 km/h : l'un des premiers tracteurs capables de rouler à cette vitesse",
+      "Freins à disques sur les quatre roues, relevages avant et arrière"
+    ],
+    "defauts": [
+      "Prix élevé (103 429 DM en 1982)",
+      "Essieu arrière fixe"
+    ],
+    "reputation": "Tracteur « culte », encore très apprécié des collectionneurs (Farmers Journal).",
+    "histoire": "Le concept MB-trac naît en 1968 : un tracteur à quatre roues égales, cabine centrale et transmission dérivée de l'Unimog, produit à Gaggenau dès 1973. Le MB-trac 1000 arrive en 1982 ; toute la gamme s'arrête le 17 décembre 1991.",
+    "anecdote": "Avec sa cabine centrale, le MB-trac a vite été surnommé « Telefonzelle » (la cabine téléphonique) en Allemagne. Un MB-trac 1000 de 1986, converti à l'huile de colza, a servi de tracteur d'essai à l'université de Hohenheim jusqu'en 2002 ; il est aujourd'hui exposé au musée allemand de l'agriculture.",
+    "versions": "Type 441.161 (OM 352, 95 ch, 4 346 exemplaires, 1982-1987) et 441.162 (OM 366, 100 ch, 2 613 exemplaires, 1987-1991).",
+    "usine": "Gaggenau (Bade-Wurtemberg)",
+    "serie": "MB-trac, série moyenne 441",
+    "nombre_produit": "6 959 exemplaires",
+    "alesage_course": "",
+    "regime": "2 400 tr/min (100 ch à partir de 1987)",
+    "refroidissement": "Eau",
+    "vitesses": "16 AV / 8 AR ; rampantes en option",
+    "vitesse_min_kmh": "",
+    "vitesse_max_kmh": 40,
+    "prise_de_force": "",
+    "relevage": "Attelages trois points à l'arrière (4 700 kg) et à l'avant (2 500 kg)",
+    "dimensions": "Longueur environ 4 460 mm, largeur 2 170 mm, empattement 2 600 mm",
+    "pneus": "16.9 R26 à l'avant et à l'arrière (quatre roues égales)",
+    "reservoir_l": 135,
+    "prix_epoque": "103 429 DM au lancement en 1982",
+    "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/commons-mercedes-mb-trac-1000-1.jpg": {
+        "auteur": "Joost J. Bakker",
+        "licence": "CC BY 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:MB_trac_1000,_side_by_side.jpg"
+      }
+    },
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Mercedes-Benz_MB_trac_1000",
+      "https://en.wikipedia.org/wiki/MB-trac",
+      "https://www.farmersjournal.ie/gone-but-not-forgotten-the-iconic-mb-trac-257135",
+      "https://commons.wikimedia.org/wiki/File:MB_trac_1000,_side_by_side.jpg"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "zetor-crystal-8011",
+    "modele": "Crystal 8011",
+    "surnom": "",
+    "constructeur": "zetor",
+    "photos": [
+      "assets/img/tracteurs/commons-zetor-crystal-8011-1.jpg",
+      "assets/img/tracteurs/commons-zetor-crystal-8011-2.jpg"
+    ],
+    "debut": 1969,
+    "fin": 1984,
+    "pays": "Tchécoslovaquie",
+    "puissance_ch": 80,
+    "moteur": "Zetor Z 8001, diesel atmosphérique à injection directe",
+    "cylindres": 4,
+    "cylindree_cm3": 4561,
+    "couple_nm": 266,
+    "poids_kg": 3906,
+    "qualites": [
+      "Consommation faible (essai officiel finlandais de 1975)",
+      "Cabine de sécurité intégrée, spacieuse et chaude, grand pare-brise d'une pièce",
+      "Compresseur d'air et freinage pneumatique de remorque en série"
+    ],
+    "defauts": [
+      "Très faible réserve de couple",
+      "Commandes éloignées du conducteur",
+      "Finition inférieure aux tracteurs britanniques ou allemands"
+    ],
+    "reputation": "Tracteur réputé simple, robuste et capable de tout faire ; sa cabine à plancher plat représentait selon Koneviesti « le summum de l'époque ».",
+    "histoire": "Développé de 1964 à 1968 avec Ursus, le Crystal 8011 est lancé en 1969 : c'est le premier modèle de la gamme UR II. La version quatre roues motrices 8045 arrive en 1972.",
+    "anecdote": "Aux États-Unis, le Crystal a d'abord été vendu sous le nom de Westmac 900. Développé avec le polonais Ursus, il a pour quasi-jumeau l'Ursus C-385.",
+    "versions": "8011 (deux roues motrices) et 8045 (quatre roues motrices, 1972) ; dérivés six-cylindres 12011 et 12045.",
+    "usine": "Brno (transfert partiel à Martin, en Slovaquie, en 1981)",
+    "serie": "Zetor Crystal (gamme UR II)",
+    "nombre_produit": "37 777 exemplaires (8011 et 8045)",
+    "alesage_course": "110 × 120 mm",
+    "regime": "2 200 tr/min",
+    "refroidissement": "Eau",
+    "vitesses": "16 AV / 8 AR avec doubleur de couple passable en marche",
+    "vitesse_min_kmh": 1.8,
+    "vitesse_max_kmh": 25,
+    "prise_de_force": "540 et 1 000 tr/min, embrayage hydraulique séparé",
+    "relevage": "Catégorie II, environ 2 200 à 3 000 kg selon le point de mesure",
+    "dimensions": "4 140 × 1 964 × 2 445 mm",
+    "pneus": "AV 7.50-20 ; AR 16.9-34",
+    "reservoir_l": 90,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/commons-zetor-crystal-8011-1.jpg": {
+        "auteur": "Mutney",
+        "licence": "CC0 1.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Zetor_Crystal_8011_tractor,_Rosudgeon_Vintage_Rally,_Cornwall_-_September_2024.jpg"
+      },
+      "assets/img/tracteurs/commons-zetor-crystal-8011-2.jpg": {
+        "auteur": "Raf24",
+        "licence": "CC BY 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Zetor_8011,_PIA.jpg"
+      }
+    },
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Zetor_8011/8045",
+      "https://koneviesti.fi/en/konedata/traktorit/zetor-zts/zetor-crystal-8011-16045",
+      "https://www.farmersjournal.ie/amp/machinery/vintage/zetor-crystal-often-overlooked-for-what-it-delivered-285421",
+      "https://commons.wikimedia.org/wiki/File:Zetor_Crystal_8011_tractor,_Rosudgeon_Vintage_Rally,_Cornwall_-_September_2024.jpg",
+      "https://commons.wikimedia.org/wiki/File:Zetor_8011,_PIA.jpg"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "renault-145-14-tx",
+    "modele": "145-14 TX",
+    "surnom": "",
+    "constructeur": "renault",
+    "photos": [],
+    "debut": 1981,
+    "fin": 1986,
+    "pays": "France",
+    "puissance_ch": 135,
+    "moteur": "MWM TD 228-6, diesel turbocompressé",
+    "cylindres": 6,
+    "cylindree_cm3": 6234,
+    "couple_nm": 430,
+    "poids_kg": 6170,
+    "qualites": [
+      "Plus grosse puissance et plus fort relevage de la série TX",
+      "Cabine TX, première cabine silencieuse de Renault, avec siège pivotant et volant réglable",
+      "Conception modulaire qui facilite l'entretien"
+    ],
+    "defauts": [
+      "Bruit en cabine encore de 85 dB",
+      "Freins à disques à sec"
+    ],
+    "reputation": "Haut de gamme de la série TX de 1981, produit en petit nombre ; sa cabine a marqué l'histoire de Renault Agriculture.",
+    "histoire": "Renault présente début 1981 une gamme entièrement nouvelle, la série TX, à moteurs MWM. Le 145-14 TX, six-cylindres turbo, en est le modèle de tête, produit jusqu'en 1986.",
+    "anecdote": "Pour une raison inconnue, les désignations des Renault TX dépassaient d'environ 10 unités la puissance réelle : le « 145 » développait 135 ch (Koneviesti). La cabine TX, jugée porteuse de nombreux progrès, était encore montée en 2000 sur le Renault Temis.",
+    "versions": "Uniquement en quatre roues motrices, climatisation en option. Remplacé par le 145-14 de 1986-1989.",
+    "usine": "",
+    "serie": "Série TX (type R 7942), quatre roues motrices uniquement",
+    "nombre_produit": "1 369 exemplaires",
+    "alesage_course": "105 × 120 mm",
+    "regime": "2 350 tr/min",
+    "refroidissement": "Eau",
+    "vitesses": "12 AV / 12 AR synchronisées avec inverseur mécanique ; réducteur rampant en option",
+    "vitesse_min_kmh": 1.2,
+    "vitesse_max_kmh": 30,
+    "prise_de_force": "Indépendante, 540 et 1 000 tr/min",
+    "relevage": "Catégorie II/III, environ 4 900 à 5 300 kg selon les sources",
+    "dimensions": "4 723 × 2 055 × 2 884 mm, empattement 2 740 mm",
+    "pneus": "AV 16.9-28 ; AR 18.4-38",
+    "reservoir_l": 200,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Renault_145-14_TX/RE_R7942",
+      "https://koneviesti.fi/en/konedata/traktorit/renault/renault-95-12-tx-145-14-tx",
+      "https://www.tractordata.com/farm-tractors/004/3/3/4336-renault-145-14-tx.html",
+      "https://fr.wikipedia.org/wiki/Renault_Agriculture"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "zetor-7045",
+    "modele": "7045",
+    "surnom": "",
+    "constructeur": "zetor",
+    "photos": [],
+    "debut": 1980,
+    "fin": 1984,
+    "pays": "Tchécoslovaquie",
+    "puissance_ch": 65,
+    "moteur": "Zetor Z 7001, diesel à injection directe",
+    "cylindres": 4,
+    "cylindree_cm3": 3595,
+    "couple_nm": 200,
+    "poids_kg": 3430,
+    "qualites": [
+      "Consommation satisfaisante (4,2 l/h en moyenne sur 1 000 h d'essai)",
+      "Nombreuses vitesses lentes",
+      "Rayon de braquage assez court pour un quatre roues motrices"
+    ],
+    "defauts": [
+      "Fortes vibrations de la cabine vers 1 500 tr/min",
+      "Cabine mal chauffée, accès difficile",
+      "Fuites d'huile et petites casses pendant l'essai d'endurance"
+    ],
+    "reputation": "Tracteur simple et rustique ; l'institut finlandais VAKOLA a jugé ses performances et sa durabilité « satisfaisantes » après 1 000 heures d'essai.",
+    "histoire": "Le 7045 est la version quatre roues motrices du 7011, dans la série « 10 » qui modernise la gamme UR I à partir de 1980. Il est construit à Brno jusqu'en 1984.",
+    "anecdote": "En 1982, un 7045 a passé 1 000 heures d'essai officiel en Finlande : labour, semis, transport, débardage forestier. La cabine chauffait mal parce que le moteur tournait trop froid ; un nouveau thermostat a fait passer sa température moyenne de 6,7 °C à 18,1 °C par grand froid.",
+    "versions": "7011 (deux roues motrices) et 7045 (quatre roues motrices, pont avant à réducteurs planétaires). La série 10 remplace la série 9 (6911/6945) avec une nouvelle peinture, des moteurs plus économiques et une cabine plus confortable.",
+    "usine": "Brno",
+    "serie": "Zetor UR I, série « 10 » (5011, 6011, 7011/7045)",
+    "nombre_produit": "",
+    "alesage_course": "102 × 110 mm",
+    "regime": "2 200 tr/min",
+    "refroidissement": "Eau",
+    "vitesses": "10 AV / 2 AR ; 20 AV / 4 AR avec doubleur de couple en option",
+    "vitesse_min_kmh": "",
+    "vitesse_max_kmh": 25,
+    "prise_de_force": "540 tr/min et proportionnelle à l'avancement",
+    "relevage": "Catégorie II, contrôle de position et d'effort, environ 1 700 à 1 800 kg",
+    "dimensions": "3 720 × 1 980 × 2 650 mm, empattement 2 230 mm",
+    "pneus": "AV 11.2-24 ; AR 16.9-30",
+    "reservoir_l": 70,
+    "prix_epoque": "100 200 marks finlandais (Finlande, 1983)",
+    "cote_collection": "",
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Zetor_7011",
+      "https://www.tractordata.com/farm-tractors/007/3/3/7330-zetor-7045.html",
+      "https://jukuri.luke.fi/handle/10024/484025"
+    ],
+    "verifie": false
   }
 ];

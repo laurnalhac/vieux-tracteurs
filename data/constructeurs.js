@@ -176,5 +176,23 @@ window.CONSTRUCTEURS = [
     "fondation": 1919,
     "fin": 1993,
     "histoire": "Fiat produit son premier tracteur de série, le 702 de 30 ch, en 1919, et installe la fabrication des tracteurs à Modène en 1928. La division devient Fiat Trattori en 1974, puis prend le nom de Fiatagri au milieu des années 1980. Elle rachète Ford New Holland en 1991, et les deux sociétés fusionnent en 1993 sous le nom de Fiat New Holland. La production annuelle a atteint 74 072 tracteurs en 1979."
+  },
+  {
+    "id": "john-deere",
+    "marque": "John Deere",
+    "nom": "John Deere (Deere & Company)",
+    "pays": "États-Unis",
+    "fondation": 1837,
+    "fin": null,
+    "histoire": "Fondée en 1837 par le forgeron John Deere, inventeur d'une charrue en acier, Deere & Company rachète en 1918 la Waterloo Gasoline Engine Company (Iowa), point de départ de sa production de tracteurs. En 1956, elle prend le contrôle de Heinrich Lanz AG et de son usine de Mannheim, qui devient John Deere-Lanz en 1960 et produit les John Deere européens."
+  },
+  {
+    "id": "mercedes-benz",
+    "marque": "Mercedes-Benz",
+    "nom": "Mercedes-Benz (MB-trac)",
+    "pays": "Allemagne",
+    "fondation": 1926,
+    "fin": null,
+    "histoire": "Daimler-Benz, née en 1926, acquiert les droits de l'Unimog en 1951 et le produit à Gaggenau. C'est dans cette usine qu'est développé le MB-trac, tracteur à cabine centrale et quatre roues égales qui partage la transmission de l'Unimog, produit de 1973 au 17 décembre 1991 à environ 41 000 exemplaires."
   }
 ];

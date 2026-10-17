@@ -3,6 +3,7 @@
   var PAGES = [
     ["index.html", "Catalogue"],
     ["constructeurs.html", "Constructeurs"],
+    ["selection-70-80.html", "Sélection 70-80"],
     ["technique-moteur.html", "Technique"],
     ["proposer.html", "Proposer un tracteur"],
     ["boutique.html", "Boutique"]

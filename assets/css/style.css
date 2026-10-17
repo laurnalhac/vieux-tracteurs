@@ -155,3 +155,12 @@ input:focus, select:focus, textarea:focus { outline: 2px solid var(--or); outlin
 
 .credit { font-size: .8rem; color: var(--gris); margin: .35rem 0 0; }
 .credit:empty { display: none; }
+
+/* Sélection */
+.selection { list-style: none; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1.1rem; counter-reset: rang; }
+.selection li { counter-increment: rang; position: relative; }
+.selection li::before { content: counter(rang); position: absolute; z-index: 1; top: .5rem; left: .5rem; background: var(--rouille); color: var(--paille); font-family: Georgia, serif; font-weight: bold; width: 2rem; height: 2rem; border-radius: 50%; display: grid; place-items: center; }
+.selection-carte { height: 100%; }
+.selection-carte p { margin: 0; font-size: .92rem; }
+.selection-carte .meta { margin: 0; }
+.vignette:empty::after { content: "Pas de photo libre"; display: grid; place-items: center; height: 100%; color: var(--gris); font-size: .9rem; }
