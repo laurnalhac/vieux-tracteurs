@@ -12,7 +12,6 @@ Site 100 % statique (HTML, CSS, JavaScript, sans framework, sans étape de compi
 | `technique-moteur.html` | Technique : moteur diesel, semi-diesel, refroidissement, embrayage, boîte, prise de force |
 | `technique-relevage.html` | Technique : relevage hydraulique trois points et contrôle d'effort (Harry Ferguson) |
 | `proposer.html` | Formulaire qui ouvre une issue GitHub préremplie (label `proposition`) |
-| `boutique.html` | Page d'attente de la boutique |
 | `data/tracteurs.js` | Données des tracteurs (`window.TRACTEURS`) |
 | `data/constructeurs.js` | Données des constructeurs (`window.CONSTRUCTEURS`) |
 | `assets/js/config.js` | Nom du dépôt GitHub (utilisé par le formulaire de proposition) |

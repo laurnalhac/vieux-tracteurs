@@ -5,8 +5,7 @@
     ["constructeurs.html", "Constructeurs"],
     ["selection-70-80.html", "Sélection 70-80"],
     ["technique-moteur.html", "Technique"],
-    ["proposer.html", "Proposer un tracteur"],
-    ["boutique.html", "Boutique"]
+    ["proposer.html", "Proposer un tracteur"]
   ];
 
   var courante = location.pathname.split("/").pop() || "index.html";
