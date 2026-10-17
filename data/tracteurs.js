@@ -3615,5 +3615,67 @@ window.TRACTEURS = [
       "https://commons.wikimedia.org/wiki/File:JohnDeereSilage.JPG"
     ],
     "verifie": false
+  },
+  {
+    "id": "john-deere-4040",
+    "modele": "4040",
+    "surnom": "",
+    "constructeur": "john-deere",
+    "photos": [
+      "assets/img/tracteurs/laurent-john-deere-4040-1.jpg"
+    ],
+    "debut": 1977,
+    "fin": 1982,
+    "pays": "États-Unis",
+    "puissance_ch": 90,
+    "moteur": "John Deere six cylindres diesel à injection directe, 6,6 L, atmosphérique (version de Waterloo)",
+    "cylindres": 6,
+    "cylindree_cm3": 6600,
+    "couple_nm": null,
+    "poids_kg": 4758,
+    "qualites": [
+      "Moteur fiable et facile à démarrer",
+      "Cabine Sound-Gard de série (80 dB, chauffage et climatisation)",
+      "Machine robuste dans l'ensemble",
+      "Choix de transmissions, dont un powershift intégral"
+    ],
+    "defauts": [
+      "Cabine jugée exiguë",
+      "Pare-brise bombé et montant central qui gênent la vue",
+      "Une seule portière, accès difficile"
+    ],
+    "reputation": "Le Farmers Journal décrit les tracteurs de la série 40 comme « généralement fiables et robustes », aux moteurs sûrs ; seules les cabines étaient critiquées. Ils sont aujourd'hui recherchés par les collectionneurs.",
+    "histoire": "Le 4040 succède au 4030 dans la gamme « New Iron Horses » présentée fin 1977. Il est produit à Waterloo jusqu'en 1982, puis remplacé par le 4050. À Mannheim, John Deere assemble une version européenne à moteur turbo de 5,9 L (110 ch DIN) jusqu'en 1984-1985, complétée par le 4040 S.",
+    "anecdote": "Selon le Farmers Journal, le pare-brise bombé de la cabine Sound-Gard « avait autant de détracteurs que d'admirateurs », et beaucoup de conducteurs trouvaient la cabine à l'étroit. Au banc d'essai du Nebraska, en novembre 1977, un 4040 Quad-Range a développé 90,8 ch à la prise de force.",
+    "versions": "4040 Syncro-Range, Quad-Range ou Power Shift ; pont avant hydrostatique en option (Waterloo). Version européenne de Mannheim : moteur John Deere 6.359 turbo de 5,9 L, 110 ch DIN, 405 N·m, deux ou quatre roues motrices, environ 5 070 kg ; puis 4040 S (1981-1984, 115 ch, quatre roues motrices mécanique).",
+    "usine": "Waterloo, Iowa (États-Unis) ; version européenne à Mannheim (Allemagne)",
+    "serie": "Série 40 « New Iron Horses » (4040, 4240, 4440, 4640, 4840)",
+    "alesage_course": "108 × 121 mm (Waterloo)",
+    "regime": "2 200 tr/min (90 ch à la prise de force)",
+    "refroidissement": "Liquide",
+    "vitesses": "Quad-Range 16 AV / 6 AR, Syncro-Range 8 AV / 2 AR ou Power Shift 8 AV / 4 AR",
+    "vitesse_min_kmh": 3.34,
+    "vitesse_max_kmh": 30,
+    "prise_de_force": "Indépendante, embrayage hydraulique, 540 et 1 000 tr/min",
+    "relevage": "Catégorie II/I ; environ 1 960 kg (2 450 kg en option) sur la version de Waterloo, plus sur la version de Mannheim",
+    "dimensions": "Waterloo : 3 890 × 2 430 × 2 780 mm, empattement 2 640 mm",
+    "pneus": "AR 18.4-38",
+    "reservoir_l": 140,
+    "prix_epoque": "29 992 à 36 549 $ en 1982 selon l'équipement (TractorData)",
+    "credits": {
+      "assets/img/tracteurs/laurent-john-deere-4040-1.jpg": {
+        "auteur": "Laurent",
+        "licence": "tous droits réservés"
+      }
+    },
+    "sources": [
+      "https://tractordata.com/farm-tractors/000/0/9/94-john-deere-4040.html",
+      "https://tractordata.com/farm-tractors/000/0/9/94-john-deere-4040-tests.html",
+      "https://www.tractordata.com/farm-tractors/008/9/9/8993-john-deere-4040.html",
+      "https://www.tractordata.com/farm-tractors/005/0/0/5002-john-deere-4040s.html",
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_John_Deere_4040",
+      "https://www.farmersjournal.ie/machinery/vintage/john-deere-40-and-50-series-tractors-151708"
+    ],
+    "verifie": false
   }
 ];
