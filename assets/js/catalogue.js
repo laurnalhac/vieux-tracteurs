@@ -32,7 +32,7 @@
   function remplir(select, valeurs, libelle) {
     valeurs.forEach(function (v) {
       var o = document.createElement("option");
-      o.value = v[0] != null ? v[0] : v;
+      o.value = Array.isArray(v) ? v[0] : v;
       o.textContent = libelle ? libelle(v) : v;
       select.appendChild(o);
     });
@@ -110,7 +110,8 @@
   }
 
   Object.keys(champs).forEach(function (k) {
-    champs[k].addEventListener(k === "q" ? "input" : "change", rendre);
+    champs[k].addEventListener("input", rendre);
+    if (k !== "q") champs[k].addEventListener("change", rendre);
   });
   document.getElementById("f-effacer").addEventListener("click", function () {
     Object.keys(champs).forEach(function (k) { champs[k].value = ""; });
