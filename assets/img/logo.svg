@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Vieux Tracteurs, catalogue de référence">
+  <defs>
+    <path id="arc-haut" d="M 30 100 A 70 70 0 0 1 170 100"/>
+    <path id="arc-bas" d="M 24 100 A 76 76 0 0 0 176 100"/>
+  </defs>
+  <circle cx="100" cy="100" r="98" fill="#7a2e1f"/>
+  <circle cx="100" cy="100" r="88" fill="#f3e6c8"/>
+  <circle cx="100" cy="100" r="88" fill="none" stroke="#c8a24a" stroke-width="2"/>
+  <circle cx="100" cy="100" r="55" fill="#c8a24a"/>
+  <circle cx="100" cy="100" r="55" fill="none" stroke="#7a2e1f" stroke-width="2"/>
+  <text font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#7a2e1f" letter-spacing="2">
+    <textPath href="#arc-haut" startOffset="50%" text-anchor="middle">VIEUX TRACTEURS</textPath>
+  </text>
+  <text font-family="Georgia, serif" font-size="11" fill="#7a2e1f" letter-spacing="1.5">
+    <textPath href="#arc-bas" startOffset="50%" text-anchor="middle">CATALOGUE DE RÉFÉRENCE</textPath>
+  </text>
+  <g fill="#2b2118">
+    <!-- cheminée -->
+    <rect x="86" y="68" width="5" height="20" rx="1"/>
+    <rect x="84" y="66" width="9" height="4" rx="1"/>
+    <!-- capot -->
+    <path d="M 70 88 L 112 88 L 114 106 L 68 106 Z"/>
+    <!-- poste de conduite -->
+    <path d="M 110 80 L 124 80 L 126 106 L 112 106 Z"/>
+    <rect x="113" y="74" width="12" height="3" rx="1.5"/>
+    <rect x="117" y="70" width="2" height="6"/>
+  </g>
+  <!-- roue arrière -->
+  <circle cx="122" cy="116" r="22" fill="#2b2118"/>
+  <circle cx="122" cy="116" r="13" fill="#c8a24a"/>
+  <circle cx="122" cy="116" r="4" fill="#2b2118"/>
+  <!-- roue avant -->
+  <circle cx="76" cy="124" r="13" fill="#2b2118"/>
+  <circle cx="76" cy="124" r="6" fill="#c8a24a"/>
+  <circle cx="76" cy="124" r="2.5" fill="#2b2118"/>
+</svg>

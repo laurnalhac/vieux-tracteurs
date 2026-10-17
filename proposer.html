@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Proposer un tracteur · Vieux Tracteurs</title>
+<meta name="description" content="Proposer un nouveau tracteur ou une correction pour le catalogue.">
+<link rel="icon" href="assets/img/logo.svg" type="image/svg+xml">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+<header id="entete"></header>
+<main class="conteneur">
+<h1>Proposer un tracteur</h1>
+<p class="aide">Remplissez ce formulaire : il ouvre une demande (« issue ») préremplie sur GitHub, que vous n'avez plus qu'à envoyer. Il faut un compte GitHub. Indiquez vos sources pour que la fiche puisse être vérifiée.</p>
+<form class="formulaire" id="proposition">
+  <label>Marque *<input name="marque" required></label>
+  <label>Modèle *<input name="modele" required></label>
+  <label>Années de production<input name="annees" placeholder="ex. 1958–1962"></label>
+  <label>Pays d'origine<input name="pays"></label>
+  <label>Puissance<input name="puissance" placeholder="ex. 35 ch"></label>
+  <label>Moteur<input name="moteur" placeholder="ex. MWM diesel 2 cylindres"></label>
+  <label class="large">Informations<textarea name="infos" rows="6" placeholder="Histoire, particularités, qualités et défauts…"></textarea></label>
+  <label class="large">Sources<textarea name="sources" rows="3" placeholder="Livres, sites, documents d'époque…"></textarea></label>
+  <div class="large"><button class="bouton" type="submit">Ouvrir la proposition sur GitHub</button></div>
+</form>
+</main>
+<footer id="pied"></footer>
+<script src="assets/js/config.js"></script>
+<script src="assets/js/commun.js"></script>
+<script src="assets/js/proposer.js"></script>
+</body>
+</html>

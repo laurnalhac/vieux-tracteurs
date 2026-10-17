@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Vieux Tracteurs · Catalogue de référence</title>
+<meta name="description" content="Catalogue de référence des tracteurs anciens : fiches, photos, caractéristiques et histoire des constructeurs.">
+<link rel="icon" href="assets/img/logo.svg" type="image/svg+xml">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+<header id="entete"></header>
+<main class="conteneur">
+<h1>Catalogue des tracteurs</h1>
+<p>Les tracteurs photographiés à Tractomania (Caussade, 2026), avec leurs caractéristiques et leur histoire.</p>
+<form class="filtres" onsubmit="return false" role="search">
+  <label>Recherche<input id="f-q" type="search" placeholder="Modèle, moteur, surnom…"></label>
+  <label>Marque<select id="f-marque"><option value="">Toutes</option></select></label>
+  <label>Période<select id="f-decennie"><option value="">Toutes</option></select></label>
+  <label>Pays d'origine<select id="f-pays"><option value="">Tous</option></select></label>
+  <label>Puissance<select id="f-puissance"><option value="">Toutes</option></select></label>
+  <div class="actions"><button type="button" class="bouton secondaire" id="f-effacer">Effacer les filtres</button></div>
+</form>
+<p class="compteur" id="compteur" aria-live="polite"></p>
+<div class="grille" id="grille"></div>
+</main>
+<footer id="pied"></footer>
+<script src="assets/js/config.js"></script>
+<script src="data/constructeurs.js"></script>
+<script src="data/tracteurs.js"></script>
+<script src="assets/js/commun.js"></script>
+<script src="assets/js/catalogue.js"></script>
+</body>
+</html>
