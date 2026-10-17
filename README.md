@@ -42,6 +42,7 @@ Les photos originales (`photos-tractomania-caussade-2026/`) ne sont pas publiée
   qualites: [], defauts: [],
   reputation: "", histoire: "",
   photos: ["assets/img/tracteurs/dsc09891.jpg"],
+  sources: ["https://…"],       // URL des sources, affichées en bas de la fiche
   verifie: false
 }
 ```
