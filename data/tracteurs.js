@@ -2273,6 +2273,12 @@ window.TRACTEURS = [
     "reservoir_l": 75,
     "prix_epoque": "",
     "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/laurent-ford-7600-1.jpg": {
+        "auteur": "Laurent",
+        "licence": "tous droits réservés"
+      }
+    },
     "sources": [
       "https://www.tractordata.com/farm-tractors/000/2/7/277-ford-7600.html",
       "https://de.wikibooks.org/wiki/Traktorenlexikon:_Ford_7600",
@@ -2280,13 +2286,7 @@ window.TRACTEURS = [
       "https://www.southernstar.ie/farming/farm-classics-the-ford-7600-delivered-bubble-cab-bliss-4224403",
       "https://www.agriland.co.uk/farming-news/classic-corner-a-true-blue-all-decked-out-with-a-comfy-q/"
     ],
-    "verifie": false,
-    "credits": {
-      "assets/img/tracteurs/laurent-ford-7600-1.jpg": {
-        "auteur": "Laurent",
-        "licence": "tous droits réservés"
-      }
-    }
+    "verifie": false
   },
   {
     "id": "deutz-dx-110",
@@ -2587,19 +2587,19 @@ window.TRACTEURS = [
     "reservoir_l": 200,
     "prix_epoque": "",
     "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/laurent-renault-145-14-tx-1.jpg": {
+        "auteur": "Laurent",
+        "licence": "tous droits réservés"
+      }
+    },
     "sources": [
       "https://de.wikibooks.org/wiki/Traktorenlexikon:_Renault_145-14_TX/RE_R7942",
       "https://koneviesti.fi/en/konedata/traktorit/renault/renault-95-12-tx-145-14-tx",
       "https://www.tractordata.com/farm-tractors/004/3/3/4336-renault-145-14-tx.html",
       "https://fr.wikipedia.org/wiki/Renault_Agriculture"
     ],
-    "verifie": false,
-    "credits": {
-      "assets/img/tracteurs/laurent-renault-145-14-tx-1.jpg": {
-        "auteur": "Laurent",
-        "licence": "tous droits réservés"
-      }
-    }
+    "verifie": false
   },
   {
     "id": "zetor-7045",
@@ -3675,6 +3675,574 @@ window.TRACTEURS = [
       "https://www.tractordata.com/farm-tractors/005/0/0/5002-john-deere-4040s.html",
       "https://de.wikibooks.org/wiki/Traktorenlexikon:_John_Deere_4040",
       "https://www.farmersjournal.ie/machinery/vintage/john-deere-40-and-50-series-tractors-151708"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "ford-3000",
+    "modele": "3000",
+    "surnom": "",
+    "constructeur": "ford",
+    "photos": [
+      "assets/img/tracteurs/commons-ford-3000-1.jpg"
+    ],
+    "debut": 1964,
+    "fin": 1975,
+    "pays": "Royaume-Uni",
+    "puissance_ch": 46,
+    "moteur": "Ford 175 DF (ND 2504 E), 3 cylindres en ligne diesel atmosphérique à injection directe ; version essence proposée",
+    "cylindres": 3,
+    "cylindree_cm3": 2861,
+    "couple_nm": 181,
+    "poids_kg": 1896,
+    "qualites": [
+      "Compact et léger (empattement 1,92 m)",
+      "PDF à double embrayage, PDF proportionnelle en option",
+      "Relevage à contrôle d'effort Ford"
+    ],
+    "defauts": [
+      "Boîte Select-O-Speed optionnelle jugée « avancée mais problématique »",
+      "Freins à tambour et direction mécanique de série"
+    ],
+    "reputation": "Le trois-cylindres de la gamme 1000, lancée en 1964 avec l'ouverture de l'usine de Basildon ; selon le Farmers Journal, ces nouveaux Ford furent « bien accueillis en Irlande, au Royaume-Uni et au-delà ».",
+    "histoire": "Héritier du Fordson Super Dexta, le 3000 est l'un des quatre modèles (2000, 3000, 4000, 5000) de la gamme 6X lancée en 1964 à Basildon, qui remplaçait Dagenham. En 1968, la gamme « Force » (6Y) abandonne l'appellation Super Dexta et modifie design, embrayage et commandes. Il est remplacé fin 1975 par le 3600 de la gamme 600.",
+    "anecdote": "",
+    "versions": "Super Dexta 3000 (1964-1968) ; 3000 « Force » (1968-1975, calandre modifiée en 1973) ; 3000 A à quatre roues motrices ; Diesel ou essence ; Select-O-Speed 10 vitesses ; Variantes nord-américaines 3100, 3300 vigneron, 3310 étroit",
+    "usine": "Basildon (Essex, Angleterre) ; également Anvers (Belgique) et Highland Park (Michigan, USA) selon TractorData (préfixe du n° de série A = Belgique, B = Angleterre, C = USA)",
+    "serie": "Gamme 1000 (6X « pré-Force » 1964-1968, puis 6Y « Force » 1968-1975)",
+    "nombre_produit": "",
+    "alesage_course": "106,68 × 106,68 mm (essence : 106,68 × 96,52 mm)",
+    "regime": "2 000 tr/min (essence 2 100 tr/min)",
+    "refroidissement": "Liquide",
+    "vitesses": "8 AV / 2 AR (gamme × 4 vitesses non synchronisées ; 7 AV/2 AR selon marchés) ; option Select-O-Speed 10 AV / 2 AR sous charge",
+    "vitesse_min_kmh": 2.7,
+    "vitesse_max_kmh": 29.0,
+    "prise_de_force": "540 tr/min, indépendante (débrayage à 2 étages), option PDF proportionnelle à l'avancement ; 540/1 000 tr/min avec Select-O-Speed",
+    "relevage": "Ford à contrôle d'effort par 3e point, catégorie I/II ; pompe 18,2 l/min à 176 bar ; 1 438 kg aux rotules (Traktorenlexikon)",
+    "dimensions": "L 3 230 × l 1 880 × h 1 490 mm (sans cabine) ; empattement 1 924 mm (4RM 2 075 mm)",
+    "pneus": "AV 5.50-16 (4RM 8.3-24) ; AR 12.4-28",
+    "reservoir_l": 49.2,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/commons-ford-3000-1.jpg": {
+        "auteur": "Jacek Rużyczka",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Ford_3000_closed-cab.JPG"
+      }
+    },
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Ford_3000",
+      "https://www.tractordata.com/farm-tractors/000/2/5/259-ford-3000.html",
+      "https://www.koneviesti.fi/en/konedata/traktorit/ford/ford-2000-5000-1964-68",
+      "https://www.koneviesti.fi/en/konedata/traktorit/ford/ford-2000-7000-1968-75",
+      "https://farmersjournal.ie/the-era-of-ford-tractors-and-farming-248771",
+      "https://commons.wikimedia.org/wiki/File:Ford_3000_closed-cab.JPG"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "ford-5000",
+    "modele": "5000",
+    "surnom": "",
+    "constructeur": "ford",
+    "photos": [
+      "assets/img/tracteurs/commons-ford-5000-1.jpg"
+    ],
+    "debut": 1964,
+    "fin": 1975,
+    "pays": "Royaume-Uni",
+    "puissance_ch": 75,
+    "moteur": "Ford 256 (ND 2514 E), 4 cylindres en ligne diesel atmosphérique à injection directe, pompe distributrice ; 3,8 l (ND 2508 E) jusqu'en 1968 ; version essence",
+    "cylindres": 4,
+    "cylindree_cm3": 4186,
+    "couple_nm": 248,
+    "poids_kg": 2519,
+    "qualites": [
+      "Freins à disques humides et réducteurs finaux planétaires",
+      "PDF indépendante de série",
+      "Direction assistée (modèles 1968-1975)"
+    ],
+    "defauts": [
+      "Blocs moteurs sujets à la porosité, beaucoup remplacés",
+      "Cabine de sécurité bruyante",
+      "Select-O-Speed critiquée pour sa fiabilité"
+    ],
+    "reputation": "Le Southern Star le décrit comme le « vrai tracteur de tous les jours » de Ford, aujourd'hui nostalgique et emblématique ; selon un ancien cadre commercial de Ford, la Select-O-Speed « semblait mieux fonctionner sur le 5000 ».",
+    "histoire": "Tête de gamme de la série 6X présentée en 1964, le 5000 Super Major est une version entièrement revue du Fordson Super Major. En 1968, la gamme Force lui apporte un moteur de 4,2 l (75 ch) et abandonne le nom Super Major. Fin 1973 arrivent le Dual Power et une PDF 1 000 tr/min, avant le remplacement par la gamme 600 fin 1975.",
+    "anecdote": "Le 5000 a donné naissance à plusieurs versions nationales spéciales : en Belgique, l'importateur EVA en a tiré le Ford 5095, un 5000 équipé du moteur 2704E de 95 ch monté sur un faux-châssis ; en Finlande, la version OK-6 de l'atelier Orasvuori recevait un six-cylindres de 5,9 l et 113 ch SAE (Koneviesti).",
+    "versions": "5000 Super Major 3,8 l / 62-65 ch (1964-1968) ; 5000 « Force » 4,2 l / 75 ch (1968-1975) ; 5000 A à quatre roues motrices ; Select-O-Speed ; Dual Power (fin 1973) ; Ford 5095 belge (moteur 95 ch, faux-châssis EVA)",
+    "usine": "Basildon (Essex, Angleterre) ; les 5000 nord-américains étaient construits à Highland Park (Michigan, USA)",
+    "serie": "Gamme 1000 (6X « Super Major » 1964-1968, puis 6Y « Force » 1968-1975)",
+    "nombre_produit": "",
+    "alesage_course": "111,76 × 106,68 mm (1964-1968 : 106,68 × 106,68 mm, 3 814 cm³)",
+    "regime": "2 100 tr/min",
+    "refroidissement": "Liquide",
+    "vitesses": "8 AV / 2 AR non synchronisées ; option Select-O-Speed 10 AV / 2 AR ; option Dual Power 16 AV / 4 AR (fin 1973)",
+    "vitesse_min_kmh": 2.6,
+    "vitesse_max_kmh": 27.0,
+    "prise_de_force": "Indépendante sous charge (embrayage multidisque humide), 540 tr/min ; 540/1 000 tr/min en option (Select-O-Speed, puis à partir de fin 1973)",
+    "relevage": "Ford à contrôle d'effort par 3e point, catégorie II ; pompe 23,2 à 27,3 l/min ; 1 588 kg aux rotules (Traktorenlexikon), 1 750 kg (Koneviesti)",
+    "dimensions": "L 3 630 × l 1 730 × h 2 350 mm ; empattement 2 223 mm",
+    "pneus": "AV 7.50-16 (4RM 9.00-24) ; AR 15-30",
+    "reservoir_l": 75.5,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/commons-ford-5000-1.jpg": {
+        "auteur": "Fuchs1978",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Ford5000.jpg"
+      }
+    },
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Ford_5000",
+      "https://www.tractordata.com/farm-tractors/000/2/6/266-ford-5000.html",
+      "https://www.koneviesti.fi/en/konedata/traktorit/ford/ford-2000-5000-1964-68",
+      "https://www.koneviesti.fi/en/konedata/traktorit/ford/ford-2000-7000-1968-75",
+      "https://www.southernstar.ie/farming/ford-5000-a-real-bread-and-butter-tractor-4243603",
+      "https://farmersjournal.ie/the-era-of-ford-tractors-and-farming-248771",
+      "https://commons.wikimedia.org/wiki/File:Ford5000.jpg"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "ford-6600",
+    "modele": "6600",
+    "surnom": "",
+    "constructeur": "ford",
+    "photos": [
+      "assets/img/tracteurs/commons-ford-6600-1.jpg"
+    ],
+    "debut": 1975,
+    "fin": 1981,
+    "pays": "Royaume-Uni",
+    "puissance_ch": 78,
+    "moteur": "Ford 256 DF, 4 cylindres en ligne diesel atmosphérique à injection directe ; à partir d'octobre 1980, moteur « Power Plus » de 4,4 l",
+    "cylindres": 4,
+    "cylindree_cm3": 4186,
+    "couple_nm": 265,
+    "poids_kg": 3250,
+    "qualites": [
+      "Cabine Q insonorisée (85-86 dB) et bien conçue",
+      "Freins à disques humides et direction assistée",
+      "Dual Power passable en marche"
+    ],
+    "defauts": [
+      "Blocs moteurs sujets à la porosité (beaucoup remplacés sous garantie)",
+      "Rouille autour des joints de vitres et de la cabine"
+    ],
+    "reputation": "Gros succès commercial : selon Koneviesti, le 6600 fut le tracteur le plus vendu d'Europe pendant toute sa production. Le Southern Star le qualifie de « héros méconnu », éclipsé par le 7600, alors qu'il s'est davantage vendu.",
+    "histoire": "Lancée en 1975 sous le code 7A1, la gamme 600 remplace la gamme 1000 ; le 6600 de 78 ch se place sous le 7600 turbo. La cabine Q arrive en 1976, la version quatre roues motrices à pont ZF en 1978, puis le moteur Power Plus de 4,4 l en octobre 1980. Il cède la place au 6610 de la « Série 10 » en 1981.",
+    "anecdote": "La première année, le 6600 utilisait encore la même cabine « Fieco » que le 5000, et l'on avait du mal à distinguer les deux modèles. La cabine Q (« bulle »), fabriquée par GKN Sankey et montée en usine à partir de 1976, est descendue à 85 dB : assez pour écouter la radio, proposée en option d'usine (Southern Star, 25/07/2024 ; Koneviesti).",
+    "versions": "6600 deux roues motrices ; 6600 A quatre roues motrices (pont ZF à partir de 1978) ; Cabine Q (« bulle ») à partir de 1976 ; Moteur Power Plus 4,4 l / 79 ch (10/1980) ; Version rangs de culture 6700 en Amérique du Nord",
+    "usine": "Basildon (Essex, Angleterre)",
+    "serie": "Gamme 600 (code usine 7A1, puis 7A2 avec cabine Q en 1976)",
+    "nombre_produit": "",
+    "alesage_course": "111,8 × 106,7 mm (à partir de 10/1980 : 111,8 × 111,8 mm, 4 388 cm³)",
+    "regime": "2 100 tr/min",
+    "refroidissement": "Liquide",
+    "vitesses": "8 AV / 2 AR à prise constante ; option Dual Power 16 AV / 4 AR (réducteur sous charge de 22 %)",
+    "vitesse_min_kmh": 2.6,
+    "vitesse_max_kmh": 27.6,
+    "prise_de_force": "Indépendante sous charge, 540/1 000 tr/min, embouts 6 et 21 cannelures",
+    "relevage": "Ford à contrôle d'effort par 3e point, catégorie II ; pompe Plessey 35 l/min ; 2 150 kg aux rotules (2 670 kg avec vérin additionnel)",
+    "dimensions": "L 3 651 (4RM 3 931) × l 1 750 × h 2 540 mm ; empattement 2 524 mm (Traktorenlexikon)",
+    "pneus": "AV 7.50-18 (4RM 10-24) ; AR 14-34 (vitesses calculées en 16.9-34)",
+    "reservoir_l": 75.5,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/commons-ford-6600-1.jpg": {
+        "auteur": "Luc.T (Buggenhout, Belgique)",
+        "licence": "CC BY 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Ford_6600_(28704686866).jpg"
+      }
+    },
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Ford_6600",
+      "https://www.tractordata.com/farm-tractors/000/2/7/270-ford-6600.html",
+      "https://www.koneviesti.fi/en/konedata/traktorit/ford/ford-5600-7600",
+      "https://southernstar.ie/premium-exclusives/how-ford-took-route-66-in-1975-4299839",
+      "https://southernstar.ie/farming/basildon-blues-how-ford-turbo-charged-tractor-production-4280784",
+      "https://commons.wikimedia.org/wiki/File:Ford_6600_(28704686866).jpg"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "ford-7000",
+    "modele": "7000",
+    "surnom": "",
+    "constructeur": "ford",
+    "photos": [
+      "assets/img/tracteurs/commons-ford-7000-1.jpg"
+    ],
+    "debut": 1971,
+    "fin": 1975,
+    "pays": "Royaume-Uni",
+    "puissance_ch": 90,
+    "moteur": "Ford 256 (2514 E), 4 cylindres en ligne diesel à injection directe, turbocompressé (Garrett)",
+    "cylindres": 4,
+    "cylindree_cm3": 4186,
+    "couple_nm": 320,
+    "poids_kg": 2819,
+    "qualites": [
+      "Premier tracteur turbo produit en série au Royaume-Uni",
+      "Load Monitor et direction assistée",
+      "Embrayage renforcé de 330 mm, freins à disques humides"
+    ],
+    "defauts": [
+      "Cabine jugée bruyante par certains conducteurs"
+    ],
+    "reputation": "Selon le Southern Star, il fut « immensément populaire ». Le Farmers Journal rapporte qu'il était prisé des agriculteurs et des entrepreneurs passés à l'ensilage double coupe.",
+    "histoire": "Présenté à l'automne 1971 (Royal Smithfield Show de Londres) pour répondre à la demande de plus de puissance que le 5000, le 7000 reprend le moteur de 4,2 l du 5000 avec un turbocompresseur. Il inaugure le système Load Monitor et reçoit le Dual Power en option fin 1973. Il est remplacé par le 7600 en 1975.",
+    "anecdote": "Au début des années 1970, David Pearson, cadre commercial de Ford, aurait monté sur un 5000 un kit turbo Northrop à 120 £ : le tracteur gagnait 19 ch, montait à 94 ch et restait « incroyablement silencieux ». Les ingénieurs de Basildon, d'abord sceptiques, en ont finalement tiré le 7000, premier tracteur turbo de série construit au Royaume-Uni (Irish Farmers Journal, 18/01/2017).",
+    "versions": "7000 deux roues motrices ; 7000 A quatre roues motrices (pont Schindler en option) ; Dual Power (fin 1973) ; Cabine de sécurité en acier (1975) ; Base des conversions Roadless 94T et County 944",
+    "usine": "Basildon (Essex, Angleterre)",
+    "serie": "Gamme 1000 « Force » (6Y)",
+    "nombre_produit": "",
+    "alesage_course": "111,76 × 106,68 mm",
+    "regime": "2 100 tr/min",
+    "refroidissement": "Liquide",
+    "vitesses": "8 AV / 2 AR à prise constante ; Dual Power 16 AV / 4 AR en option à partir de fin 1973 (de série en Allemagne)",
+    "vitesse_min_kmh": 2.4,
+    "vitesse_max_kmh": 26.9,
+    "prise_de_force": "Indépendante sous charge, 540 tr/min, 1 000 tr/min en option",
+    "relevage": "Ford à contrôle d'effort avec « Load Monitor » (détection de charge), catégorie II ; pompe 22,5 l/min ; 2 400 kg aux rotules",
+    "dimensions": "L 3 650 × l 1 750 × h 2 581 mm ; empattement 2 223 mm",
+    "pneus": "AV 7.50-18 (4RM 11.2-24) ; AR 14-34 (4RM 16.9-34)",
+    "reservoir_l": 75.5,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/commons-ford-7000-1.jpg": {
+        "auteur": "Fordfahrer",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:FORD_7000A_1975.jpg"
+      }
+    },
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Ford_7000",
+      "https://www.tractordata.com/farm-tractors/000/2/7/273-ford-7000.html",
+      "https://www.koneviesti.fi/en/konedata/traktorit/ford/ford-2000-7000-1968-75",
+      "https://www.farmersjournal.ie/amp/machinery/vintage/ford-7000-dazzles-four-decades-later-216399",
+      "https://farmersjournal.ie/the-era-of-ford-tractors-and-farming-248771",
+      "https://southernstar.ie/farming/basildon-blues-how-ford-turbo-charged-tractor-production-4280784",
+      "https://commons.wikimedia.org/wiki/File:FORD_7000A_1975.jpg"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "deutz-d-6006",
+    "modele": "D 6006",
+    "surnom": "",
+    "constructeur": "deutz",
+    "photos": [
+      "assets/img/tracteurs/commons-deutz-d-6006-1.jpg"
+    ],
+    "debut": 1968,
+    "fin": 1974,
+    "pays": "Allemagne",
+    "puissance_ch": 62,
+    "moteur": "KHD F4L 912, 4 cylindres en ligne diesel à injection directe, refroidi par air (soufflante axiale)",
+    "cylindres": 4,
+    "cylindree_cm3": 3768,
+    "couple_nm": 218,
+    "poids_kg": 2585,
+    "qualites": [
+      "Moteur F912 refroidi par air, réputé robuste, fiable et sobre",
+      "Conception modulaire de la série 06 qui simplifie les pièces",
+      "Relevage Transfermatic"
+    ],
+    "defauts": [
+      "Boîte 9 vitesses à crabots, partiellement synchronisée seulement à partir de 1970",
+      "Plate-forme de conduite plane seulement à partir de 1970"
+    ],
+    "reputation": "Le D 6006 est l'un des Deutz les plus vendus et l'un des modèles les plus réussis de la série 06. Le Traktorenlexikon et Wikipédia notent qu'il sert encore de deuxième ou troisième tracteur dans certaines exploitations.",
+    "histoire": "Présenté au printemps 1968 et à la DLG de Munich, le D 6006 est alors le plus gros quatre-cylindres de la nouvelle série D-06, qui succède à la D-05. Il reçoit la boîte TW 55.2 et une plate-forme plane en 1970, puis la TW 55.4 à 12 vitesses et une hydraulique plus puissante en 1972. Il est remplacé en 1974 par le D 6806.",
+    "anecdote": "En 1970, Deutz a construit à titre d'essai, avec Linde, un D 6006 à transmission hydrostatique. Les pertes de puissance de cette transmission ont empêché tout succès commercial notable (Traktorenlexikon).",
+    "versions": "D 6006 deux roues motrices ; D 6006 A quatre roues motrices ; Boîtes TW 55, TW 55.2, TW 55.4 ; Prototype hydrostatique Linde (1970) ; Cabines Fritzmeier M 214 / M 711, toit Dieteg",
+    "usine": "Cologne (Köln), Allemagne – Klöckner-Humboldt-Deutz (KHD)",
+    "serie": "Deutz D-06",
+    "nombre_produit": "10 500 exemplaires (Traktorenlexikon)",
+    "alesage_course": "100 × 120 mm",
+    "regime": "2 300 tr/min",
+    "refroidissement": "Air",
+    "vitesses": "Boîte Deutz TW 55 9 AV / 3 AR (1968-1970) ; TW 55.2 à 2e et 3e synchronisées (1970-1972) ; TW 55.4 12 AV / 4 AR (1972-1974) ; option vitesse rapide",
+    "vitesse_min_kmh": 1.0,
+    "vitesse_max_kmh": 27.6,
+    "prise_de_force": "540 tr/min liée au moteur (double embrayage à pédale à 2 étages) ; en option PDF indépendante à levier 540/1 000 tr/min",
+    "relevage": "Deutz K-45.1 avec contrôle par 3e point (Transfermatic), catégorie II ; pompe Bosch 27,2 l/min à 175 bar ; 2 100 kg (2 450 kg à partir de 1972)",
+    "dimensions": "L 3 720 (4RM 3 750) × l 1 955 × h 1 760 mm (1 830 à partir de 1972) ; empattement 2 150 mm",
+    "pneus": "AV 6.00-19 (4RM 10.5-20) ; AR 13.6-38",
+    "reservoir_l": 92,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/commons-deutz-d-6006-1.jpg": {
+        "auteur": "W. Leiter",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Deutz_D6006.jpg"
+      }
+    },
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Deutz_D_6006",
+      "https://de.wikipedia.org/wiki/Deutz_D_6006",
+      "https://de.wikipedia.org/wiki/Deutz_D-06",
+      "https://www.tractordata.com/farm-tractors/002/1/9/2190-deutz-d-6006.html",
+      "https://www.koneviesti.fi/en/konedata/traktorit/deutz/deutz-6006-8006",
+      "https://commons.wikimedia.org/wiki/File:Deutz_D6006.jpg"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "deutz-d-8006",
+    "modele": "D 8006",
+    "surnom": "",
+    "constructeur": "deutz",
+    "photos": [
+      "assets/img/tracteurs/commons-deutz-d-8006-1.jpg"
+    ],
+    "debut": 1970,
+    "fin": 1978,
+    "pays": "Allemagne",
+    "puissance_ch": 80,
+    "moteur": "KHD F6L 912, 6 cylindres en ligne diesel à injection directe, refroidi par air ; pompe en ligne, puis distributrice à partir de 1972",
+    "cylindres": 6,
+    "cylindree_cm3": 5652,
+    "couple_nm": 305,
+    "poids_kg": 3010,
+    "qualites": [
+      "Six-cylindres refroidi par air coupleux",
+      "Boîte ZF 16 vitesses synchronisée à partir de 1972",
+      "Plate-forme plane et confort supérieur au D 7506"
+    ],
+    "defauts": [
+      "Freins à tambour sur la plupart des versions",
+      "Gros gabarit : rayon de braquage de 4,1 à 4,5 m"
+    ],
+    "reputation": "Le six-cylindres de la série 06, que le Traktorenlexikon présente comme « l'incarnation de l'indestructibilité ». Les moteurs FL912 sont réputés robustes, fiables, durables et sobres (Wikipédia).",
+    "histoire": "En 1970, le D 8006 remplace le D 7506 et apporte plus de confort ainsi qu'une plate-forme plane. Une refonte en 1972 introduit une pompe d'injection distributrice, un relevage Deutz, un pont avant SIGE et la boîte ZF T 3201 synchronisée. En 1976 arrive la version « Spezial » à cabine sur silentblocs. Il est arrêté en 1978 et remplacé par le DX 85.",
+    "anecdote": "Après l'arrêt de la production en Allemagne, les tracteurs de la série D-06 ont continué à être fabriqués sous licence en ex-Yougoslavie (marque Torpedo) et en Algérie (Wikipédia, article Deutz D-06).",
+    "versions": "D 8006 deux roues motrices ; D 8006 A quatre roues motrices (pont SIGE à partir de 1972) ; Version 1972 (pompe distributrice, boîte T 3201) ; D 8006 « Spezial » à cabine suspendue (1976) ; Blocage de différentiel Optitrac à l'avant (1976)",
+    "usine": "Cologne (Köln), Allemagne – Klöckner-Humboldt-Deutz (KHD)",
+    "serie": "Deutz D-06",
+    "nombre_produit": "4 195 exemplaires (Traktorenlexikon)",
+    "alesage_course": "100 × 120 mm",
+    "regime": "2 100 tr/min",
+    "refroidissement": "Air",
+    "vitesses": "ZF T 325 II 16 AV / 7 AR partiellement synchronisée (dont 2 vitesses rampantes) ; à partir de 1972 ZF T 3201 16 AV / 7 AR à 3e-6e et gammes synchronisées",
+    "vitesse_min_kmh": 0.9,
+    "vitesse_max_kmh": 29.0,
+    "prise_de_force": "540/1 000 tr/min, liée au moteur (pédale) ou indépendante sous charge à levier",
+    "relevage": "ZF KR-25 Transfermatic (1970-1972, 2 200 à 2 800 kp), puis Deutz K-45.2 avec vérin additionnel (3 600 kp), catégorie II ; pompe 42,9 l/min à partir de 1972",
+    "dimensions": "L 4 150 × l 1 985 (4RM 2 020) × h 2 600 mm ; empattement 2 550 mm",
+    "pneus": "AV 7.50-18 (4RM 10.5-20) ; AR 16.9-34",
+    "reservoir_l": 92,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/commons-deutz-d-8006-1.jpg": {
+        "auteur": "Johannes Maximilian",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Deutz_D_8006_JM_2023_08_12_5D410153.jpg"
+      }
+    },
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Deutz_D_8006",
+      "https://de.wikipedia.org/wiki/Deutz_D_8006",
+      "https://de.wikipedia.org/wiki/Deutz_D-06",
+      "https://www.tractordata.com/farm-tractors/002/1/9/2193-deutz-d-8006.html",
+      "https://www.koneviesti.fi/en/konedata/traktorit/deutz/deutz-6006-8006",
+      "https://www.koneviesti.fi/en/konedata/traktorit/deutz/deutz-6206-8006",
+      "https://commons.wikimedia.org/wiki/File:Deutz_D_8006_JM_2023_08_12_5D410153.jpg"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "deutz-dx-3-10",
+    "modele": "DX 3.10",
+    "surnom": "",
+    "constructeur": "deutz",
+    "photos": [
+      "assets/img/tracteurs/commons-deutz-dx-3-10-1.jpg"
+    ],
+    "debut": 1984,
+    "fin": 1990,
+    "pays": "Allemagne",
+    "puissance_ch": 46,
+    "moteur": "KHD F3L 912, 3 cylindres en ligne diesel à injection directe, refroidi par air",
+    "cylindres": 3,
+    "cylindree_cm3": 2827,
+    "couple_nm": 167,
+    "poids_kg": 2540,
+    "qualites": [
+      "Moteur F912 refroidi par air, technique éprouvée",
+      "Direction hydrostatique Danfoss",
+      "Cabine StarCab confortable sur les versions haut de gamme"
+    ],
+    "defauts": [
+      "Freins à tambour",
+      "Doubleur Dual-Split non disponible sur la VarioCab en Allemagne"
+    ],
+    "reputation": "Le plus petit modèle de la série DX 3, qui associe la technique éprouvée de la série 07 (moteur refroidi par air, hydraulique Transfermatic) au style DX.",
+    "histoire": "Au printemps 1984, la série DX 3 remplace la plupart des modèles de la série 07 ; le DX 3.10 de 46 ch en est l'entrée de gamme. Deux finitions coexistent : la VarioCab, simple, et la StarCab, plus confortable avec le doubleur Dual-Split. Il est produit jusqu'en 1990.",
+    "anecdote": "La cabine VarioCab de base reprenait les mêmes ailes que les séries D-06 et D-07 et n'avait pas de lunette arrière en série (Traktorenlexikon). En Amérique du Nord, la série DX 3 était vendue sous le nom de Deutz-Allis série 6200 (Koneviesti).",
+    "versions": "DX 3.10 deux roues motrices ; DX 3.10 A quatre roues motrices (pont SIGE) ; Finition VarioCab (cabine-bâche simple, réservoir 72 l) ; Finition StarCab (cabine suspendue 80,5 dB, réservoir 83 l) ; Gamme rampante, essieu télescopique",
+    "usine": "Cologne (Köln), Allemagne – KHD / Deutz-Fahr (déduit : la production des tracteurs Deutz est restée à Cologne jusqu'au transfert à Lauingen avec l'Agrotron en 1995)",
+    "serie": "Deutz-Fahr DX 3 (remplace la majeure partie de la série D-07 au printemps 1984)",
+    "nombre_produit": "",
+    "alesage_course": "100 × 120 mm",
+    "regime": "2 150 tr/min",
+    "refroidissement": "Air",
+    "vitesses": "VarioCab : TW-510 8 AV / 4 AR synchronisée (12/4 avec gamme rampante) ; StarCab : TW-511 avec doubleur « Dual-Split » 16 AV / 8 AR (24/8 avec rampantes)",
+    "vitesse_min_kmh": 0.6,
+    "vitesse_max_kmh": 29.1,
+    "prise_de_force": "Indépendante sous charge, 540/1 000 tr/min présélectionnable ; PDF avant 1 000 tr/min en option",
+    "relevage": "Deutz K-45.3 (VarioCab, 1 900 kg) ou K-46.3 avec contrôle mixte (StarCab, 2 400 kg), catégorie II, Transfermatic ; pompe 34,4 à 37 l/min à 175 bar ; relevage avant Jacobi/Sauter en option",
+    "dimensions": "L 3 490 (4RM 3 560) × l 1 788 × h 2 315 mm ; empattement 2 012 mm (4RM 2 079 mm)",
+    "pneus": "AV 6.50-16 (4RM 12.5-18) ; AR 14.9 R 30",
+    "reservoir_l": 83,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/commons-deutz-dx-3-10-1.jpg": {
+        "auteur": "Markus Hagenlocher (User:MarkusHagenlocher)",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Deutz-Fahr_DX_3.10.jpg"
+      }
+    },
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Deutz-Fahr_DX_3.10",
+      "https://www.tractordata.com/farm-tractors/002/0/7/2077-deutz-fahr-dx-310.html",
+      "https://www.koneviesti.fi/en/konedata/traktorit/deutz/deutz-fahr-dx-3-10-dx-3-90",
+      "https://de.wikipedia.org/wiki/Deutz-Fahr",
+      "https://de.wikipedia.org/wiki/Deutz_D-07",
+      "https://commons.wikimedia.org/wiki/File:Deutz-Fahr_DX_3.10.jpg"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "fendt-farmer-306ls",
+    "modele": "Farmer 306 LS",
+    "surnom": "",
+    "constructeur": "fendt",
+    "photos": [
+      "assets/img/tracteurs/commons-fendt-farmer-306ls-1.jpg"
+    ],
+    "debut": 1980,
+    "fin": 1990,
+    "pays": "Allemagne",
+    "puissance_ch": 70,
+    "moteur": "MWM D 226.4.2, 4 cylindres en ligne diesel atmosphérique à injection directe, refroidi par liquide",
+    "cylindres": 4,
+    "cylindree_cm3": 4154,
+    "couple_nm": 277,
+    "poids_kg": 3460,
+    "qualites": [
+      "Cabine intégrée suspendue et insonorisée (83 dB) de série",
+      "Boîte entièrement synchronisée avec 40 km/h possible",
+      "Coupleur hydraulique Turbomatik et PDF sous charge"
+    ],
+    "defauts": [
+      "Contrôle d'effort par 3e point jugé démodé par Koneviesti"
+    ],
+    "reputation": "Selon Koneviesti, la cabine de la série 300 marquait un net progrès par rapport aux Fendt précédents. Le 306 était le modèle de 70 ch d'une gamme dont le 309 turbo fut le plus populaire.",
+    "histoire": "Lancée au tout début des années 1980, la série Farmer 300 LS se composait au départ des quatre-cylindres 305, 306 et 308 ; le 306 LS (deux roues motrices) a été produit de 1980 à 1990 en trois versions successives. La boîte passe à 21 vitesses et la capacité de relevage augmente en 1984. La version 4RM LSA a été produite jusqu'en 1993.",
+    "anecdote": "En 1982, le Farmer 306 LS coûtait 59 704 DM en version 30 km/h et 62 907 DM en version 40 km/h (Traktorenlexikon). En 1985, Fendt prend pour la première fois la tête des immatriculations en Allemagne de l'Ouest, avec 6 388 tracteurs vendus et 18,4 % de part de marché (Wikipédia).",
+    "versions": "Farmer 306 LS deux roues motrices (1980-1990) ; Farmer 306 LSA quatre roues motrices (jusqu'en 1993) ; Versions 30 ou 40 km/h ; Types T 168.010 (1980-84), T 168.011 (1984-88), T 168.050 (1988-90) ; Cabine basse en option",
+    "usine": "Marktoberdorf (Bavière, Allemagne)",
+    "serie": "Fendt Farmer 300 (LS)",
+    "nombre_produit": "4 620 Farmer 306 LS (2RM) ; 3 850 LSA (4RM, produite jusqu'en 1993) (Traktorenlexikon)",
+    "alesage_course": "105 × 120 mm",
+    "regime": "2 200 tr/min",
+    "refroidissement": "Liquide",
+    "vitesses": "Boîte Fendt entièrement synchronisée à gammes et overdrive, commande latérale : 14 AV / 4 AR (30 km/h) ou 15 AV / 4 AR (40 km/h) ; 21 AV / 6 AR à partir de 1984 ; rampantes en option (20/6) ; embrayage hydraulique Voith (Turbomatik)",
+    "vitesse_min_kmh": 1.4,
+    "vitesse_max_kmh": 40.0,
+    "prise_de_force": "Indépendante sous charge, 540/1 000 tr/min (option 540/750) ; PDF proportionnelle et PDF avant 1 000 tr/min en option",
+    "relevage": "Hydraulique de régulation Fendt (Bosch), contrôle d'effort par 3e point, catégorie II ; pompe tandem 37,4 l/min ; 2 770 kp (3 790 kp à partir de 1984) ; relevage avant intégré en option",
+    "dimensions": "L 3 919 × l 1 975 × h 2 597 mm ; empattement 2 388 mm",
+    "pneus": "AV 7.50-20 ou 10-16 ; AR 16.9R34 ou 16.9R30",
+    "reservoir_l": 107,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/commons-fendt-farmer-306ls-1.jpg": {
+        "auteur": "Joost J. Bakker (IJmuiden)",
+        "licence": "CC BY 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Fendt_Farmer_306_LS_Turbomatik.jpg"
+      }
+    },
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Fendt_Farmer_306_LS",
+      "https://www.tractordata.com/farm-tractors/002/6/4/2645-fendt-farmer-306ls.html",
+      "https://www.koneviesti.fi/en/konedata/traktorit/fendt/fendt-farmer-305-ls-309-ls-1980-84",
+      "https://de.wikipedia.org/wiki/Fendt_(Marke)",
+      "https://commons.wikimedia.org/wiki/File:Fendt_Farmer_306_LS_Turbomatik.jpg"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "fendt-favorit-611ls",
+    "modele": "Favorit 611 LS",
+    "surnom": "",
+    "constructeur": "fendt",
+    "photos": [
+      "assets/img/tracteurs/commons-fendt-favorit-611ls-1.jpg"
+    ],
+    "debut": 1977,
+    "fin": 1985,
+    "pays": "Allemagne",
+    "puissance_ch": 105,
+    "moteur": "MWM D 226.6.2, 6 cylindres en ligne diesel atmosphérique à injection directe, refroidi par liquide",
+    "cylindres": 6,
+    "cylindree_cm3": 6240,
+    "couple_nm": 362,
+    "poids_kg": 5195,
+    "qualites": [
+      "Cabine suspendue très silencieuse (81 dB)",
+      "Relevage puissant de catégorie III",
+      "Gros réservoir de 222 l"
+    ],
+    "defauts": [
+      "Freins à tambour (Koneviesti)",
+      "Grand rayon de braquage (4,7 à 6,45 m)"
+    ],
+    "reputation": "Le Traktorenlexikon le présente comme un tracteur idéal pour les grandes exploitations, avec une priorité donnée à la technique fonctionnelle. Koneviesti souligne une cabine jugée « impressionnante » de 81 dB.",
+    "histoire": "Le Favorit 611 LS appartient à la gamme de gros tracteurs Favorit 600 LS de Fendt, dont la cabine a été renouvelée en 1979. En 1983, il passe à 115 ch, reçoit la nouvelle Turbomatik-E et la régulation électronique du relevage, et n'est plus vendu qu'en quatre roues motrices. La production de cette version se termine en 1985.",
+    "anecdote": "La version deux roues motrices est restée très rare : seulement 221 exemplaires ont été construits entre 1978 et 1983, contre 4 495 en quatre roues motrices. Elle a disparu en 1983, date à partir de laquelle le 611 LS n'a plus été proposé qu'en 4RM (Traktorenlexikon).",
+    "versions": "Favorit 611 LS deux roues motrices (rare) ; Favorit 611 LSA quatre roues motrices ; Version 115 ch avec Turbomatik-E et EHR (1983-1985) ; Versions 30 ou 40 km/h (40 km/h à partir de 1983)",
+    "usine": "Marktoberdorf (Bavière, Allemagne)",
+    "serie": "Fendt Favorit 600 LS",
+    "nombre_produit": "5 890 exemplaires au total : 221 en 2RM (1978-1983), 4 495 en 4RM 105 ch (1977-1984) et 1 174 en 4RM 115 ch (1983-1985) (Traktorenlexikon)",
+    "alesage_course": "105 × 120 mm",
+    "regime": "2 350 tr/min (115 ch à 2 300 tr/min à partir de 1983)",
+    "refroidissement": "Liquide",
+    "vitesses": "ZF T 3312 / T 3345 à gammes et demi-rapports, commande latérale : 16 AV / 7 AR dont 4/2 rampantes (option 20/9 super-rampantes) ; coupleur hydraulique Voith (Turbomatik, Turbomatik-E en 1983)",
+    "vitesse_min_kmh": 0.97,
+    "vitesse_max_kmh": 40.0,
+    "prise_de_force": "Indépendante sous charge, 540/1 000 tr/min (750/1 000 tr/min à partir de 1983) ; PDF avant 1 000 tr/min en option",
+    "relevage": "Hydraulique Fendt à contrôle par les bras inférieurs, catégorie III ; pompe 45 l/min à 175 bar ; 5 800 kp (7 410 kp avec régulation électronique EHR à partir de 1983) ; relevage avant en option",
+    "dimensions": "L 4 670 × l 2 163 × h 2 860 mm ; empattement 2 715 mm",
+    "pneus": "AV 7.50-20 (4RM 12.4-28) ; AR 18.4-38",
+    "reservoir_l": 222,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/commons-fendt-favorit-611ls-1.jpg": {
+        "auteur": "Radosław Drożdżewski (User:Zwiadowca21)",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Eppingen-Adelshofen_-_Fendt_Favorit_611_LS_Turbomatik_-_23.06.2019_14-21-30.jpg"
+      }
+    },
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Fendt_Favorit_611_LS",
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Fendt_Favorit_611_LS/LSA",
+      "https://www.tractordata.com/farm-tractors/002/6/6/2666-fendt-favorit-611ls.html",
+      "https://www.koneviesti.fi/en/konedata/traktorit/fendt/fendt-favorit-600-ls-615-ls-1979-84",
+      "https://de.wikipedia.org/wiki/Fendt_(Marke)",
+      "https://commons.wikimedia.org/wiki/File:Eppingen-Adelshofen_-_Fendt_Favorit_611_LS_Turbomatik_-_23.06.2019_14-21-30.jpg"
     ],
     "verifie": false
   }
