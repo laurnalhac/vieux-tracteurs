@@ -92,7 +92,6 @@
           return "<p>" + e(p) + "</p>";
         }).join("") + "</aside>"
       : "") +
-    "<h2>Réputation</h2>" + paragraphe(t.reputation) +
     (t.versions ? "<h2>Versions et évolutions</h2><p>" + e(t.versions) + "</p>" : "") +
     '<div class="qualites-defauts"><div><h3>Qualités</h3>' + liste(t.qualites) + "</div>" +
     "<div><h3>Défauts</h3>" + liste(t.defauts) + "</div></div>" +
