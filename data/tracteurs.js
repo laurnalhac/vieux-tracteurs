@@ -2636,5 +2636,968 @@ window.TRACTEURS = [
       "https://jukuri.luke.fi/handle/10024/484025"
     ],
     "verifie": false
+  },
+  {
+    "id": "massey-ferguson-135",
+    "modele": "MF 135",
+    "surnom": "",
+    "constructeur": "massey-ferguson",
+    "photos": [
+      "assets/img/tracteurs/commons-massey-ferguson-135-1.jpg"
+    ],
+    "debut": 1964,
+    "fin": 1979,
+    "pays": "Royaume-Uni",
+    "puissance_ch": 45,
+    "moteur": "Perkins AD3.152, diesel à injection directe (versions essence aussi)",
+    "cylindres": 3,
+    "cylindree_cm3": 2500,
+    "couple_nm": 170,
+    "poids_kg": 1705,
+    "qualites": [
+      "Mécanique simple et fiable",
+      "Relevage Ferguson efficace",
+      "Consommation modérée du trois-cylindres Perkins"
+    ],
+    "defauts": [
+      "Freins à tambour conservés quand les autres modèles passaient aux disques"
+    ],
+    "reputation": "Modèle le plus vendu de la série 100, souvent cité parmi les meilleurs tracteurs jamais produits, et encore très recherché pour sa simplicité.",
+    "histoire": "Présenté au Smithfield Show de 1964, il est le premier modèle de la nouvelle série 100 et succède au MF 35. Cette gamme unifiée met fin aux lignées Massey-Harris et Ferguson qui coexistaient depuis la fusion de 1953.",
+    "anecdote": "En 1966, l'usine de Coventry produit 44 246 MF 135 : plus de la moitié de tous les tracteurs fabriqués au Royaume-Uni cette année-là, toutes marques confondues.",
+    "versions": "Diesel ou essence, boîte 6 ou 8 vitesses, Multi-Power, version étroite vignes et vergers, 135 Super ; en France, le petit MF 130 dérivé était fabriqué à Beauvais.",
+    "usine": "Coventry (Banner Lane) ; Detroit pour l'Amérique du Nord",
+    "serie": "Série 100",
+    "nombre_produit": "Environ 340 000 à 413 000 exemplaires à Coventry selon les sources",
+    "alesage_course": "91,44 × 127 mm",
+    "regime": "2 250 tr/min",
+    "refroidissement": "Eau",
+    "vitesses": "6 AV / 2 AR, puis 8 AV / 2 AR à partir de 1969 ; Multi-Power 12 AV / 4 AR en option",
+    "vitesse_min_kmh": 2.3,
+    "vitesse_max_kmh": 27.8,
+    "prise_de_force": "Indépendante (double embrayage), 540 tr/min ; proportionnelle à l'avancement",
+    "relevage": "Relevage Ferguson à contrôle d'effort, catégorie I/II, 1 300 kg aux rotules",
+    "dimensions": "3 030 × 1 630 × 1 370 mm, empattement 1 830 mm",
+    "pneus": "AV 6.00-16 ; AR 11-28",
+    "reservoir_l": 38.6,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/commons-massey-ferguson-135-1.jpg": {
+        "auteur": "Number 57",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:1965_Massey_Ferguson_MF135_-_angle_view.jpg"
+      }
+    },
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Massey_Ferguson_MF_135",
+      "https://fr.wikipedia.org/wiki/Massey_Ferguson_135",
+      "https://en.wikipedia.org/wiki/Massey_Ferguson_135",
+      "https://www.southernstar.ie/news/farm-classics-square-nosed-massey-stood-test-of-time-4226429",
+      "https://commons.wikimedia.org/wiki/File:1965_Massey_Ferguson_MF135_-_angle_view.jpg"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "massey-ferguson-165",
+    "modele": "MF 165",
+    "surnom": "",
+    "constructeur": "massey-ferguson",
+    "photos": [
+      "assets/img/tracteurs/commons-massey-ferguson-165-1.jpg"
+    ],
+    "debut": 1964,
+    "fin": 1973,
+    "pays": "Royaume-Uni / France",
+    "puissance_ch": 58,
+    "moteur": "Perkins AD4.203, puis A4.212 (Mark III, 1968), diesel à injection directe",
+    "cylindres": 4,
+    "cylindree_cm3": 3325,
+    "couple_nm": 226,
+    "poids_kg": 2170,
+    "qualites": [
+      "Best-seller du haut de la série 100",
+      "Relevage Ferguson réputé",
+      "Freins à disques sur le Mark III"
+    ],
+    "defauts": [
+      "Ergonomie : pédales et commande de boîte dure",
+      "Prise de force hydraulique peu progressive, source de casses d'outils"
+    ],
+    "reputation": "Avec le MF 135, l'un des tracteurs les plus populaires de son époque.",
+    "histoire": "Successeur du MF 65, produit en Angleterre et en France. En 1968, le Mark III reçoit un nouveau moteur, en partie pour contrer Ford.",
+    "anecdote": "Il existe des MF 165 à quatre roues motrices transformés artisanalement avec des ponts avant récupérés sur des surplus de véhicules américains laissés en Europe après la guerre.",
+    "versions": "58 ch, puis environ 60 ch avec le moteur A4.212 du Mark III (1968) ; MF 165 S de 60 ch en 1971.",
+    "usine": "Coventry (Banner Lane) et Beauvais",
+    "serie": "Série 100",
+    "nombre_produit": "",
+    "alesage_course": "91,44 × 127 mm",
+    "regime": "2 000 tr/min",
+    "refroidissement": "Eau",
+    "vitesses": "6 AV / 2 AR ou 12 AV / 4 AR avec Multi-Power",
+    "vitesse_min_kmh": 1.86,
+    "vitesse_max_kmh": 20,
+    "prise_de_force": "540 tr/min ; poulie en option",
+    "relevage": "Relevage MF, catégorie I (II en option), 1 302 kg aux rotules",
+    "dimensions": "3 410 × 1 850 × 1 640 mm, empattement 2 080 mm",
+    "pneus": "AV 6.00-16 ; AR 13-28",
+    "reservoir_l": 66,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/commons-massey-ferguson-165-1.jpg": {
+        "auteur": "Mutney",
+        "licence": "CC0 1.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Massey_Ferguson_165_tractor,_Rosudgeon_Vintage_Rally,_Cornwall_-_September_2024.jpg"
+      }
+    },
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Massey_Ferguson_MF_165",
+      "https://fr.wikipedia.org/wiki/Massey_Ferguson_165_Mark_III",
+      "https://www.tractordata.com/farm-tractors/000/7/4/746-massey-ferguson-165.html",
+      "https://commons.wikimedia.org/wiki/File:Massey_Ferguson_165_tractor,_Rosudgeon_Vintage_Rally,_Cornwall_-_September_2024.jpg"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "massey-ferguson-168",
+    "modele": "MF 168",
+    "surnom": "",
+    "constructeur": "massey-ferguson",
+    "photos": [
+      "assets/img/tracteurs/commons-massey-ferguson-168-1.jpg"
+    ],
+    "debut": 1972,
+    "fin": 1976,
+    "pays": "Royaume-Uni",
+    "puissance_ch": 65,
+    "moteur": "Perkins A4.236, diesel atmosphérique à injection directe",
+    "cylindres": 4,
+    "cylindree_cm3": 3867,
+    "couple_nm": 255,
+    "poids_kg": 2580,
+    "qualites": [
+      "Plus de puissance et de relevage que le 165",
+      "Version quatre roues motrices disponible"
+    ],
+    "defauts": [
+      "Pont avant Sige des premiers exemplaires, remplacé ensuite par un pont MF plus robuste"
+    ],
+    "reputation": "",
+    "histoire": "Successeur du MF 165, il fait partie des versions renforcées « Super Spec » de 1972, à empattement allongé, lancées pour répondre à la demande de tracteurs plus puissants.",
+    "anecdote": "",
+    "versions": "MF 168 (8 vitesses), 168 MP (Multi-Power) et 168 A à quatre roues motrices.",
+    "usine": "Coventry (Banner Lane)",
+    "serie": "Série 100 « Super Spec »",
+    "nombre_produit": "",
+    "alesage_course": "98,4 × 127 mm",
+    "regime": "2 000 tr/min",
+    "refroidissement": "Eau",
+    "vitesses": "8 AV / 2 AR ou 12 AV / 4 AR avec Multi-Power",
+    "vitesse_min_kmh": 1.7,
+    "vitesse_max_kmh": 25,
+    "prise_de_force": "540 tr/min ; poulie en option",
+    "relevage": "Catégorie I/II, 2 010 kg aux rotules",
+    "dimensions": "3 670 × 1 870 × 2 480 mm (arceau), empattement 2 230 mm",
+    "pneus": "AV 7.50-16 ; AR 14-30",
+    "reservoir_l": 79.5,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/commons-massey-ferguson-168-1.jpg": {
+        "auteur": "Tomron",
+        "licence": "CC BY 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Massey_Ferguson_MF_168_1.jpg"
+      }
+    },
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Massey_Ferguson_MF_168_%26_MF_168A",
+      "https://www.southernstar.ie/news/the-hugely-successful-massey-ferguson-188-4281867",
+      "https://commons.wikimedia.org/wiki/File:Massey_Ferguson_MF_168_1.jpg"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "massey-ferguson-188",
+    "modele": "MF 188",
+    "surnom": "",
+    "constructeur": "massey-ferguson",
+    "photos": [
+      "assets/img/tracteurs/commons-massey-ferguson-188-1.jpg"
+    ],
+    "debut": 1972,
+    "fin": 1976,
+    "pays": "Royaume-Uni",
+    "puissance_ch": 75,
+    "moteur": "Perkins A4.248, diesel",
+    "cylindres": 4,
+    "cylindree_cm3": 4061,
+    "couple_nm": 299,
+    "poids_kg": 3279,
+    "qualites": [
+      "Moteur de 4 litres à longue course, couple maxi à 1 300 tr/min",
+      "Direction assistée et freins à disques à bain d'huile de série"
+    ],
+    "defauts": [
+      "Grille de la boîte 8 vitesses déroutante"
+    ],
+    "reputation": "Qualifié de « hugely successful » par Southern Star ; haut de gamme de la série 100, positionné face au Ford 5000.",
+    "histoire": "Le MF 188 couronne la série 100 lors de l'arrivée des versions Super Spec en 1972. La série 200 lui succède en 1976.",
+    "anecdote": "Sur la boîte 8 vitesses, la 3e était « discrètement nichée » entre la marche arrière et la 2e : le journaliste de Southern Star a mis un moment à la trouver. Les cabines étaient livrées avec des protège-oreilles, « un produit de leur époque ».",
+    "versions": "Deux ou quatre roues motrices, Multi-Power ou 8 vitesses, cabine rigide ou « flexi » à toit en toile.",
+    "usine": "Coventry (Banner Lane)",
+    "serie": "Série 100 « Super Spec » (haut de gamme)",
+    "nombre_produit": "",
+    "alesage_course": "101 × 127 mm",
+    "regime": "2 070 tr/min",
+    "refroidissement": "Eau",
+    "vitesses": "12 AV / 4 AR Multi-Power ou 8 AV / 2 AR",
+    "vitesse_min_kmh": "",
+    "vitesse_max_kmh": "",
+    "prise_de_force": "540 tr/min",
+    "relevage": "Catégorie II, contrôle d'effort et de position Ferguson, environ 2 060 kg",
+    "dimensions": "3 600 × 1 910 × 1 700 mm, empattement 2 280 mm",
+    "pneus": "AV 8.25-16 ; AR 16.9-34",
+    "reservoir_l": 85.9,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/commons-massey-ferguson-188-1.jpg": {
+        "auteur": "Joost J. Bakker",
+        "licence": "CC BY 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Red_Massey_Ferguson_188.jpg"
+      }
+    },
+    "sources": [
+      "https://www.tractordata.com/farm-tractors/006/0/4/6041-massey-ferguson-188.html",
+      "https://www.southernstar.ie/news/the-hugely-successful-massey-ferguson-188-4281867",
+      "https://fr.wikipedia.org/wiki/Massey_Ferguson_188",
+      "https://commons.wikimedia.org/wiki/File:Red_Massey_Ferguson_188.jpg"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "massey-ferguson-265",
+    "modele": "MF 265",
+    "surnom": "",
+    "constructeur": "massey-ferguson",
+    "photos": [
+      "assets/img/tracteurs/commons-massey-ferguson-265-1.jpg"
+    ],
+    "debut": 1975,
+    "fin": 1985,
+    "pays": "Royaume-Uni",
+    "puissance_ch": 60,
+    "moteur": "Perkins A4.236, diesel atmosphérique à injection directe",
+    "cylindres": 4,
+    "cylindree_cm3": 3860,
+    "couple_nm": 230,
+    "poids_kg": 2630,
+    "qualites": [
+      "Freins à disques humides",
+      "Simplicité et fiabilité de la série 200"
+    ],
+    "defauts": [],
+    "reputation": "La série 200 est réputée pour sa fiabilité et sa simplicité ; beaucoup d'exemplaires travaillent encore (Farmers Journal).",
+    "histoire": "Le MF 265 remplace le MF 165 dans la série 200 construite à Banner Lane, avant de céder la place à la série 300.",
+    "anecdote": "",
+    "versions": "Deux ou quatre roues motrices (265 A), boîte 8 ou 12 vitesses, puissance portée de 60 à 63 ch.",
+    "usine": "Coventry (Banner Lane)",
+    "serie": "Série 200",
+    "nombre_produit": "",
+    "alesage_course": "98,4 × 127 mm",
+    "regime": "2 000 tr/min",
+    "refroidissement": "Eau",
+    "vitesses": "8 AV / 2 AR ou 12 AV / 4 AR Multi-Power",
+    "vitesse_min_kmh": 1.7,
+    "vitesse_max_kmh": 25,
+    "prise_de_force": "540 tr/min ; 1 000 tr/min en option",
+    "relevage": "Catégorie I/II, 1 800 kg aux rotules (2 100 kg avec amplificateur)",
+    "dimensions": "3 785 × 1 840 × 2 480 mm, empattement 2 230 mm",
+    "pneus": "",
+    "reservoir_l": 80,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/commons-massey-ferguson-265-1.jpg": {
+        "auteur": "Justo Lapiedra",
+        "licence": "CC BY 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Massey_Ferguson_265,_Ireland_-_b.jpg"
+      }
+    },
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Massey_Ferguson_MF_265",
+      "https://farmersjournal.ie/mf-200-series-followed-a-turbulent-decade-151684",
+      "https://commons.wikimedia.org/wiki/File:Massey_Ferguson_265,_Ireland_-_b.jpg"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "massey-ferguson-275",
+    "modele": "MF 275",
+    "surnom": "",
+    "constructeur": "massey-ferguson",
+    "photos": [
+      "assets/img/tracteurs/commons-massey-ferguson-275-1.jpg"
+    ],
+    "debut": 1975,
+    "fin": 1983,
+    "pays": "Royaume-Uni",
+    "puissance_ch": 66,
+    "moteur": "Perkins A4.236, diesel atmosphérique à injection directe",
+    "cylindres": 4,
+    "cylindree_cm3": 3863,
+    "couple_nm": 269,
+    "poids_kg": 2850,
+    "qualites": [
+      "Mécanique Perkins éprouvée",
+      "Large choix de boîtes et d'options"
+    ],
+    "defauts": [],
+    "reputation": "Comme toute la série 200, apprécié pour sa fiabilité et sa simplicité.",
+    "histoire": "Le MF 275 remplace le MF 175 en 1975, uniquement en diesel ; le MF 290 lui succède.",
+    "anecdote": "",
+    "versions": "Deux ou quatre roues motrices (275 A), boîte 8 ou 12 vitesses.",
+    "usine": "Coventry (Banner Lane)",
+    "serie": "Série 200",
+    "nombre_produit": "",
+    "alesage_course": "98,4 × 127 mm",
+    "regime": "2 000 tr/min",
+    "refroidissement": "Eau",
+    "vitesses": "8 AV / 2 AR ou 12 AV / 4 AR Multi-Power",
+    "vitesse_min_kmh": 1.8,
+    "vitesse_max_kmh": 25.6,
+    "prise_de_force": "540 tr/min ; 1 000 tr/min en option",
+    "relevage": "Catégorie I/II, 2 100 kg aux rotules",
+    "dimensions": "3 785 × 1 840 × 2 480 mm, empattement 2 248 mm",
+    "pneus": "",
+    "reservoir_l": 80,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/commons-massey-ferguson-275-1.jpg": {
+        "auteur": "Cjp24",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Massey_Ferguson_275_(1).jpg"
+      }
+    },
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Massey_Ferguson_MF_275",
+      "https://farmersjournal.ie/mf-200-series-followed-a-turbulent-decade-151684",
+      "https://commons.wikimedia.org/wiki/File:Massey_Ferguson_275_(1).jpg"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "massey-ferguson-290",
+    "modele": "MF 290",
+    "surnom": "",
+    "constructeur": "massey-ferguson",
+    "photos": [
+      "assets/img/tracteurs/commons-massey-ferguson-290-1.jpg"
+    ],
+    "debut": 1979,
+    "fin": 1987,
+    "pays": "Royaume-Uni",
+    "puissance_ch": 75,
+    "moteur": "Perkins A4.248, diesel atmosphérique à injection directe",
+    "cylindres": 4,
+    "cylindree_cm3": 4060,
+    "couple_nm": 286,
+    "poids_kg": 2905,
+    "qualites": [
+      "Tracteur simple aux composants éprouvés",
+      "Entretien facile",
+      "Bon polyvalent, apprécié en élevage"
+    ],
+    "defauts": [
+      "Leviers de distributeurs à gauche du siège, disposition peu conventionnelle"
+    ],
+    "reputation": "Modèle phare de la série 200, réputé fiable et simple ; on en trouve encore beaucoup au travail dans le monde.",
+    "histoire": "Plus gros quatre-cylindres de la série 200 construite à Coventry, il cède la place à la série 300 à la fin des années 1980.",
+    "anecdote": "Selon Southern Star, la lignée existe toujours : le MF 290 Xtra, à moteur Simpson, est produit pour les pays en développement.",
+    "versions": "Deux et quatre roues motrices ; 77 ch à partir de 1986. Les dates de lancement varient selon les sources (1979 à 1983).",
+    "usine": "Coventry (Banner Lane)",
+    "serie": "Série 200",
+    "nombre_produit": "",
+    "alesage_course": "100,96 × 127 mm",
+    "regime": "2 200 tr/min",
+    "refroidissement": "Eau",
+    "vitesses": "8 AV / 2 AR ; 12 AV / 4 AR Multi-Power en option",
+    "vitesse_min_kmh": 2.3,
+    "vitesse_max_kmh": 30.6,
+    "prise_de_force": "540 tr/min ; 1 000 tr/min en option",
+    "relevage": "Catégorie II, contrôle d'effort et de position, 2 290 kg aux rotules",
+    "dimensions": "3 890 × 2 020 × 2 520 mm, empattement 2 286 mm",
+    "pneus": "",
+    "reservoir_l": 90,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/commons-massey-ferguson-290-1.jpg": {
+        "auteur": "Timothy A. Gonsalves",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Massey_Ferguson_290_Tractor_Daya_Chiker_Nov25_A7CR_09518.jpg"
+      }
+    },
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Massey_Ferguson_MF_290",
+      "https://www.southernstar.ie/farming/farm-classics-massey-ferguson-290-a-back-to-basics-machine-4262543",
+      "https://commons.wikimedia.org/wiki/File:Massey_Ferguson_290_Tractor_Daya_Chiker_Nov25_A7CR_09518.jpg"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "massey-ferguson-2640",
+    "modele": "MF 2640",
+    "surnom": "",
+    "constructeur": "massey-ferguson",
+    "photos": [
+      "assets/img/tracteurs/commons-massey-ferguson-2640-1.jpg"
+    ],
+    "debut": 1980,
+    "fin": 1985,
+    "pays": "France",
+    "puissance_ch": 104,
+    "moteur": "Perkins A6.354.4, diesel atmosphérique à injection directe",
+    "cylindres": 6,
+    "cylindree_cm3": 5797,
+    "couple_nm": 351,
+    "poids_kg": 5320,
+    "qualites": [
+      "Conception moderne pour l'époque",
+      "Hydraulique puissant",
+      "Cabine insonorisée avec climatisation de série"
+    ],
+    "defauts": [
+      "Grand rayon de braquage en quatre roues motrices",
+      "Arrêt obligatoire pour changer de gamme"
+    ],
+    "reputation": "Selon Koneviesti, un tracteur moderne pour son temps, à l'hydraulique puissant et à la cabine de qualité.",
+    "histoire": "Présenté fin 1979 pour succéder à la gamme 1000, le MF 2640 inaugure une série 2000 entièrement nouvelle, construite à Beauvais.",
+    "anecdote": "Les MF de la série 2000 sortaient d'usine avec des capots latéraux en plastique ; d'après Southern Star, la plupart ont depuis été « retirés, abîmés ou perdus ».",
+    "versions": "Deux ou quatre roues motrices ; 104 puis 110 ch ; 2640 Turbo de 120 ch.",
+    "usine": "Beauvais (Oise)",
+    "serie": "Série 2000",
+    "nombre_produit": "",
+    "alesage_course": "98,48 × 127 mm",
+    "regime": "2 400 tr/min (110 ch à partir de 1981)",
+    "refroidissement": "Eau",
+    "vitesses": "16 AV / 12 AR avec demi-rapport sous charge et inverseur",
+    "vitesse_min_kmh": 1.8,
+    "vitesse_max_kmh": 30,
+    "prise_de_force": "540 et 1 000 tr/min, embrayage hydraulique indépendant",
+    "relevage": "Catégorie II/III, 4 500 kg (7 320 kg à partir de 1981)",
+    "dimensions": "5 080 × 2 120 × 2 810 mm, empattement 2 726 mm",
+    "pneus": "AR 18.4-38",
+    "reservoir_l": 213,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/commons-massey-ferguson-2640-1.jpg": {
+        "auteur": "GT1976",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:2017-10-31_(910)_Massey_Ferguson_2640_in_Melk,_Austria.jpg"
+      }
+    },
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Massey_Ferguson_MF_2640",
+      "https://tractordata.com/farm-tractors/000/8/5/855-massey-ferguson-2640.html",
+      "https://www.koneviesti.fi/en/konedata/traktorit/massey-ferguson/massey-ferguson-2620-2720",
+      "https://southernstar.ie/farming/farm-classics-4258510",
+      "https://commons.wikimedia.org/wiki/File:2017-10-31_(910)_Massey_Ferguson_2640_in_Melk,_Austria.jpg"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "john-deere-1020",
+    "modele": "1020",
+    "surnom": "",
+    "constructeur": "john-deere",
+    "photos": [
+      "assets/img/tracteurs/commons-john-deere-1020-1.jpg"
+    ],
+    "debut": 1965,
+    "fin": 1975,
+    "pays": "Allemagne",
+    "puissance_ch": 44,
+    "moteur": "John Deere trois cylindres diesel atmosphérique à injection directe",
+    "cylindres": 3,
+    "cylindree_cm3": 2490,
+    "couple_nm": 152,
+    "poids_kg": 2240,
+    "qualites": [
+      "Modèle le plus vendu de la série 20",
+      "Prise de force indépendante 540/1 000",
+      "Consommation modeste"
+    ],
+    "defauts": [
+      "Prix élevé"
+    ],
+    "reputation": "Petit tracteur compact, best-seller de la série 20 de Mannheim selon le Traktorenlexikon.",
+    "histoire": "Lancé en 1965 dans la série 20, le 1020 reçoit en 1971 un moteur plus gros en préparation de la série 30. Sa production s'arrête en 1975.",
+    "anecdote": "En 2016, un journaliste du Farmers Journal a retrouvé le John Deere 1020 qu'il conduisait étudiant dans les années 1970 chez un entrepreneur du comté de Galway. Construit à Mannheim en 1966, il était resté plus de 30 ans dans la même cour avant d'être racheté par un collectionneur.",
+    "versions": "Standard, vigneron (VU) et verger (OU) ; moteur de 2 695 cm³ et 46 ch à partir d'avril 1971.",
+    "usine": "Mannheim pour l'Europe (aussi Dubuque et Saltillo)",
+    "serie": "Série 20",
+    "nombre_produit": "16 194 exemplaires",
+    "alesage_course": "98 × 110 mm",
+    "regime": "2 500 tr/min (46 ch à partir de 1971)",
+    "refroidissement": "Eau",
+    "vitesses": "8 AV / 4 AR ; demi-powershift en option",
+    "vitesse_min_kmh": 1.6,
+    "vitesse_max_kmh": 25,
+    "prise_de_force": "Indépendante, 540 et 1 000 tr/min",
+    "relevage": "Catégorie I/II, contrôle d'effort et de position, 1 620 kg",
+    "dimensions": "3 430 × 1 600 × 2 100 mm, empattement 2 050 mm",
+    "pneus": "AV 6.00-16 ; AR 12.4-28",
+    "reservoir_l": 62.5,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/commons-john-deere-1020-1.jpg": {
+        "auteur": "Ferd JDF",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:John_Deere_1020.JPG"
+      }
+    },
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_John_Deere_1020",
+      "https://www.tractordata.com/farm-tractors/000/0/6/65-john-deere-1020.html",
+      "https://www.farmersjournal.ie/finding-my-deere-after-40-years-199574",
+      "https://commons.wikimedia.org/wiki/File:John_Deere_1020.JPG"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "john-deere-1120",
+    "modele": "1120",
+    "surnom": "",
+    "constructeur": "john-deere",
+    "photos": [
+      "assets/img/tracteurs/commons-john-deere-1120-1.jpg"
+    ],
+    "debut": 1967,
+    "fin": 1975,
+    "pays": "Allemagne",
+    "puissance_ch": 49,
+    "moteur": "John Deere trois cylindres diesel atmosphérique à injection directe",
+    "cylindres": 3,
+    "cylindree_cm3": 2695,
+    "couple_nm": 162,
+    "poids_kg": 2270,
+    "qualites": [
+      "Garde au sol élevée",
+      "Bon rapport poids/puissance"
+    ],
+    "defauts": [],
+    "reputation": "Selon le Traktorenlexikon, il s'est très bien vendu grâce à sa garde au sol et à son bon rapport poids/puissance.",
+    "histoire": "Présenté en 1967, le 1120 est le trois-cylindres le plus puissant de la série 20 de Mannheim, produit jusqu'en 1975.",
+    "anecdote": "",
+    "versions": "49 ch jusqu'en 1971, puis 51 ch ; boîte standard ou demi-powershift.",
+    "usine": "Mannheim",
+    "serie": "Série 20",
+    "nombre_produit": "14 408 exemplaires",
+    "alesage_course": "102 × 110 mm",
+    "regime": "2 500 tr/min (51 ch à partir de 1971)",
+    "refroidissement": "Eau",
+    "vitesses": "8 AV / 4 AR ; demi-powershift 16 AV / 8 AR en option",
+    "vitesse_min_kmh": 1.56,
+    "vitesse_max_kmh": 25,
+    "prise_de_force": "Indépendante, 540 et 1 000 tr/min",
+    "relevage": "Catégorie I/II, contrôle d'effort et de position, 1 620 kg",
+    "dimensions": "3 430 × 1 680 × 2 100 mm, empattement 2 050 mm",
+    "pneus": "",
+    "reservoir_l": 62.5,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/commons-john-deere-1120-1.jpg": {
+        "auteur": "MarkusHagenlocher",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:John_Deere_1120.jpg"
+      }
+    },
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_John_Deere_1120",
+      "https://commons.wikimedia.org/wiki/File:John_Deere_1120.jpg"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "john-deere-2030",
+    "modele": "2030",
+    "surnom": "",
+    "constructeur": "john-deere",
+    "photos": [
+      "assets/img/tracteurs/commons-john-deere-2030-1.jpg"
+    ],
+    "debut": 1972,
+    "fin": 1979,
+    "pays": "Allemagne",
+    "puissance_ch": 68,
+    "moteur": "John Deere 4.219, diesel atmosphérique à injection directe",
+    "cylindres": 4,
+    "cylindree_cm3": 3595,
+    "couple_nm": 228,
+    "poids_kg": 2570,
+    "qualites": [
+      "Prise de force totalement indépendante, embrayable sous charge"
+    ],
+    "defauts": [],
+    "reputation": "",
+    "histoire": "Premier modèle de la série 30 qui remplace la série 20 en 1972. La cabine de sécurité arrive en 1975, la version quatre roues motrices en 1976.",
+    "anecdote": "Les 2030 de Mannheim exportés au Canada y étaient vendus sous le nom de 1830, pour éviter la confusion avec le 2030 construit à Dubuque, aux États-Unis.",
+    "versions": "2030 S (deux roues motrices), 2030 A (quatre roues motrices, 1976), LS (powershift), cabine FSC à partir de 1975.",
+    "usine": "Mannheim",
+    "serie": "Série 30",
+    "nombre_produit": "24 339 exemplaires",
+    "alesage_course": "102 × 110 mm",
+    "regime": "2 500 tr/min",
+    "refroidissement": "Liquide",
+    "vitesses": "8 AV / 4 AR ; powershift 16 AV / 8 AR en option",
+    "vitesse_min_kmh": "",
+    "vitesse_max_kmh": 30,
+    "prise_de_force": "Indépendante, sous charge, 540 tr/min (1 000 en option)",
+    "relevage": "Catégorie II, 2 520 kg",
+    "dimensions": "3 545 × 1 970 × 2 750 mm (cabine), empattement 2 178 mm",
+    "pneus": "",
+    "reservoir_l": 75,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/commons-john-deere-2030-1.jpg": {
+        "auteur": "Manataworf",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:John_Deere_2030_S_(Wersdorf_2023).jpg"
+      }
+    },
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_John_Deere_2030",
+      "https://www.tractordata.com/farm-tractors/000/0/8/85-john-deere-2030.html",
+      "https://commons.wikimedia.org/wiki/File:John_Deere_2030_S_(Wersdorf_2023).jpg"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "john-deere-2040",
+    "modele": "2040",
+    "surnom": "",
+    "constructeur": "john-deere",
+    "photos": [],
+    "debut": 1979,
+    "fin": 1986,
+    "pays": "Allemagne",
+    "puissance_ch": 70,
+    "moteur": "John Deere 4.239, diesel atmosphérique à injection directe",
+    "cylindres": 4,
+    "cylindree_cm3": 3918,
+    "couple_nm": 230,
+    "poids_kg": 2835,
+    "qualites": [
+      "Pont avant moteur optionnel avec angle de braquage de 50°"
+    ],
+    "defauts": [],
+    "reputation": "",
+    "histoire": "Quatre-cylindres de la série 40 construite à Mannheim de 1979 à 1986, à ne pas confondre avec le 2040 nord-américain plus ancien.",
+    "anecdote": "",
+    "versions": "Deux roues motrices ou pont avant moteur, version étroite 2040 F, cabines FSC puis MC-1.",
+    "usine": "Mannheim",
+    "serie": "Série 40",
+    "nombre_produit": "",
+    "alesage_course": "106,5 × 110 mm",
+    "regime": "2 500 tr/min",
+    "refroidissement": "Liquide",
+    "vitesses": "8 AV / 4 AR synchronisée ; 16 AV / 8 AR ou rampante en option",
+    "vitesse_min_kmh": "",
+    "vitesse_max_kmh": 30,
+    "prise_de_force": "540 tr/min ; 540/1 000 en option",
+    "relevage": "Catégorie II, 3 070 kg",
+    "dimensions": "3 735 × 2 060 × 2 595 mm, empattement 2 280 mm",
+    "pneus": "",
+    "reservoir_l": 95,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_John_Deere_2040"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "john-deere-2130",
+    "modele": "2130",
+    "surnom": "",
+    "constructeur": "john-deere",
+    "photos": [
+      "assets/img/tracteurs/commons-john-deere-2130-1.jpg"
+    ],
+    "debut": 1972,
+    "fin": 1979,
+    "pays": "Allemagne",
+    "puissance_ch": 75,
+    "moteur": "John Deere 4.239, diesel atmosphérique à injection directe",
+    "cylindres": 4,
+    "cylindree_cm3": 3916,
+    "couple_nm": 255,
+    "poids_kg": 2740,
+    "qualites": [
+      "Plus gros quatre-cylindres John Deere de son époque"
+    ],
+    "defauts": [],
+    "reputation": "Modèle le plus produit de la série 30 de Mannheim.",
+    "histoire": "Quatre-cylindres le plus puissant de la série 30 de Mannheim, produit de 1972 à 1979 à plus de 36 000 exemplaires.",
+    "anecdote": "En 1975, l'usine de Mannheim a produit 11 798 John Deere 2130 en une seule année : un record annuel qui, selon le Traktorenlexikon, n'a jamais été battu depuis.",
+    "versions": "Deux roues motrices, quatre roues motrices à partir de 1976, powershift, cabine FSC à partir de 1975.",
+    "usine": "Mannheim",
+    "serie": "Série 30",
+    "nombre_produit": "36 064 exemplaires",
+    "alesage_course": "106,5 × 110 mm",
+    "regime": "2 500 tr/min",
+    "refroidissement": "Liquide",
+    "vitesses": "8 AV / 4 AR ; powershift 16 AV / 8 AR en option",
+    "vitesse_min_kmh": "",
+    "vitesse_max_kmh": 30,
+    "prise_de_force": "Indépendante, sous charge, 540/1 000 tr/min",
+    "relevage": "Catégorie II, environ 2 065 kg",
+    "dimensions": "Longueur 3 598 mm, empattement 2 178 mm",
+    "pneus": "",
+    "reservoir_l": 90,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/commons-john-deere-2130-1.jpg": {
+        "auteur": "thomy3k",
+        "licence": "CC BY-SA 2.5",
+        "page": "https://commons.wikimedia.org/wiki/File:John_Deere_2130_Allrad_2.jpg"
+      }
+    },
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_John_Deere_2130",
+      "https://www.tractordata.com/farm-tractors/000/7/2/723-john-deere-2130.html",
+      "https://commons.wikimedia.org/wiki/File:John_Deere_2130_Allrad_2.jpg"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "john-deere-3030",
+    "modele": "3030",
+    "surnom": "",
+    "constructeur": "john-deere",
+    "photos": [
+      "assets/img/tracteurs/commons-john-deere-3030-1.jpg"
+    ],
+    "debut": 1978,
+    "fin": 1979,
+    "pays": "Allemagne",
+    "puissance_ch": 86,
+    "moteur": "John Deere 6.329, diesel atmosphérique à injection directe",
+    "cylindres": 6,
+    "cylindree_cm3": 5356,
+    "couple_nm": 285,
+    "poids_kg": 3850,
+    "qualites": [
+      "Bon démarrage à froid",
+      "Grosse force de traction"
+    ],
+    "defauts": [
+      "Réparations de la version quatre roues motrices hydrostatique réservées aux spécialistes"
+    ],
+    "reputation": "Réputé pour son bon démarrage à froid et sa forte capacité de traction (Traktorenlexikon).",
+    "histoire": "En 1978, le 3030 complète par le bas la gamme six-cylindres de Mannheim, comme petit frère du 3130.",
+    "anecdote": "",
+    "versions": "Deux roues motrices ou quatre roues motrices à pont avant hydrostatique ; arceau, toit ou cabine.",
+    "usine": "Mannheim",
+    "serie": "Série 30",
+    "nombre_produit": "",
+    "alesage_course": "102 × 110 mm",
+    "regime": "2 500 tr/min",
+    "refroidissement": "Liquide",
+    "vitesses": "12 AV / 6 AR avec double gamme sous charge",
+    "vitesse_min_kmh": 2.02,
+    "vitesse_max_kmh": 30,
+    "prise_de_force": "540/1 000 tr/min sous charge",
+    "relevage": "Catégorie II, 3 840 kg",
+    "dimensions": "Longueur environ 4 050 mm, empattement 2 464 mm",
+    "pneus": "",
+    "reservoir_l": 106,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/commons-john-deere-3030-1.jpg": {
+        "auteur": "Klaus Nahr",
+        "licence": "CC BY-SA 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:John_Deere_3030_LS,_Neuthard_2010.jpg"
+      }
+    },
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_John_Deere_3030",
+      "https://commons.wikimedia.org/wiki/File:John_Deere_3030_LS,_Neuthard_2010.jpg"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "john-deere-3040",
+    "modele": "3040",
+    "surnom": "",
+    "constructeur": "john-deere",
+    "photos": [
+      "assets/img/tracteurs/commons-john-deere-3040-1.jpg"
+    ],
+    "debut": 1979,
+    "fin": 1986,
+    "pays": "Allemagne",
+    "puissance_ch": 90,
+    "moteur": "John Deere 6.359, diesel atmosphérique à injection directe",
+    "cylindres": 6,
+    "cylindree_cm3": 5883,
+    "couple_nm": 313,
+    "poids_kg": 3855,
+    "qualites": [
+      "Cabine Sound-Gard 2 insonorisée (79,5 dB)"
+    ],
+    "defauts": [],
+    "reputation": "",
+    "histoire": "Six-cylindres d'entrée de gamme de la série 40 de Mannheim ; le 3140, presque identique, en est la version un peu plus puissante.",
+    "anecdote": "",
+    "versions": "Deux ou quatre roues motrices, 25 ou 30 km/h, cabine Sound-Gard 2 en option.",
+    "usine": "Mannheim",
+    "serie": "Série 40",
+    "nombre_produit": "",
+    "alesage_course": "106,5 × 110 mm",
+    "regime": "2 500 tr/min (92 ch à partir de 1982)",
+    "refroidissement": "Liquide",
+    "vitesses": "8 AV / 4 AR ; rampante ou 16 AV / 8 AR en option",
+    "vitesse_min_kmh": 2.0,
+    "vitesse_max_kmh": 30,
+    "prise_de_force": "Indépendante, sous charge, 540/1 000 tr/min",
+    "relevage": "Catégorie II, 4 100 kg ; relevage avant en option",
+    "dimensions": "4 250 × 2 055 × 2 795 mm, empattement 2 550 mm",
+    "pneus": "",
+    "reservoir_l": 102,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/commons-john-deere-3040-1.jpg": {
+        "auteur": "Joost J. Bakker",
+        "licence": "CC BY 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:John_Deere_3040.jpg"
+      }
+    },
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_John_Deere_3040",
+      "https://commons.wikimedia.org/wiki/File:John_Deere_3040.jpg"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "john-deere-3140",
+    "modele": "3140",
+    "surnom": "",
+    "constructeur": "john-deere",
+    "photos": [
+      "assets/img/tracteurs/commons-john-deere-3140-1.jpg"
+    ],
+    "debut": 1979,
+    "fin": 1986,
+    "pays": "Allemagne",
+    "puissance_ch": 97,
+    "moteur": "John Deere 6.359, diesel atmosphérique à injection directe",
+    "cylindres": 6,
+    "cylindree_cm3": 5879,
+    "couple_nm": 305,
+    "poids_kg": 3855,
+    "qualites": [
+      "Cabine Sound-Gard 2 insonorisée",
+      "Très souvent commandé en quatre roues motrices en Allemagne"
+    ],
+    "defauts": [],
+    "reputation": "Selon le Traktorenlexikon, très demandé en Allemagne, surtout en quatre roues motrices.",
+    "histoire": "Lancé en 1979 avec 97 ch, le 3140 reçoit en 1981 la cabine Sound-Gard 2 ; la série 50 le remplace en 1986.",
+    "anecdote": "",
+    "versions": "Deux ou quatre roues motrices ; 97 puis 100 ch ; cabine Sound-Gard 2 à partir de 1981.",
+    "usine": "Mannheim (cabine fabriquée à Bruchsal)",
+    "serie": "Série 40",
+    "nombre_produit": "",
+    "alesage_course": "106,5 × 110 mm",
+    "regime": "2 500 tr/min (100 ch ensuite)",
+    "refroidissement": "Liquide",
+    "vitesses": "8 AV / 4 AR ; rampante ou 16 AV / 8 AR en option",
+    "vitesse_min_kmh": 0.68,
+    "vitesse_max_kmh": 30,
+    "prise_de_force": "Indépendante, sous charge, 540/1 000 tr/min",
+    "relevage": "Catégorie II, 4 100 kg ; relevage avant en option",
+    "dimensions": "4 250 × 2 055 × 2 795 mm, empattement 2 550 mm",
+    "pneus": "",
+    "reservoir_l": 126,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/commons-john-deere-3140-1.jpg": {
+        "auteur": "Bob Adams",
+        "licence": "CC BY-SA 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:John_Deere_3140_(11815173625).jpg"
+      }
+    },
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_John_Deere_3140",
+      "https://commons.wikimedia.org/wiki/File:John_Deere_3140_(11815173625).jpg"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "john-deere-3640",
+    "modele": "3640",
+    "surnom": "",
+    "constructeur": "john-deere",
+    "photos": [
+      "assets/img/tracteurs/commons-john-deere-3640-1.jpg"
+    ],
+    "debut": 1984,
+    "fin": 1986,
+    "pays": "Allemagne",
+    "puissance_ch": 112,
+    "moteur": "John Deere 6.359, diesel à injection directe",
+    "cylindres": 6,
+    "cylindree_cm3": 5883,
+    "couple_nm": 392,
+    "poids_kg": 4930,
+    "qualites": [
+      "Conçu pour le travail combiné avec outils avant et arrière",
+      "Poids important, favorable à la traction"
+    ],
+    "defauts": [],
+    "reputation": "Haut de gamme des six-cylindres de Mannheim à partir de 1984.",
+    "histoire": "Lancé en 1984 comme modèle de tête des six-cylindres de Mannheim, le 3640 est pensé pour le travail combiné avec outils avant et arrière, alors en plein essor.",
+    "anecdote": "",
+    "versions": "3640 A, quatre roues motrices, cabine Sound-Gard 2.",
+    "usine": "Mannheim",
+    "serie": "Série 40",
+    "nombre_produit": "",
+    "alesage_course": "106,5 × 110 mm",
+    "regime": "2 400 tr/min",
+    "refroidissement": "Liquide",
+    "vitesses": "8 AV / 4 AR synchronisée ; 16 AV / 8 AR en option",
+    "vitesse_min_kmh": 2.6,
+    "vitesse_max_kmh": 30,
+    "prise_de_force": "Indépendante, sous charge, 540/1 000 tr/min",
+    "relevage": "Arrière catégorie III, 5 800 kg ; avant 2 900 kg en option",
+    "dimensions": "4 790 × 2 165 × 2 820 mm, empattement 2 582 mm",
+    "pneus": "AV 12.4 R 26 ; AR 16.9 R 38",
+    "reservoir_l": 134,
+    "prix_epoque": "78 982 DM (1985)",
+    "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/commons-john-deere-3640-1.jpg": {
+        "auteur": "Friedrich Böhringer",
+        "licence": "CC BY-SA 2.5",
+        "page": "https://commons.wikimedia.org/wiki/File:JohnDeereSilage.JPG"
+      }
+    },
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_John_Deere_3640",
+      "https://tractordata.com/farm-tractors/000/1/7/175-john-deere-3640.html",
+      "https://commons.wikimedia.org/wiki/File:JohnDeereSilage.JPG"
+    ],
+    "verifie": false
   }
 ];
