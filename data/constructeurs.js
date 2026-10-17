@@ -194,5 +194,32 @@ window.CONSTRUCTEURS = [
     "fondation": 1926,
     "fin": null,
     "histoire": "Daimler-Benz, née en 1926, acquiert les droits de l'Unimog en 1951 et le produit à Gaggenau. C'est dans cette usine qu'est développé le MB-trac, tracteur à cabine centrale et quatre roues égales qui partage la transmission de l'Unimog, produit de 1973 au 17 décembre 1991 à environ 41 000 exemplaires."
+  },
+  {
+    "id": "same",
+    "marque": "Same",
+    "nom": "SAME (Società Accomandita Motori Endotermici)",
+    "pays": "Italie",
+    "fondation": 1942,
+    "fin": null,
+    "histoire": "SAME (Società Accomandita Motori Endotermici) a été fondée en 1942 à Treviglio, près de Bergame, par les frères Francesco et Eugenio Cassani, auteurs dès 1927 de l'un des premiers tracteurs diesel. Pionnière des quatre roues motrices de série (DA 25, 1952), elle rachète Lamborghini Trattori en 1972-1973, puis Hürlimann en 1979 (groupe SLH). Elle reprend Deutz-Fahr en 1995 pour former SAME Deutz-Fahr, aujourd'hui SDF."
+  },
+  {
+    "id": "valmet",
+    "marque": "Valmet",
+    "nom": "Valmet (Valtion Metallitehtaat)",
+    "pays": "Finlande",
+    "fondation": 1946,
+    "fin": 2001,
+    "histoire": "Valmet est née de la fusion d'usines d'armement d'État finlandaises (Valtion Metallitehtaat) après la guerre. Les premiers tracteurs sortent à Tourula (Jyväskylä) en 1951, puis la production est transférée à Suolahti en 1969 ; une usine brésilienne ouvre en 1960. Valmet reprend l'activité tracteurs de Volvo BM en 1979 (marque Volvo BM Valmet), fusionne avec Sisu en 1994, et la marque devient Valtra en 2001."
+  },
+  {
+    "id": "steyr",
+    "marque": "Steyr",
+    "nom": "Steyr-Daimler-Puch",
+    "pays": "Autriche",
+    "fondation": 1947,
+    "fin": null,
+    "histoire": "Les tracteurs Steyr sont produits depuis 1947 à St. Valentin par le conglomérat Steyr-Daimler-Puch, formé par fusions en 1928 et 1934. Le premier exemplaire, un type 180, est livré le 29 septembre 1947. Rachetée par Case en 1996 (Case-Steyr), l'activité est aujourd'hui une marque de CNH Industrial, toujours produite à St. Valentin."
   }
 ];

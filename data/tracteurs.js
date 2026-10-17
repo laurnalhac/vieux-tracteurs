@@ -4851,5 +4851,613 @@ window.TRACTEURS = [
       "https://fr.wikipedia.org/wiki/Renault_Agriculture"
     ],
     "verifie": false
+  },
+  {
+    "id": "same-centauro",
+    "modele": "Centauro 60",
+    "surnom": "",
+    "constructeur": "same",
+    "photos": [
+      "assets/img/tracteurs/commons-same-centauro-1.jpg"
+    ],
+    "debut": 1969,
+    "fin": 1972,
+    "pays": "Italie",
+    "puissance_ch": 57,
+    "moteur": "SAME DA 021-954/V, diesel V4 4 temps refroidi par air, injection directe, soupapes en tête",
+    "cylindres": 4,
+    "cylindree_cm3": 3402,
+    "couple_nm": 201,
+    "poids_kg": 2130,
+    "qualites": [
+      "Moteur refroidi par air, sans circuit d'eau",
+      "Prise de force indépendante",
+      "Version 4 roues motrices disponible"
+    ],
+    "defauts": [
+      "Freins à bande",
+      "Direction mécanique",
+      "Relevage seulement cat. I"
+    ],
+    "reputation": "SAME présente l'arrivée du Centauro (1966) comme le passage « des mécaniques traditionnelles aux mécaniques modernes ».",
+    "histoire": "La gamme Centauro a été lancée en 1965-1966 avec des moteurs V4 refroidis par air de 3,5 l. Le Centauro 60 (1969/1970-1972) en est une évolution de 57 ch, en 2 ou 4 roues motrices. Il est remplacé par le Centauro 65 (1972-1978).",
+    "anecdote": "D'après le Traktorenlexikon, les trois premiers Centauro, construits au milieu des années 1960, avaient un moteur V4 de 3,5 l. Les modèles suivants sont passés à des 4 cylindres en ligne. Les sources ne s'accordent pas sur le lancement : Wikipédia (EN) donne 1965, SAME donne 1966.",
+    "versions": "2 roues motrices et DT (4 roues motrices). Famille Centauro : premiers Centauro (années 1960) à V4 3,5 l, Centauro 55, Centauro 65 (1972-1978, 4 cyl. 3,8 l, 64 ch), puis Centauro 70 (1981-1987, 68 ch, inverseur 12/12)",
+    "usine": "Treviglio (Bergame, Italie), siège et usine SAME",
+    "serie": "Centauro (fiche : Centauro 60)",
+    "nombre_produit": "",
+    "alesage_course": "95 x 120 mm",
+    "regime": "2000 tr/min",
+    "refroidissement": "Air",
+    "vitesses": "8 AV / 4 AR (boîte à 3 gammes)",
+    "vitesse_min_kmh": 1.14,
+    "vitesse_max_kmh": 25,
+    "prise_de_force": "Indépendante, commutable en proportionnelle ; 540 tr/min (embout 1 3/8\" 6 cannelures)",
+    "relevage": "Relevage 3 points cat. I, vérin simple effet ; pompe 16,3 l/min à 176 bar ; 1732 kg à 585 mm derrière les rotules ; 1 distributeur SE + 1 DE",
+    "dimensions": "L 3530 mm (2RM) / 3560 mm (DT) ; l 1740-2440 mm selon voie ; H 1570 mm ; empattement 2150 mm (DT 2140 mm)",
+    "pneus": "AV 6.00-16 (DT : 9.5-20) ; AR 12-28",
+    "reservoir_l": 75,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/commons-same-centauro-1.jpg": {
+        "auteur": "Joost J. Bakker (IJmuiden)",
+        "licence": "CC BY 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:SAME_Centauro_60_-_Flickr_-_Joost_J._Bakker_IJmuiden.jpg"
+      }
+    },
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_SAME_Centauro_60",
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_SAME",
+      "https://www.tractordata.com/farm-tractors/002/4/8/2480-same-centauro-60.html",
+      "https://www.tractordata.com/farm-tractors/002/4/8/2481-same-centauro-65.html",
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_SAME_Centauro_70_(DT)",
+      "https://en.wikipedia.org/wiki/SAME_(tractors)",
+      "https://www.same-tractors.com/en-eu/history",
+      "https://commons.wikimedia.org/wiki/File:SAME_Centauro_60_-_Flickr_-_Joost_J._Bakker_IJmuiden.jpg"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "same-leopard",
+    "modele": "Leopard 90 Turbo",
+    "surnom": "",
+    "constructeur": "same",
+    "photos": [
+      "assets/img/tracteurs/commons-same-leopard-1.jpg"
+    ],
+    "debut": 1982,
+    "fin": 1984,
+    "pays": "Italie",
+    "puissance_ch": 88,
+    "moteur": "SAME DA 1054 P-Turbo, diesel 4 cylindres en ligne turbocompressé, refroidi air-huile, injection directe",
+    "cylindres": 4,
+    "cylindree_cm3": 4154,
+    "couple_nm": 312,
+    "poids_kg": 3160,
+    "qualites": [
+      "Transmission 4RM par arbre central, jugée en avance sur son temps",
+      "Cabine à plancher plat avec bonne visibilité",
+      "Freins à disques à bain d'huile, direction hydrostatique Danfoss"
+    ],
+    "defauts": [
+      "Rare en Irlande (« rare breed »)",
+      "Pompe hydraulique modeste (35 l/min)"
+    ],
+    "reputation": "Le Leopard est considéré comme le dernier SAME à la livrée classique, tôlerie orange et moteur et châssis bleu marine. En Irlande, la presse agricole le dit rare.",
+    "histoire": "La gamme Leopard est lancée en 1978 à Treviglio avec le Leopard 85. En 1982, son moteur reçoit un turbocompresseur et le tracteur devient le Leopard 90 Turbo, le reste restant largement inchangé.",
+    "anecdote": "Selon le Southern Star, l'ère de la tôlerie orange et du bleu marine s'achève avec le Leopard. La gamme de 1983 passe au rouge sur noir, avec toit de cabine et jantes blancs, et un nouveau logo : un tigre à quatre yeux évoquant la tradition 4 roues motrices de SAME.",
+    "versions": "2 roues motrices et DT. Le Leopard 85 (1978-1982, 82 ch atmosphérique) l'a précédé, et une version chenillée (Leopard C) a existé. La cabine C-20 était en option.",
+    "usine": "Treviglio (Italie)",
+    "serie": "Leopard (fiche : Leopard 90 Turbo)",
+    "nombre_produit": "",
+    "alesage_course": "105 x 120 mm",
+    "regime": "2270 tr/min",
+    "refroidissement": "Air et huile",
+    "vitesses": "12 AV / 3 AR ou 12 AV / 12 AR (inverseur synchronisé) ; options rampantes 24/6 et super-rampantes 20/5 ; version 25 ou 30 km/h",
+    "vitesse_min_kmh": 1.65,
+    "vitesse_max_kmh": 30.11,
+    "prise_de_force": "Indépendante, embrayable sous charge (embrayage multidisque humide) ; 540 et 1000 tr/min ; proportionnelle en option",
+    "relevage": "Relevage SAME cat. II avec contrôle d'effort et de position (S.A.C.) ; pompe 35 l/min à 196 bar ; 4760 kg aux rotules ; option hydraulique auxiliaire 60 l/min",
+    "dimensions": "L 3910 mm (DT 4030 mm) ; l 1960-2560 mm selon voie ; H 2735 mm (cabine) ; empattement 2365 mm",
+    "pneus": "AV 7.50-18 (DT : 14.9-24) ; AR 16.9-34",
+    "reservoir_l": 120,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/commons-same-leopard-1.jpg": {
+        "auteur": "MarkusHagenlocher",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:SAME_Leopard_90-1.jpg"
+      }
+    },
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_SAME_Leopard_90_Turbo",
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_SAME_Leopard_85",
+      "https://www.southernstar.ie/premium-exclusives/farm-classics-italys-leopard-is-a-rare-breed-on-irish-farms-4283277",
+      "https://en.wikipedia.org/wiki/SAME_(tractors)",
+      "https://commons.wikimedia.org/wiki/File:SAME_Leopard_90-1.jpg"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "same-antares",
+    "modele": "Antares 100",
+    "surnom": "",
+    "constructeur": "same",
+    "photos": [
+      "assets/img/tracteurs/commons-same-antares-1.jpg"
+    ],
+    "debut": 1989,
+    "fin": 1995,
+    "pays": "Italie",
+    "puissance_ch": 100,
+    "moteur": "SAME 1000.4 ATI, diesel 4 cylindres en ligne turbo avec refroidissement de l'air de suralimentation, refroidi air-huile",
+    "cylindres": 4,
+    "cylindree_cm3": 4000,
+    "couple_nm": 350,
+    "poids_kg": 3400,
+    "qualites": [
+      "Rapport poids/puissance favorable",
+      "Nombreuses vitesses lentes (rampantes)",
+      "Prise de force et relevage à commande électronique"
+    ],
+    "defauts": [
+      "Rayon de braquage assez grand",
+      "Cabine sobre et la plus bruyante de la gamme (83 dB)",
+      "Pannes électriques possibles (selon le Southern Star, pour la gamme Antares)"
+    ],
+    "reputation": "Selon Koneviesti, l'Antares 100 est en substance un Explorer plus puissant. Le Southern Star signale, comme pour beaucoup de tracteurs de l'époque, des défauts électriques nuisant à la fiabilité.",
+    "histoire": "Présenté en 1989, l'Antares 100 est le premier modèle de la série Antares de SAME-Lamborghini-Hürlimann. Il remplace progressivement les Laser 90 et 100, et partage sa conception avec le Lamborghini 105 Formula et le Hürlimann H-4105. Les 110 et 130 à 6 cylindres suivent en 1991.",
+    "anecdote": "Le nom vient d'Antarès, l'étoile la plus brillante du Scorpion. SAME aimait les noms évoquant la puissance (Southern Star). Koneviesti rapporte que l'Antares 100 « aurait pu s'appeler Explorer 100 » et qu'il était vendu en Allemagne, peint en bleu, par le réseau de concessionnaires Eicher.",
+    "versions": "Antares 100 (4 cyl., 1989-1995). Antares 110 et 130 (1991-1996, 6 cyl. 6 l refroidis par air, style Lamborghini) et Antares II 110/130. En 1994, le Star-Jet 100 a capot plongeant. En Allemagne, il était vendu en bleu par le réseau Eicher.",
+    "usine": "Treviglio (Italie)",
+    "serie": "Antares (fiche : Antares 100, 4 cylindres)",
+    "nombre_produit": "",
+    "alesage_course": "105 x 115,5 mm",
+    "regime": "2500 tr/min",
+    "refroidissement": "Air et huile",
+    "vitesses": "24 AV / 12 AR de série selon le Traktorenlexikon ; options 16/16 et 40/40 (Syncro Power, double gamme sous charge)",
+    "vitesse_min_kmh": 0.36,
+    "vitesse_max_kmh": 40,
+    "prise_de_force": "Électrohydraulique, sous charge : 540, 540E, 1000, 1000E tr/min ; prise de force avant 1000 tr/min en option",
+    "relevage": "Relevage électronique (EHR) cat. I/II avec attelage rapide ; pompe 42,5 l/min à 188 bar ; 4760 kg aux rotules ; relevage avant en option",
+    "dimensions": "L 3860 mm (4080 mm avec bras) ; l 1900 mm ; H 2620 mm (cabine) ; empattement 2320 mm",
+    "pneus": "AV 16.9 R24 ; AR 18.4 R34",
+    "reservoir_l": 110,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/commons-same-antares-1.jpg": {
+        "auteur": "photobeppus (Flickr)",
+        "licence": "CC BY-SA 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Same_Antares_100_Syncropower_(12074643374).jpg"
+      }
+    },
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_SAME_Antares_100",
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_SAME_Antares_110",
+      "https://www.koneviesti.fi/en/konedata/traktorit/same/same-antares-1989-96",
+      "https://www.southernstar.ie/premium-exclusives/farm-classics-same-a-different-kind-of-italia-90-4288549",
+      "https://commons.wikimedia.org/wiki/File:Same_Antares_100_Syncropower_(12074643374).jpg"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "valmet-702",
+    "modele": "702",
+    "surnom": "",
+    "constructeur": "valmet",
+    "photos": [
+      "assets/img/tracteurs/commons-valmet-702-1.jpg"
+    ],
+    "debut": 1972,
+    "fin": 1980,
+    "pays": "Finlande",
+    "puissance_ch": 76,
+    "moteur": "Valmet 411 B (411 C à partir de 1979), diesel 4 cylindres atmosphérique, injection directe, refroidi par eau",
+    "cylindres": 4,
+    "cylindree_cm3": 4177,
+    "couple_nm": 284,
+    "poids_kg": 3365,
+    "qualites": [
+      "Hydraulique et contrôle d'effort plus précis que sur le 502",
+      "Prise de force de série, direction hydrostatique",
+      "Cabine suspendue et insonorisée, pédales suspendues"
+    ],
+    "defauts": [
+      "Chauffage sans filtre à air",
+      "Grand rayon de braquage en 4RM (10,8 m)",
+      "Vitesse minimale élevée"
+    ],
+    "reputation": "Selon Valtra, la série 02 était populaire, surtout en Finlande. Le 702 S turbo était apprécié pour son économie et sa puissance, et salué par un essai Vakola en 1978.",
+    "histoire": "Le 702 remplace le Valmet 700 fin 1972, avec un moteur, une boîte, une direction et une hydraulique améliorés. La version turbo 702 S arrive en 1974-1975 et la version 4 roues motrices en 1978. Il est remplacé au début des années 1980.",
+    "anecdote": "Lancé en 1978, le 702 à quatre roues motrices se reconnaît à ses très grandes roues avant, que Koneviesti décrit comme son trait le plus marquant. Ses roues ne braquaient que de 40°, d'où un diamètre de braquage de 10,8 m contre 7,6 m en deux roues motrices. Un 702 militaire finlandais est exposé au musée RUK de Hamina.",
+    "versions": "Puissance de 71 ch (1972-1974), 76 ch (1974-1979) puis 75 ch (1979-1980, moteur 411 C, nouvelles couleurs, réservoir 97 l). Le 702 S turbo (91 ch) est vendu en Suède sous le nom 903. Le 703 à doublement sous charge était réservé à la Suède. Version 4RM (essieu Carraro) en 1978.",
+    "usine": "Suolahti (Finlande), où la production de tracteurs Valmet est transférée en 1969",
+    "serie": "Série 02",
+    "nombre_produit": "",
+    "alesage_course": "108 x 114 mm (108 x 120 mm et 4397 cm³ à partir de 1979)",
+    "regime": "2200 tr/min",
+    "refroidissement": "Eau",
+    "vitesses": "8 AV / 2 AR synchronisées ; 16 AV / 4 AR avec doublement sous charge Lo/Hi en option",
+    "vitesse_min_kmh": 3.22,
+    "vitesse_max_kmh": 30.52,
+    "prise_de_force": "Indépendante, à pédale ; 540 tr/min, puis 540/1000 tr/min à partir de 1979 ; poulie en option",
+    "relevage": "3 points cat. II, contrôle de position, d'effort et mixte ; pompe 26 l/min à 190 bar (35 l/min à 210 bar à partir de 1979) ; 2150 kp aux rotules (2957 kg à partir de 1979)",
+    "dimensions": "L 3820 mm ; l 1869 mm ; H 2585 mm (cabine) ; empattement 2240 mm (4RM : L 4170, empattement 2445 mm)",
+    "pneus": "AV 7.50-18 ; AR 13.6-38 (4RM : AV 13.6-28, AR 18.4-34)",
+    "reservoir_l": 68,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/commons-valmet-702-1.jpg": {
+        "auteur": "MKFI",
+        "licence": "Domaine public",
+        "page": "https://commons.wikimedia.org/wiki/File:Valmet_702_RUK-museo_1.JPG"
+      }
+    },
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Valmet_702",
+      "https://koneviesti.fi/en/konedata/traktorit/valmet-valtra/valmet-702-1102",
+      "https://valtra.co.uk/blog/history/valmet-702s.html",
+      "https://fi.wikipedia.org/wiki/Valmet_(traktori)",
+      "https://en.wikipedia.org/wiki/Valtra",
+      "https://commons.wikimedia.org/wiki/File:Valmet_702_RUK-museo_1.JPG"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "valmet-805",
+    "modele": "805",
+    "surnom": "",
+    "constructeur": "valmet",
+    "photos": [],
+    "debut": 1983,
+    "fin": 1989,
+    "pays": "Finlande",
+    "puissance_ch": 95,
+    "moteur": "Valmet TD 44 DS 8, diesel 4 cylindres turbo (Holset), injection directe, refroidi par eau",
+    "cylindres": 4,
+    "cylindree_cm3": 4397,
+    "couple_nm": 366,
+    "poids_kg": 3540,
+    "qualites": [
+      "Très maniable (roues braquant à 50°, arbre central)",
+      "Relevage de 4 t et réservoir de 180 l",
+      "Cabine Volvo spacieuse, siège pivotant à 180°"
+    ],
+    "defauts": [
+      "Arrière trop léger avec chargeur frontal",
+      "Vitesse minimale élevée (sans rampante)"
+    ],
+    "reputation": "Koneviesti le décrit comme l'un des tracteurs les plus maniables du marché à son époque. La série a fait de Volvo BM le leader du marché nordique en 1983.",
+    "histoire": "Lancés début 1983 avec le 705, les 805 et 805-4 sont les 4 cylindres turbo de la série 05 Volvo BM Valmet, conçue d'emblée pour les quatre roues motrices. La marque devient simplement Valmet en 1986.",
+    "anecdote": "La cabine des 505 à 905 était en grande partie conçue et fabriquée par Volvo. Son siège pivotant sur 180°, avec un plancher plat, était un atout majeur en travaux forestiers (Koneviesti).",
+    "versions": "805 (2RM) et 805-4 (4RM). Cabine L ou GL (GL de série en 1985). Révision en 1988 : turbo Schwitzer, nouvel essieu avant, cinq coloris. Le 805 Power Plus suit en 1989-1991.",
+    "usine": "Suolahti (Finlande)",
+    "serie": "Série 05 (Volvo BM Valmet, puis Valmet à partir de 1986)",
+    "nombre_produit": "",
+    "alesage_course": "108 x 120 mm",
+    "regime": "2100 tr/min",
+    "refroidissement": "Eau",
+    "vitesses": "8 AV / 4 AR synchronisées ; 16 AV / 8 AR avec doublement sous charge ; option rampante ; overdrive (805 seulement)",
+    "vitesse_min_kmh": 0.3,
+    "vitesse_max_kmh": 39.7,
+    "prise_de_force": "Électrohydraulique indépendante, sous charge ; 540 tr/min de série, 540/1000 en option",
+    "relevage": "Contrôle d'effort mécanique (électronique Autocontrol en option à partir de 1988) ; pompe 51,2 l/min à 175 bar ; 4150 kg aux rotules (4400 kg à partir de 1988 selon Koneviesti)",
+    "dimensions": "L 4515 mm ; l 2130 mm ; H 2705 mm (cabine) ; empattement 2385 mm (4RM 2327 mm)",
+    "pneus": "AV 11.00-16 (4RM : 13.6 R28) ; AR 16.9 R38",
+    "reservoir_l": 180,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Valmet_805",
+      "https://www.koneviesti.fi/en/konedata/traktorit/valmet-valtra/volvo-bm-valmetvalmet-655-905",
+      "https://www.tractordata.com/farm-tractors/001/9/4/1940-valmet-805.html",
+      "https://fi.wikipedia.org/wiki/Valmet_(traktori)",
+      "https://en.wikipedia.org/wiki/Valtra"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "steyr-8080",
+    "modele": "8080",
+    "surnom": "",
+    "constructeur": "steyr",
+    "photos": [
+      "assets/img/tracteurs/commons-steyr-8080-1.jpg"
+    ],
+    "debut": 1979,
+    "fin": 1992,
+    "pays": "Autriche",
+    "puissance_ch": 70,
+    "moteur": "Steyr WD 411 (411.86, puis 411.90 à partir de 1984), diesel 4 cylindres turbo, injection directe, refroidi par eau",
+    "cylindres": 4,
+    "cylindree_cm3": 3456,
+    "couple_nm": 256,
+    "poids_kg": 2808,
+    "qualites": [
+      "Conçu d'emblée pour les 4 roues motrices (arbre central)",
+      "Cabine confort sur silentblocs (72 dB)",
+      "Moteur turbo coupleux"
+    ],
+    "defauts": [
+      "Freins à tambour",
+      "Pneus standard de petite taille"
+    ],
+    "reputation": "Koneviesti souligne la conception moderne de la série 8000 : 4RM d'origine, cabine isolée contre le bruit, et une ligne arrondie inhabituelle à une époque de formes anguleuses. Il note aussi que Steyr gardait des freins à tambour.",
+    "histoire": "La série 8000 apparaît à la fin des années 1970, entièrement repensée pour répondre aux normes de bruit et prévue d'emblée pour les quatre roues motrices. Le 8080 turbo (1979) en est un pilier. Il passe à 72 ch en 1984 et reçoit la cabine SK2 en 1987.",
+    "anecdote": "Selon le Traktorenlexikon, le prix catalogue de 1979 était de 341 138 schillings pour le 8080 à deux roues motrices et de 396 598 schillings pour le 8080a à quatre roues motrices.",
+    "versions": "8080 (2RM), 8080a (4RM), version étroite. 72 ch à partir de 1984. Cabine SK1, puis SK2 à partir de 1987 avec relevage électronique en option.",
+    "usine": "St. Valentin (Basse-Autriche), usine de tracteurs Steyr",
+    "serie": "Série 80 (8000)",
+    "nombre_produit": "environ 6000 exemplaires (Traktorenlexikon)",
+    "alesage_course": "100 x 110 mm",
+    "regime": "2400 tr/min (2200 tr/min à partir de 1984)",
+    "refroidissement": "Eau",
+    "vitesses": "16 AV / 8 AR (option 16/16 ou 32/16) ; versions 25, 30 ou 40 km/h",
+    "vitesse_min_kmh": 1.9,
+    "vitesse_max_kmh": 40,
+    "prise_de_force": "540 et 1000 tr/min (750 en option) ; prise de force avant et ventrale en option",
+    "relevage": "Pompe 35,1 l/min à 180 bar (39 l/min à partir de 1984) ; environ 2600 kp (option 4100 kg à partir de 1984) ; relevage avant cat. II 1250 kp en option",
+    "dimensions": "L 3770 mm (4RM 3805) ; l 1883 mm ; H 2570 mm ; empattement 2195 mm (4RM 2281)",
+    "pneus": "AV 7.50-16 (4RM 11.2-24) ; AR 13.6-38",
+    "reservoir_l": 96,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/commons-steyr-8080-1.jpg": {
+        "auteur": "Joachim Kohler (JoachimKohler-HB)",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Steyr_8080_Turbo_Traktor.jpg"
+      }
+    },
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Steyr_8080",
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Steyr",
+      "https://www.koneviesti.fi/en/konedata/traktorit/steyr/steyr-8060-8090",
+      "https://commons.wikimedia.org/wiki/File:Steyr_8080_Turbo_Traktor.jpg"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "steyr-8090",
+    "modele": "8090",
+    "surnom": "",
+    "constructeur": "steyr",
+    "photos": [
+      "assets/img/tracteurs/commons-steyr-8090-1.jpg"
+    ],
+    "debut": 1983,
+    "fin": 1992,
+    "pays": "Autriche",
+    "puissance_ch": 80,
+    "moteur": "Steyr WD 411.87 / 411.88, diesel 4 cylindres turbo, injection directe, refroidi par eau",
+    "cylindres": 4,
+    "cylindree_cm3": 3456,
+    "couple_nm": 313,
+    "poids_kg": 3020,
+    "qualites": [
+      "Le plus puissant de la petite série 80",
+      "Couple élevé (313 Nm)",
+      "Nombreuses options (prise de force avant, relevage avant)"
+    ],
+    "defauts": [
+      "Freins à tambour de série",
+      "Données d'usine parfois contradictoires selon les sources"
+    ],
+    "reputation": "Le 8090 reprend le 8080 avec 80 ch. Koneviesti décrit la série 8000 comme moderne pour l'époque (4RM d'origine, cabine sur silentblocs).",
+    "histoire": "Présenté en 1983, le 8090 devient le modèle le plus puissant de la petite série 80. Il est identique au 8080 sauf pour sa puissance de 80 ch. Il est produit jusqu'en 1992.",
+    "anecdote": "Selon le Traktorenlexikon, le prix catalogue de 1984 était de 501 360 schillings pour le 8090 à deux roues motrices et de 578 160 schillings pour le 8090a à quatre roues motrices. En 1991, le guide Terre-net donne un prix de 39 640 €.",
+    "versions": "8090 (2RM) et 8090a (4RM). Cabine SK1, puis SK2 à partir de 1987.",
+    "usine": "St. Valentin (Basse-Autriche)",
+    "serie": "Série 80 (8000)",
+    "nombre_produit": "",
+    "alesage_course": "100 x 110 mm",
+    "regime": "2200 tr/min",
+    "refroidissement": "Eau (double circuit thermostaté)",
+    "vitesses": "16 AV / 8 AR (option 16/16 ou 32/16) ; versions 25, 30 ou 40 km/h",
+    "vitesse_min_kmh": 1.7,
+    "vitesse_max_kmh": 40,
+    "prise_de_force": "Indépendante, sous charge ; 540 et 1000 tr/min (750 en option) ; proportionnelle, avant ou ventrale en option",
+    "relevage": "Contrôle d'effort mécanique, cat. I/II ; pompe 39 l/min à 180 bar (option 46 l/min) ; 4500 kp maxi ; relevage avant 1250 kp en option",
+    "dimensions": "L 3770 mm (4RM 3868) ; l 1960-2115 mm ; H 2495 mm (cabine) ; empattement 2195 mm (4RM 2281)",
+    "pneus": "AV 9.00-16 (4RM 13.6-24) ; AR 16.9-34",
+    "reservoir_l": 96,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/commons-steyr-8090-1.jpg": {
+        "auteur": "Joachim Kohler (JoachimKohler-HB)",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Steyr_8090_Turbo.jpg"
+      }
+    },
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Steyr_8090",
+      "https://www.koneviesti.fi/en/konedata/traktorit/steyr/steyr-8060-8090",
+      "https://www.tractordata.com/farm-tractors/003/5/7/3570-steyr-8090.html",
+      "https://www.terre-net.fr/guide-machinisme/fiche-technique-tracteurs-steyr-8090-1991/f2958t0",
+      "https://commons.wikimedia.org/wiki/File:Steyr_8090_Turbo.jpg"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "landini-6500",
+    "modele": "6500",
+    "surnom": "",
+    "constructeur": "landini",
+    "photos": [
+      "assets/img/tracteurs/commons-landini-6500-1.jpg"
+    ],
+    "debut": 1973,
+    "fin": 1983,
+    "pays": "Italie",
+    "puissance_ch": 65,
+    "moteur": "Perkins A4.236 (variante A4.212), diesel 4 cylindres atmosphérique, injection directe, refroidi par eau",
+    "cylindres": 4,
+    "cylindree_cm3": 3867,
+    "couple_nm": 248,
+    "poids_kg": 2210,
+    "qualites": [
+      "Moteur Perkins éprouvé",
+      "Boîte entièrement synchronisée",
+      "Prise de force indépendante"
+    ],
+    "defauts": [
+      "Freins à disques secs",
+      "Pas de doublement rapide type Multi-Power MF",
+      "Versions de base très dépouillées"
+    ],
+    "reputation": "Le Traktorenlexikon le présente comme l'équivalent du Massey-Ferguson 174. Koneviesti note que l'équipement variait beaucoup selon les pays.",
+    "histoire": "Lancée en 1973 alors que Landini appartenait à Massey Ferguson, la série 500 couvrait de 55 à 102 ch, avec des moteurs Perkins et une face avant plus profilée. Le 6500 en est le 4 cylindres de 65 ch, produit jusqu'en 1983.",
+    "anecdote": "",
+    "versions": "2RM et DT (4RM). Poste ouvert de série, arceau ou toit en option. Gamme 500 : 5500, 6500, 7500, 8500, 9500.",
+    "usine": "Fabbrico (Reggio d'Émilie, Italie)",
+    "serie": "Série 500",
+    "nombre_produit": "",
+    "alesage_course": "98,42 x 127 mm",
+    "regime": "2200 tr/min",
+    "refroidissement": "Eau",
+    "vitesses": "12 AV / 4 AR (4 rapports synchronisés x 3 gammes)",
+    "vitesse_min_kmh": 1.38,
+    "vitesse_max_kmh": 25.32,
+    "prise_de_force": "Indépendante, à levier, commutable en proportionnelle ; 540 et 1000 tr/min selon le Traktorenlexikon (Koneviesti indique 540)",
+    "relevage": "Contrôle de position et d'effort, cat. II, vérin simple effet ; pompe à pistons 28 l/min à 170 bar ; 2650 kp aux rotules",
+    "dimensions": "L 3620 mm (4RM 3760) ; l 1780 mm ; H 2260 mm (arceau) ; empattement 2210 mm (4RM 2180)",
+    "pneus": "AV 7.50-16 (4RM 9.5-24) ; AR 14.9/13-30",
+    "reservoir_l": 61,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/commons-landini-6500-1.jpg": {
+        "auteur": "Joost J. Bakker (IJmuiden)",
+        "licence": "CC BY 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Landini_6500.jpg"
+      }
+    },
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Landini_6500",
+      "https://www.koneviesti.fi/en/konedata/traktorit/landini/landini-5500-9500-1973-83-massey-ferguson-1104",
+      "https://en.wikipedia.org/wiki/Landini_(tractor)",
+      "https://commons.wikimedia.org/wiki/File:Landini_6500.jpg"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "landini-8550",
+    "modele": "8550",
+    "surnom": "",
+    "constructeur": "landini",
+    "photos": [],
+    "debut": 1978,
+    "fin": 1987,
+    "pays": "Italie",
+    "puissance_ch": 80,
+    "moteur": "Perkins A4.248 (réf. LF 22762 U), diesel 4 cylindres atmosphérique, injection directe, refroidi par eau",
+    "cylindres": 4,
+    "cylindree_cm3": 4062,
+    "couple_nm": 286,
+    "poids_kg": 3170,
+    "qualites": [
+      "Plus robuste que la série 500",
+      "Freins à disques à bain d'huile",
+      "Blocage de différentiel avant automatique en 4RM"
+    ],
+    "defauts": [
+      "Intérieur de cabine nettement plus modeste que sur les MF série 600",
+      "Direction mécanique en 2RM"
+    ],
+    "reputation": "Koneviesti le juge plus robuste que la série précédente, avec une cabine plus spartiate que celle de ses cousins Massey Ferguson.",
+    "histoire": "La série 550 de 1978 n'apporte que de légères améliorations par rapport à la série 500. Le 8550 reçoit des freins à disques humides, un empattement allongé d'environ 20 cm et un style plus proche des Massey Ferguson.",
+    "anecdote": "Selon Koneviesti, la coque de cabine de la série 550 a été reprise quelques années plus tard par Massey Ferguson pour sa série 600. MF y a aussi monté l'essieu avant Landini à blocage de différentiel automatique.",
+    "versions": "8550 (2RM) et 8550 DT (4RM, essieu avant à blocage automatique). Série 550 : 6550, 7550, 8550.",
+    "usine": "Fabbrico (Italie)",
+    "serie": "Série 550",
+    "nombre_produit": "",
+    "alesage_course": "100,96 x 127 mm",
+    "regime": "2200 tr/min",
+    "refroidissement": "Eau",
+    "vitesses": "12 AV / 4 AR (4 rapports synchronisés x 3 gammes, leviers des deux côtés du siège)",
+    "vitesse_min_kmh": 1.31,
+    "vitesse_max_kmh": 26.0,
+    "prise_de_force": "Indépendante, à levier, 540 et 1000 tr/min ; proportionnelle",
+    "relevage": "Contrôle de position et d'effort, cat. II ; pompe 33,6 l/min à 157 bar ; 2957 kg à 660 mm des rotules (Koneviesti : 2540 kg)",
+    "dimensions": "L 3860 mm (4RM 3980) ; l 1999 mm ; H 2770 mm (arceau) ; empattement 2460 mm (4RM 2400)",
+    "pneus": "AV 7.50-20 (4RM 12.4-24) ; AR 16.9/14-30 (4RM 16.9/14-34)",
+    "reservoir_l": 120,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Landini_8550",
+      "https://www.koneviesti.fi/en/konedata/traktorit/landini/landini-6550-8550-1978-87",
+      "https://en.wikipedia.org/wiki/Landini_(tractor)"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "zetor-crystal-12045",
+    "modele": "Crystal 12045",
+    "surnom": "",
+    "constructeur": "zetor",
+    "photos": [
+      "assets/img/tracteurs/commons-zetor-crystal-12045-1.jpg"
+    ],
+    "debut": 1974,
+    "fin": 1984,
+    "pays": "Tchécoslovaquie",
+    "puissance_ch": 115,
+    "moteur": "Zetor Z 8601, diesel 6 cylindres en ligne, injection directe, refroidi par eau",
+    "cylindres": 6,
+    "cylindree_cm3": 6842,
+    "couple_nm": 374,
+    "poids_kg": 4710,
+    "qualites": [
+      "Premier six cylindres Zetor, très puissant pour son prix",
+      "Pont avant enclenchable en marche",
+      "Direction assistée, relevage à contrôle d'effort et distributeur DE de série"
+    ],
+    "defauts": [
+      "Boîte « craboteuse » peu indulgente pour un conducteur non habitué",
+      "Cabine Zetor à mauvaise visibilité pour l'attelage",
+      "Débit hydraulique modeste"
+    ],
+    "reputation": "En Irlande, les Crystal ont la réputation de travailler bien au-delà de leur gabarit. Moins chers que leurs rivaux, ils ont équipé de nombreux entrepreneurs, même si leur prix faisait douter certains de leur qualité de fabrication.",
+    "histoire": "La gamme Crystal (UR II) est lancée en 1968-1969 avec le 8011. Le 12011, premier six cylindres Zetor, et sa version 4RM d'usine 12045 arrivent vers 1974-1975 et restent le haut de gamme Crystal jusqu'en 1980. Au milieu des années 1980, ils deviennent les 12111 et 12145.",
+    "anecdote": "Le Southern Star relate que Brendan Marshall, de Carrigaline, a exposé un 12111 et un 12145, successeurs restylés des 12011 et 12045 et tous deux équipés de cabines Duncan, au rallye vapeur et vétérans d'Innishannon, à Upton.",
+    "versions": "12011 (2RM) et 12045 (4RM, « 45 » = 4 roues motrices). Restylage au milieu des années 1980 en 12145 (rouge et noir, cabine mieux insonorisée). Cabine Duncan (Aberdeen) proposée sur certains marchés.",
+    "usine": "Brno (Tchécoslovaquie)",
+    "serie": "Crystal (UR II)",
+    "nombre_produit": "5736 exemplaires, 12011 et 12045 confondus (Traktorenlexikon)",
+    "alesage_course": "110 x 110 mm",
+    "regime": "2200 tr/min",
+    "refroidissement": "Eau",
+    "vitesses": "16 AV / 8 AR (4 rapports x 2 gammes x multiplicateur de couple Hi-Lo)",
+    "vitesse_min_kmh": 1.83,
+    "vitesse_max_kmh": 30,
+    "prise_de_force": "Indépendante, à levier, 540 et 1000 tr/min ; proportionnelle à l'avancement",
+    "relevage": "Zetormatic mécanique (position, effort, mixte), cat. II ; 35,2 l/min à 181 bar ; 3950 kg aux rotules",
+    "dimensions": "L 4470 mm ; l 2224 mm ; H 2545 mm (4RM) ; empattement 2695 mm",
+    "pneus": "AV 14.9-24 ; AR 18.4-34",
+    "reservoir_l": 130,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/commons-zetor-crystal-12045-1.jpg": {
+        "auteur": "C messier",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:12045_Zetor_Crystal_2697.jpg"
+      }
+    },
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Zetor_12011/12045",
+      "https://tractordata.com/farm-tractors/001/7/2/1728-zetor-12045.html",
+      "https://southernstar.ie/premium-exclusives/zetors-crystal-clearly-punched-above-weight-4300844",
+      "https://www.southernstar.ie/premium-exclusives/zetors-crystal-range-ahead-of-the-curve-since-1969-4329598",
+      "https://en.wikipedia.org/wiki/Zetor",
+      "https://commons.wikimedia.org/wiki/File:12045_Zetor_Crystal_2697.jpg"
+    ],
+    "verifie": false
   }
 ];
