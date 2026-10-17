@@ -2232,7 +2232,9 @@ window.TRACTEURS = [
     "modele": "7600",
     "surnom": "",
     "constructeur": "ford",
-    "photos": [],
+    "photos": [
+      "assets/img/tracteurs/laurent-ford-7600-1.jpg"
+    ],
     "debut": 1975,
     "fin": 1981,
     "pays": "Royaume-Uni",
@@ -2278,7 +2280,13 @@ window.TRACTEURS = [
       "https://www.southernstar.ie/farming/farm-classics-the-ford-7600-delivered-bubble-cab-bliss-4224403",
       "https://www.agriland.co.uk/farming-news/classic-corner-a-true-blue-all-decked-out-with-a-comfy-q/"
     ],
-    "verifie": false
+    "verifie": false,
+    "credits": {
+      "assets/img/tracteurs/laurent-ford-7600-1.jpg": {
+        "auteur": "Laurent",
+        "licence": "tous droits réservés"
+      }
+    }
   },
   {
     "id": "deutz-dx-110",
