@@ -30,12 +30,12 @@ window.CONSTRUCTEURS = [
   },
   {
     "id": "mccormick",
-    "marque": "McCormick",
-    "nom": "McCormick / International Harvester",
+    "marque": "McCormick / IH",
+    "nom": "International Harvester (McCormick, IH)",
     "pays": "États-Unis",
     "fondation": 1902,
     "fin": 1985,
-    "histoire": "International Harvester naît à Chicago en 1902 de la fusion de McCormick et de Deering. Elle lance le Farmall en 1924 et utilise la marque McCormick-Deering de 1922 à 1947. En France, l'usine de Saint-Dizier produit des tracteurs dès 1950. La division agricole fusionne avec Case en 1985 (Case IH)."
+    "histoire": "International Harvester naît à Chicago en 1902 de la fusion de McCormick et de Deering ; elle lance le Farmall en 1924. En France, sa filiale CIMA distribue le matériel McCormick dès 1905 ; le premier tracteur fabriqué à Saint-Dizier, le FC, sort fin 1950. En Allemagne, l'usine de Neuss ouvre en 1937. En 1962, les usines européennes (Neuss, Doncaster, Saint-Dizier…) sont réunies en un même réseau. En 1985, la branche agricole est reprise par Tenneco et fusionne avec Case pour former Case IH ; le dernier tracteur conçu par IH sort de Neuss en 1996, et l'usine ferme en 1997."
   },
   {
     "id": "fendt",
@@ -167,5 +167,14 @@ window.CONSTRUCTEURS = [
     "fondation": 1911,
     "fin": 1953,
     "histoire": "Harry Ferguson crée sa première entreprise en 1911 et invente le relevage trois points. Après le Ford-Ferguson 9N (1939), le TE20 « petit gris » est produit à Coventry dès 1946. La société fusionne avec Massey-Harris en 1953."
+  },
+  {
+    "id": "fiat",
+    "marque": "Fiat",
+    "nom": "Fiat Trattori (Fiatagri)",
+    "pays": "Italie",
+    "fondation": 1919,
+    "fin": 1993,
+    "histoire": "Fiat produit son premier tracteur de série, le 702 de 30 ch, en 1919, et installe la fabrication des tracteurs à Modène en 1928. La division devient Fiat Trattori en 1974, puis prend le nom de Fiatagri au milieu des années 1980. Elle rachète Ford New Holland en 1991, et les deux sociétés fusionnent en 1993 sous le nom de Fiat New Holland. La production annuelle a atteint 74 072 tracteurs en 1979."
   }
 ];
