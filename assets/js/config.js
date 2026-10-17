@@ -3,10 +3,10 @@
 window.CONFIG = {
   depot: "laurnalhac/vieux-tracteurs",
   giscus: {
-    repoId: "",
-    categorie: "Commentaires",
-    categorieId: "",
-    categorieForum: "Forum",
-    categorieForumId: ""
+    repoId: "R_kgDOVNutpw",
+    categorie: "Announcements",
+    categorieId: "DIC_kwDOVNutp84DIx7Z",
+    categorieForum: "General",
+    categorieForumId: "DIC_kwDOVNutp84DIx7a"
   }
 };

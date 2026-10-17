@@ -69,6 +69,11 @@
     (c ? "<h2>Le constructeur</h2><h3>" + e(c.nom) + "</h3>" + paragraphe(c.histoire) +
       '<p><a href="constructeurs.html#' + e(c.id) + '">Tous les modèles ' + e(c.marque) + "</a></p>" : "") +
     "</div></div>" +
+    (t.sources && t.sources.length
+      ? '<section class="sources"><h2>Sources</h2><ul>' + t.sources.map(function (u) {
+          return '<li><a href="' + e(u) + '" rel="noopener" target="_blank">' + e(u) + "</a></li>";
+        }).join("") + "</ul></section>"
+      : "") +
     '<section class="commentaires"><h2>Commentaires</h2><div id="giscus"></div></section>';
 
   zone.addEventListener("click", function (ev) {

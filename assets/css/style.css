@@ -127,3 +127,6 @@ input:focus, select:focus, textarea:focus { outline: 2px solid var(--or); outlin
   .nav { justify-content: center; }
   .logo img { width: 48px; height: 48px; }
 }
+
+.sources ul { padding-left: 1.2rem; font-size: .9rem; }
+.sources li { overflow-wrap: anywhere; margin-bottom: .2rem; }

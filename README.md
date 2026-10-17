@@ -54,15 +54,18 @@ Laisser une valeur vide (`""`, `null` ou `[]`) plutôt que de deviner : la fiche
 2. Sur GitHub : *Settings › Pages › Build and deployment*, source « Deploy from a branch », branche `main`, dossier `/ (root)`.
 3. Le site est publié à l'adresse `https://laurnalhac.github.io/vieux-tracteurs/` après une ou deux minutes.
 
-## Activer les commentaires (Giscus)
+## Commentaires (Giscus)
 
-1. Le dépôt doit être public. Dans *Settings › General › Features*, cocher **Discussions**.
-2. Dans l'onglet Discussions, créer deux catégories de type « Announcement » ou « Open-ended discussion » : **Commentaires** et **Forum**.
-3. Installer l'application Giscus sur le dépôt : https://github.com/apps/giscus
-4. Sur https://giscus.app, saisir `laurnalhac/vieux-tracteurs`, choisir la catégorie, et relever `data-repo-id` et `data-category-id`.
-5. Les reporter dans `assets/js/config.js` (`repoId`, `categorieId` pour Commentaires, `categorieForumId` pour Forum).
+Les commentaires des fiches et le forum utilisent Giscus, qui stocke les messages dans les Discussions GitHub du dépôt. Il faut un compte GitHub pour écrire.
 
-Tant que ces réglages sont vides, les pages affichent « Les commentaires seront activés à la mise en ligne du site. »
+Réglages actuels (`assets/js/config.js`) :
+
+- Discussions activées sur le dépôt ;
+- catégorie **Announcements** pour les commentaires des fiches (un fil par tracteur, terme `tracteur-<id>`) : seuls Giscus et le propriétaire y créent des fils ;
+- catégorie **General** pour le forum (terme fixe `forum-general`) ;
+- l'application Giscus doit être installée sur le dépôt : https://github.com/apps/giscus
+
+Pour changer de catégorie, relever ses identifiants sur https://giscus.app et les reporter dans `assets/js/config.js`. Si les identifiants sont vides, les pages affichent « Les commentaires seront activés à la mise en ligne du site. »
 
 ## Propositions
 
