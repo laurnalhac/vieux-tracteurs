@@ -106,8 +106,7 @@
       ? '<section class="sources"><h2>Sources</h2><ul>' + t.sources.map(function (u) {
           return '<li><a href="' + e(u) + '" rel="noopener" target="_blank">' + e(u) + "</a></li>";
         }).join("") + "</ul></section>"
-      : "") +
-    '<section class="commentaires"><h2>Commentaires</h2><div id="giscus"></div></section>';
+      : "");
 
   zone.addEventListener("click", function (ev) {
     var b = ev.target.closest(".miniatures button");
@@ -116,6 +115,4 @@
     document.getElementById("credit-photo").innerHTML = credit(b.getAttribute("data-src"));
     zone.querySelectorAll(".miniatures button").forEach(function (x) { x.setAttribute("aria-current", x === b); });
   });
-
-  VT.giscus(document.getElementById("giscus"), { terme: "tracteur-" + t.id });
 })();

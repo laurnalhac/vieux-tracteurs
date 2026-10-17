@@ -117,7 +117,6 @@ input:focus, select:focus, textarea:focus { outline: 2px solid var(--or); outlin
 .formulaire .large { grid-column: 1 / -1; }
 .aide { color: var(--gris); font-size: .9rem; }
 
-.commentaires { margin-top: 2.5rem; }
 .boutique { text-align: center; padding: 3rem 1rem; background: var(--paille); border-radius: var(--rayon); }
 .boutique img { width: 140px; margin: 0 auto 1rem; }
 

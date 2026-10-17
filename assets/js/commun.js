@@ -4,7 +4,6 @@
     ["index.html", "Catalogue"],
     ["constructeurs.html", "Constructeurs"],
     ["technique-moteur.html", "Technique"],
-    ["forum.html", "Forum"],
     ["proposer.html", "Proposer un tracteur"],
     ["boutique.html", "Boutique"]
   ];
@@ -57,35 +56,5 @@ var VT = {
 
   vignette: function (chemin) {
     return chemin ? chemin.replace("assets/img/tracteurs/", "assets/img/tracteurs/vignettes/") : "";
-  },
-
-  // Insère Giscus, ou un message d'attente tant que la configuration est vide.
-  giscus: function (conteneur, options) {
-    var g = window.CONFIG.giscus;
-    var categorieId = options.forum ? g.categorieForumId : g.categorieId;
-    if (!g.repoId || !categorieId) {
-      conteneur.innerHTML = '<p class="encart">Les commentaires seront activés à la mise en ligne du site.</p>';
-      return;
-    }
-    var s = document.createElement("script");
-    s.src = "https://giscus.app/client.js";
-    s.async = true;
-    s.crossOrigin = "anonymous";
-    var attributs = {
-      "data-repo": window.CONFIG.depot,
-      "data-repo-id": g.repoId,
-      "data-category": options.forum ? g.categorieForum : g.categorie,
-      "data-category-id": categorieId,
-      "data-mapping": "specific",
-      "data-term": options.terme,
-      "data-strict": "1",
-      "data-reactions-enabled": "1",
-      "data-emit-metadata": "0",
-      "data-input-position": "top",
-      "data-theme": "light",
-      "data-lang": "fr"
-    };
-    Object.keys(attributs).forEach(function (k) { s.setAttribute(k, attributs[k]); });
-    conteneur.appendChild(s);
   }
 };

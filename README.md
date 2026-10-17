@@ -1,22 +1,21 @@
 # Vieux Tracteurs · catalogue de référence
 
-Site statique (HTML, CSS, JavaScript, sans framework ni étape de compilation) qui présente les tracteurs anciens photographiés à Tractomania, à Caussade, en 2026. Il fonctionne en ouvrant `index.html` directement depuis le disque, et tel quel sur GitHub Pages.
+Site 100 % statique (HTML, CSS, JavaScript, sans framework, sans étape de compilation, sans commentaires ni forum) qui présente les tracteurs anciens photographiés à Tractomania, à Caussade, en 2026. Il fonctionne en ouvrant `index.html` directement depuis le disque, et tel quel sur GitHub Pages.
 
 ## Organisation
 
 | Chemin | Rôle |
 |---|---|
 | `index.html` | Catalogue : grille de cartes et filtres (recherche, marque, période, pays, puissance), reflétés dans l'URL |
-| `tracteur.html?id=…` | Fiche d'un tracteur : photos, histoire, caractéristiques, constructeur, commentaires |
+| `tracteur.html?id=…` | Fiche d'un tracteur : photos, histoire, caractéristiques, constructeur, sources |
 | `constructeurs.html` | Une section par constructeur, avec ses modèles du catalogue |
 | `technique-moteur.html` | Technique : moteur diesel, semi-diesel, refroidissement, embrayage, boîte, prise de force |
 | `technique-relevage.html` | Technique : relevage hydraulique trois points et contrôle d'effort (Harry Ferguson) |
-| `forum.html` | Forum général (Giscus) |
 | `proposer.html` | Formulaire qui ouvre une issue GitHub préremplie (label `proposition`) |
 | `boutique.html` | Page d'attente de la boutique |
 | `data/tracteurs.js` | Données des tracteurs (`window.TRACTEURS`) |
 | `data/constructeurs.js` | Données des constructeurs (`window.CONSTRUCTEURS`) |
-| `assets/js/config.js` | Nom du dépôt et réglages Giscus |
+| `assets/js/config.js` | Nom du dépôt GitHub (utilisé par le formulaire de proposition) |
 | `assets/img/tracteurs/` | Photos allégées (1600 px) ; `vignettes/` : 600 px |
 | `identification/photos.csv` | Identification photo par photo (marque, modèle, indices, confiance, groupe) |
 
@@ -66,19 +65,6 @@ Après une modification des fichiers CSS ou JS, augmenter le numéro `?v=` dans 
 1. Pousser le dossier sur le dépôt `laurnalhac/vieux-tracteurs`.
 2. Sur GitHub : *Settings › Pages › Build and deployment*, source « Deploy from a branch », branche `main`, dossier `/ (root)`.
 3. Le site est publié à l'adresse `https://laurnalhac.github.io/vieux-tracteurs/` après une ou deux minutes.
-
-## Commentaires (Giscus)
-
-Les commentaires des fiches et le forum utilisent Giscus, qui stocke les messages dans les Discussions GitHub du dépôt. Il faut un compte GitHub pour écrire.
-
-Réglages actuels (`assets/js/config.js`) :
-
-- Discussions activées sur le dépôt ;
-- catégorie **Announcements** pour les commentaires des fiches (un fil par tracteur, terme `tracteur-<id>`) : seuls Giscus et le propriétaire y créent des fils ;
-- catégorie **General** pour le forum (terme fixe `forum-general`) ;
-- l'application Giscus doit être installée sur le dépôt : https://github.com/apps/giscus
-
-Pour changer de catégorie, relever ses identifiants sur https://giscus.app et les reporter dans `assets/js/config.js`. Si les identifiants sont vides, les pages affichent « Les commentaires seront activés à la mise en ligne du site. »
 
 ## Propositions
 
