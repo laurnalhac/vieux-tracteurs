@@ -4245,5 +4245,611 @@ window.TRACTEURS = [
       "https://commons.wikimedia.org/wiki/File:Eppingen-Adelshofen_-_Fendt_Favorit_611_LS_Turbomatik_-_23.06.2019_14-21-30.jpg"
     ],
     "verifie": false
+  },
+  {
+    "id": "ih-553",
+    "modele": "553",
+    "surnom": "",
+    "constructeur": "mccormick",
+    "photos": [
+      "assets/img/tracteurs/commons-ih-553-1.jpg"
+    ],
+    "debut": 1972,
+    "fin": 1974,
+    "pays": "Allemagne",
+    "puissance_ch": 52,
+    "moteur": "IH D-179, diesel 4 temps atmosphérique à injection directe, chemises humides",
+    "cylindres": 3,
+    "cylindree_cm3": 2934,
+    "couple_nm": 192,
+    "poids_kg": 2615,
+    "qualites": [
+      "Direct injection sobre et robuste (D-179, repris sur le 633)",
+      "4RM disponible dès 1972",
+      "Relevage Exact à contrôle d'effort"
+    ],
+    "defauts": [
+      "Production courte (2 ans)",
+      "Direction mécanique de série (hydrostatique en option)",
+      "Freins à disques secs de 7\" jusqu'en 1973"
+    ],
+    "reputation": "Simple évolution du 523 à régime moteur relevé pour atteindre 52 ch ; c'est le haut de gamme des 3 cylindres IH européens au début des années 1970.",
+    "histoire": "Dérivé du 523 dont il ne diffère que par la pompe d'injection et un régime plus élevé, le 553 est produit d'avril 1972 à avril 1974. Il reçoit en cours de production une pompe tandem (1972), des pistons à trois segments (1972) et des freins de 8\" (1974). Il est remplacé par le 554 puis, techniquement, par le 633 de la famille A.",
+    "anecdote": "Selon lestracteursrouges.com, le 553 reprend la calandre et le capot des 323, 383 et 453 et inaugure les flasques de roues blanc IH ; il n'est resté que deux ans au catalogue français (1972-1973).",
+    "versions": "2 roues motrices ; 4 roues motrices (pont ZF) ; Agriomatic-S 12/4",
+    "usine": "Neuss (RFA) selon tractordata.com ; lestracteursrouges.com indique un assemblage à Saint-Dizier (France) pour le catalogue français (1972-1973)",
+    "serie": "Série « Star » / Formel-S (3 cylindres haut de gamme), successeur direct du 523",
+    "nombre_produit": "2 648 exemplaires (avril 1972 – avril 1974, n° de série D01 0005 D 001000 à 003647, Traktorenlexikon)",
+    "alesage_course": "98,4 × 128,5 mm",
+    "regime": "2 180 tr/min",
+    "refroidissement": "eau",
+    "vitesses": "IH Synchron 8 AV / 4 AR de série ; option Agriomatic-S 12 AV / 4 AR (inverseur sous charge hydraulique)",
+    "vitesse_min_kmh": 0.86,
+    "vitesse_max_kmh": 28,
+    "prise_de_force": "Indépendante, 540 tr/min (1000 tr/min en option), cannelures 1 3/8\" 6 ; poulie en option",
+    "relevage": "IH Exact avec contrôle d'effort par 3e point, catégorie II (convertible I), 2 000 kg (2 140 kg selon lestracteursrouges)",
+    "dimensions": "L 3 430 mm (4RM 3 268), l 1 788 mm, H 2 419 mm, empattement 2 000 mm",
+    "pneus": "AV 7.50-16 (4RM 9-24), AR 13-30 (options 12-36, 14-30, 11-36)",
+    "reservoir_l": 70,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/commons-ih-553-1.jpg": {
+        "auteur": "Wleiter",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:IHC_553_(1974,_52_PS).jpg"
+      }
+    },
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_IHC_553",
+      "https://tractordata.com/farm-tractors/002/2/9/2290-international-harvester-553.html",
+      "https://www.lestracteursrouges.com/fichier_tracteurs/tracteurs_francais/553.htm",
+      "https://commons.wikimedia.org/wiki/File:IHC_553_(1974,_52_PS).jpg"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "ih-633",
+    "modele": "633",
+    "surnom": "",
+    "constructeur": "mccormick",
+    "photos": [
+      "assets/img/tracteurs/commons-ih-633-1.jpg"
+    ],
+    "debut": 1975,
+    "fin": 1989,
+    "pays": "Allemagne",
+    "puissance_ch": 52,
+    "moteur": "IH D-179, diesel atmosphérique à injection directe, pompe distributrice Bosch",
+    "cylindres": 3,
+    "cylindree_cm3": 2934,
+    "couple_nm": 188,
+    "poids_kg": 2250,
+    "qualites": [
+      "Boîte entièrement synchronisée (principale innovation selon Koneviesti)",
+      "Tracteur de base économique et simple",
+      "Très longue carrière (15 ans)"
+    ],
+    "defauts": [
+      "Commandes de relevage mécaniques",
+      "Vitesse maxi limitée à 25/30 km/h",
+      "Direction mécanique de série en 2RM (hydrostatique en option)"
+    ],
+    "reputation": "Koneviesti le décrit comme l'un des modèles de la gamme la plus simple de la production IH allemande et française, resté au catalogue jusqu'aux années 1990 comme tracteur de base peu coûteux.",
+    "histoire": "Lancé en janvier 1975 comme haut de gamme de la nouvelle famille A, le 633 reprend le moteur D-179 du 553 avec une boîte synchronisée. Il reçoit une cabine relookée noir et rouge vers 1978, la livrée Case IH en 1986 et une nouvelle cabine en 1987. Il est remplacé par le Case IH 640 de Doncaster.",
+    "anecdote": "D'après lestracteursrouges.com, lorsque la production de tracteurs cesse à Saint-Dizier en 1990, la gamme A est transférée à Doncaster ; le Traktorenlexikon recense encore quelques centaines de « Case IH 633 » de Doncaster avant leur remplacement par le Case IH 640.",
+    "versions": "633 (SA en France) 2RM ; 633 4RM ; 633 V-E (vigne/étroit, catalogue français) ; Cabines Fritzmeier, Silent 85 (1983), Silent S3 (1987) ; Livrée Case IH à partir de juillet 1986",
+    "usine": "Neuss (RFA) selon Traktorenlexikon ; assemblé à Saint-Dizier (France) pour le marché français selon lestracteursrouges.com ; production transférée à Doncaster (Royaume-Uni) en 1990 (Case IH 633 jusqu'à fin 1990 puis Case IH 640)",
+    "serie": "Famille A (série 33 : 433 à 833)",
+    "nombre_produit": "31 364 exemplaires à Neuss (1975-1989) ; quelques centaines de plus à Doncaster en 1990",
+    "alesage_course": "98,4 × 128,5 mm",
+    "regime": "2 180 tr/min",
+    "refroidissement": "eau",
+    "vitesses": "Synchronisée 8 AV / 4 AR de série ; option doubleur 16 AV / 8 AR, avec ou sans vitesses lentes (synchronisées à partir de 06/1979)",
+    "vitesse_min_kmh": 0.76,
+    "vitesse_max_kmh": 25,
+    "prise_de_force": "Indépendante (embrayage double), 540 tr/min ; option 540/1000 tr/min ; poulie en option",
+    "relevage": "IH Exact (type K-80) à contrôle d'effort par 3e point, catégorie II (convertible I), 1 800 kg en continu (2 000 kg selon lestracteursrouges)",
+    "dimensions": "L 3 410 mm (4RM 3 450), l 1 644 mm, H 2 374 mm, empattement 2 070 mm (4RM 2 030)",
+    "pneus": "AV 7.50-16 (4RM 10.5-20), AR 12.4-36 (options 14.9-28, 16.9-28, 14.9-30, 11.2-36)",
+    "reservoir_l": 60,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/commons-ih-633-1.jpg": {
+        "auteur": "Joost J. Bakker (IJmuiden)",
+        "licence": "CC BY 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:International_Harvester_633_-_Flickr_-_Joost_J._Bakker_IJmuiden.jpg"
+      }
+    },
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_IHC_633",
+      "https://www.lestracteursrouges.com/fichier_tracteurs/tracteurs_francais/633.htm",
+      "https://www.koneviesti.fi/en/konedata/traktorit/international/international-433-833",
+      "https://commons.wikimedia.org/wiki/File:International_Harvester_633_-_Flickr_-_Joost_J._Bakker_IJmuiden.jpg"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "ih-844",
+    "modele": "844 S",
+    "surnom": "",
+    "constructeur": "mccormick",
+    "photos": [
+      "assets/img/tracteurs/commons-ih-844-1.jpg"
+    ],
+    "debut": 1975,
+    "fin": 1989,
+    "pays": "Allemagne",
+    "puissance_ch": 80,
+    "moteur": "IH D-268, diesel atmosphérique à injection directe, pompe distributrice Bosch",
+    "cylindres": 4,
+    "cylindree_cm3": 4389,
+    "couple_nm": 287,
+    "poids_kg": 3180,
+    "qualites": [
+      "Freins à disques humides assistés",
+      "Direction hydrostatique de série",
+      "Moteur D-268 coupleux (80 ch)"
+    ],
+    "defauts": [
+      "Cabine Comfort 2000 bruyante (87 dB)",
+      "Données de poids incohérentes selon les sources",
+      "Vitesse maxi 30 km/h"
+    ],
+    "reputation": "Selon lestracteursrouges.com, le 844-SB « est un des tracteurs les plus vendus en France durant son existence » ; Koneviesti le qualifie de favori de la série.",
+    "histoire": "Le 844 de 1974 (D-246, 75 ch) est remplacé dès 1975 par le 844 S, doté du moteur D-268 de 4,4 l et 80 ch. Construit à Neuss jusqu'en 1989, il continue sans cabine après l'arrivée du 844 XL (1981) puis passe à Doncaster de 1990 à 1993.",
+    "anecdote": "Lestracteursrouges.com précise que le 844-SB possède un empattement plus long que les 644 et 744 parce que sa cloche d'embrayage est plus profonde, et qu'il était livré de série en France avec la cabine Grand Confort.",
+    "versions": "844 S 2RM ; 844 SA / 844-SB 4RM ; Cabines Comfort 2000 (1976) et ISO-Compact ; Livrée Case IH à partir de 1985",
+    "usine": "Neuss (RFA) ; version française 844-SB assemblée à Saint-Dizier selon lestracteursrouges.com ; production transférée à Doncaster (1990-1993)",
+    "serie": "Famille B (gamme « Perfekt » 554-844), génération européenne 844 S (appelée 844-SB en France), successeur du 844 de 1974",
+    "nombre_produit": "20 158 exemplaires à Neuss (n° DO3 0260 D 001000 à 023186), plus une production à Doncaster 1990-1993 non chiffrée",
+    "alesage_course": "100 × 139,7 mm",
+    "regime": "2 300 tr/min",
+    "refroidissement": "eau",
+    "vitesses": "IH Synchron 8 AV / 4 AR de série ; options doubleur 16/8, vitesses lentes/super-lentes 16/8, Agriomatic-S 12/4 (convertisseur) ; boîte en « H » à partir de 1978",
+    "vitesse_min_kmh": 0.9,
+    "vitesse_max_kmh": 30,
+    "prise_de_force": "Indépendante, 540 tr/min ; option 1000 tr/min, prise de force avant 1000 tr/min, prise de force proportionnelle, poulie",
+    "relevage": "IH Exact (KR-105) contrôle par bras inférieurs, catégorie II, 2 845 daN (3 100 kg selon lestracteursrouges ; vérin auxiliaire +850 kg en option) ; relevage avant cat. I en option",
+    "dimensions": "L 3 683 mm (4RM 3 935), l 2 048 mm, H 2 545 mm (arceau), empattement 2 386 mm (4RM 2 350)",
+    "pneus": "AV 7.50-18 (4RM 11.2/10-24), AR 16.9/14-34 (options 15.5-38, 13.6-38, 18.4-30)",
+    "reservoir_l": 102,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/commons-ih-844-1.jpg": {
+        "auteur": "Joost J. Bakker (IJmuiden)",
+        "licence": "CC BY 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:International_Harvester_844_SB_-_Flickr_-_Joost_J._Bakker_IJmuiden.jpg"
+      }
+    },
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_IHC_844-S",
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_IHC_844",
+      "https://www.lestracteursrouges.com/fichier_tracteurs/tracteurs_francais/844_sb.htm",
+      "https://www.koneviesti.fi/en/konedata/traktorit/international/international-554-844",
+      "https://commons.wikimedia.org/wiki/File:International_Harvester_844_SB_-_Flickr_-_Joost_J._Bakker_IJmuiden.jpg"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "ih-955-xl",
+    "modele": "955 XL",
+    "surnom": "",
+    "constructeur": "mccormick",
+    "photos": [
+      "assets/img/tracteurs/commons-ih-955-xl-1.jpg"
+    ],
+    "debut": 1981,
+    "fin": 1982,
+    "pays": "Allemagne",
+    "puissance_ch": 90,
+    "moteur": "IH D-358, diesel atmosphérique à injection directe",
+    "cylindres": 6,
+    "cylindree_cm3": 5867,
+    "couple_nm": 334,
+    "poids_kg": 4290,
+    "qualites": [
+      "Cabine XL dessinée par Porsche, climatisation en option",
+      "Freins humides multidisques",
+      "Moteur 6 cylindres 5,9 l"
+    ],
+    "defauts": [
+      "Carrière très courte (17 mois)",
+      "Puissance annoncée variable selon les sources (82 à 92 ch)"
+    ],
+    "reputation": "Modèle de transition éphémère, rapidement remplacé par le 956 XL dès 1982.",
+    "histoire": "Remplaçant du 955 en 1981, le 955 XL reçoit la nouvelle cabine XL et le moteur D-358 du 1055 ainsi qu'une transmission à réducteur synchronisé commandée à droite. Il est remplacé par le 956 XL dès 1982.",
+    "anecdote": "",
+    "versions": "955 XL 2RM ; 955 XLA 4RM",
+    "usine": "Neuss (RFA) ; assemblé à Saint-Dizier pour le marché français selon lestracteursrouges.com (le Traktorenlexikon cite « Allemagne et France »)",
+    "serie": "Famille C (série 55, gamme XL)",
+    "nombre_produit": "994 exemplaires (février 1981 – juillet 1982, Traktorenlexikon)",
+    "alesage_course": "98,4 × 128,5 mm",
+    "regime": "2 200 tr/min",
+    "refroidissement": "eau",
+    "vitesses": "IH Synchron 16 AV / 8 AR à réducteur synchronisé, commandes à droite du siège ; option super-lentes",
+    "vitesse_min_kmh": 0.7,
+    "vitesse_max_kmh": 30,
+    "prise_de_force": "Indépendante, 540 et 1000 tr/min (deux bouts d'arbre)",
+    "relevage": "IH Exact, catégorie II, contrôle par bras inférieurs, 4 240 daN (5 130 daN avec vérin auxiliaire)",
+    "dimensions": "L 4 194 mm (4RM 4 260), l 2 306 mm, H 2 750 mm (cabine), empattement 2 630 mm (4RM 2 590)",
+    "pneus": "AV 7.50-20 (955 XLA : 12.4 R28), AR 16.9 R38",
+    "reservoir_l": 140,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/commons-ih-955-xl-1.jpg": {
+        "auteur": "Radosław Drożdżewski (Zwiadowca21)",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Eppingen-Adelshofen_-_IHC_955XL_-_23.06.2019_14-09-50.jpg"
+      }
+    },
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_IHC_955XL",
+      "https://www.lestracteursrouges.com/fichier_tracteurs/tracteurs_francais/955_xl.htm",
+      "https://www.koneviesti.fi/en/konedata/traktorit/international/international-955-1455-xl",
+      "https://commons.wikimedia.org/wiki/File:Eppingen-Adelshofen_-_IHC_955XL_-_23.06.2019_14-09-50.jpg"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "ih-1055-xl",
+    "modele": "1055 XL",
+    "surnom": "",
+    "constructeur": "mccormick",
+    "photos": [],
+    "debut": 1981,
+    "fin": 1982,
+    "pays": "Allemagne",
+    "puissance_ch": 100,
+    "moteur": "IH D-358, diesel atmosphérique à injection directe, pompe Bosch VA",
+    "cylindres": 6,
+    "cylindree_cm3": 5867,
+    "couple_nm": 378,
+    "poids_kg": 4370,
+    "qualites": [
+      "Cabine XL « Control Center » insonorisée, suspendue (ISO-mount)",
+      "Freins humides assistés WABCO",
+      "Couple élevé (378 Nm)"
+    ],
+    "defauts": [
+      "Remplacé au bout de 16 mois",
+      "Très rare (353 exemplaires)"
+    ],
+    "reputation": "Rare modèle de transition, vite éclipsé par le 1056 XL qui lui ajoute le relevage Sens-O-Draulic.",
+    "histoire": "L'arrivée de la cabine XL en 1981 impose une profonde refonte de l'architecture du 1055, avec une transmission entièrement synchronisée. Le modèle est remplacé dès juillet 1982 par le 1056 XL.",
+    "anecdote": "Selon le Traktorenlexikon, le 1055 XL n'est resté en production qu'environ 16 mois et n'a été construit qu'à 353 exemplaires avant d'être remplacé par le 1056 XL, sans changement de puissance ni d'équipement.",
+    "versions": "1055 XL 2RM ; 1055 XL 4RM (pont ZF APL-1552)",
+    "usine": "Neuss (RFA) ; assemblé à Saint-Dizier pour le marché français selon lestracteursrouges.com",
+    "serie": "Famille C (série 55, gamme XL)",
+    "nombre_produit": "353 exemplaires (février 1981 – juin 1982, Traktorenlexikon)",
+    "alesage_course": "98,4 × 128,5 mm",
+    "regime": "2 200 tr/min",
+    "refroidissement": "eau",
+    "vitesses": "16 AV / 8 AR totalement synchronisée, commandes à droite du siège ; option super-lentes",
+    "vitesse_min_kmh": 0.72,
+    "vitesse_max_kmh": 30,
+    "prise_de_force": "Indépendante, 540 et 1000 tr/min",
+    "relevage": "IH Exact (K-120), catégorie II, 4 240 daN (5 130 daN avec vérin auxiliaire)",
+    "dimensions": "L 4 194 mm (4RM 4 260), l 2 306 mm, H 2 770 mm, empattement 2 630 mm (4RM 2 590)",
+    "pneus": "AV 7.50-20 (4RM 13.6 R28), AR 18.4 R38",
+    "reservoir_l": 140,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_IHC_1055_XL",
+      "https://www.lestracteursrouges.com/fichier_tracteurs/tracteurs_francais/1055_xl.htm",
+      "https://www.koneviesti.fi/en/konedata/traktorit/international/international-955-1455-xl"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "ih-1246",
+    "modele": "1246",
+    "surnom": "",
+    "constructeur": "mccormick",
+    "photos": [
+      "assets/img/tracteurs/commons-ih-1246-1.jpg"
+    ],
+    "debut": 1972,
+    "fin": 1979,
+    "pays": "Allemagne",
+    "puissance_ch": 120,
+    "moteur": "IH DT-358, diesel turbocompressé à injection directe",
+    "cylindres": 6,
+    "cylindree_cm3": 5867,
+    "couple_nm": 444,
+    "poids_kg": 4450,
+    "qualites": [
+      "Premier moteur turbo sorti de Neuss",
+      "Direction hydrostatique et cabine de série",
+      "Deux distributeurs et contrôle d'effort de série"
+    ],
+    "defauts": [
+      "Freins à tambour et commandes de relevage mécaniques (Koneviesti)",
+      "Rayon de braquage important en 2RM (9,9 m)",
+      "Vitesses lentes en option seulement"
+    ],
+    "reputation": "Plus puissant tracteur IH européen à son lancement ; Koneviesti souligne son équipement de série complet (PdF sur arbres séparés, distributeurs, contrôle d'effort).",
+    "histoire": "Dernier-né des 6 cylindres européens d'IH (946, 1046, 1246), il apparaît en 1972 avec transmission ZF et relevage Bosch. Il reçoit en 1976 une nouvelle cabine à plancher suspendu et un pont avant autobloquant en option, puis est remplacé par le 1255.",
+    "anecdote": "D'après lestracteursrouges.com, le DT-358 du 1246 est le premier moteur turbo sorti de l'usine de Neuss ; en 1978, alors que le 1255 est encore à l'étude, le 1246 reçoit les couleurs de la série 55 sans changement technique.",
+    "versions": "4RM (standard en Allemagne) ; 2RM (export) ; Cabine Fritzmeier puis Comfort 2000 (1976/1978)",
+    "usine": "Neuss (RFA) et Saint-Dizier (France) (Traktorenlexikon, lestracteursrouges.com)",
+    "serie": "Gamme des 6 cylindres européens 946/1046/1246 (« Common Market »)",
+    "nombre_produit": "2 639 exemplaires (août 1972 – septembre 1979, Traktorenlexikon)",
+    "alesage_course": "98,4 × 128,5 mm",
+    "regime": "2 200 tr/min",
+    "refroidissement": "eau",
+    "vitesses": "ZF synchronisée 12 AV / 5 AR ; option réducteur 16 AV / 7 AR",
+    "vitesse_min_kmh": 0.5,
+    "vitesse_max_kmh": 30,
+    "prise_de_force": "1000 tr/min de série ; 540 tr/min en option",
+    "relevage": "Bosch à contrôle par bras inférieurs, catégorie II/III, 3 700 kg en continu (4 550 kg selon lestracteursrouges)",
+    "dimensions": "L 4 200-4 260 mm, l 2 088-2 111 mm, H 2 648-2 727 mm (arceau), empattement 2 560-2 590 mm",
+    "pneus": "2RM : AV 7.50-20, AR 15-38 ; 4RM : AV 10-28, AR 15-38 (options 18.4/15-34, 16.9/14-38)",
+    "reservoir_l": 110,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/commons-ih-1246-1.jpg": {
+        "auteur": "Joost J. Bakker (IJmuiden)",
+        "licence": "CC BY 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:International_Harvester_1246.jpg"
+      }
+    },
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_IHC_1246",
+      "https://www.lestracteursrouges.com/fichier_tracteurs/tracteurs_francais/1246.htm",
+      "https://www.tractordata.com/farm-tractors/002/2/9/2296-international-harvester-1246.html",
+      "https://www.koneviesti.fi/en/konedata/traktorit/international/international-946-1246",
+      "https://commons.wikimedia.org/wiki/File:International_Harvester_1246.jpg"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "case-ih-1056-xl",
+    "modele": "1056 XL",
+    "surnom": "",
+    "constructeur": "mccormick",
+    "photos": [
+      "assets/img/tracteurs/commons-case-ih-1056-xl-1.jpg"
+    ],
+    "debut": 1985,
+    "fin": 1992,
+    "pays": "Allemagne",
+    "puissance_ch": 105,
+    "moteur": "IH D-358, diesel atmosphérique à injection directe, pompe distributrice Bosch",
+    "cylindres": 6,
+    "cylindree_cm3": 5867,
+    "couple_nm": 378,
+    "poids_kg": 4370,
+    "qualites": [
+      "Cabine XL confortable à plancher plat et bonne visibilité",
+      "Vérin auxiliaire de série, 5 t de relevage",
+      "Boîte 40 km/h disponible"
+    ],
+    "defauts": [
+      "Toit ouvrant sujet aux fuites (The Southern Star)",
+      "Moteur atmosphérique sans turbo",
+      "Plus cher que le 956 XL pour un gain modeste"
+    ],
+    "reputation": "Apprécié pour le confort de sa cabine XL, il est devenu un classique recherché en collection.",
+    "histoire": "Lancé en 1982 sous la marque International, le 1056 XL passe sous les couleurs Case International après le rachat d'IH par Tenneco-Case en 1985, avec un nouveau design en 1986. Il reçoit pont avant à transmission centrale, boîte 40 km/h et relevage Hydro-Plus avant de quitter le catalogue en 1992.",
+    "anecdote": "Selon lestracteursrouges.com, certains 1056 XL « Turbo » ont été vendus en France : une préparation des Ets Depla à Meaux (77), agréée par le constructeur, portait la puissance à 115 ch DIN.",
+    "versions": "2RM / 4RM à transmission latérale puis centrale (03/1986) ; 30 km/h et 40 km/h (freinage 4 roues dès 01/1986) ; Livrée intermédiaire rouge/noir 1985-86 puis design Case IH (07/1986) ; « Turbo » Depla 115 ch (préparation agréée, France)",
+    "usine": "Neuss (RFA) (tractordata) ; assemblé à Saint-Dizier pour la France jusqu'en 1989, puis importé de Neuss (lestracteursrouges.com) ; cabine XL produite à Croix (France) selon The Southern Star",
+    "serie": "Famille C (série 56 XL), période Case International / Case IH",
+    "nombre_produit": "7 050 exemplaires de 1056 XL au total (IH et Case IH, 1982-1992, Traktorenlexikon)",
+    "alesage_course": "98,4 × 128,5 mm",
+    "regime": "2 300 tr/min (2 200 selon lestracteursrouges)",
+    "refroidissement": "eau",
+    "vitesses": "16 AV / 8 AR (4 vitesses × gammes, réducteur) ; version 30 km/h, puis 40 km/h « Total-Synchron » à partir de 03/1985 ; option super-lentes",
+    "vitesse_min_kmh": 0.75,
+    "vitesse_max_kmh": 40,
+    "prise_de_force": "Indépendante, 540 et 1000 tr/min (deux bouts d'arbre, puis un bout commutable) ; PdF avant 1000 tr/min et PdF proportionnelle en option",
+    "relevage": "IH Sens-O-Draulic (K-120), catégorie II, 4 240 daN (5 330 daN avec vérin auxiliaire) ; Hydro-Plus fin 1987 ; relevage avant cat. I en option",
+    "dimensions": "L 4 194 mm (4RM 4 260), l 2 306 mm, H 2 770-2 795 mm, empattement 2 630 mm (4RM 2 590)",
+    "pneus": "2RM : AV 7.50-20, AR 18.4 R38 ; 4RM : AV 13.6 R28, AR 18.4 R38",
+    "reservoir_l": 140,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/commons-case-ih-1056-xl-1.jpg": {
+        "auteur": "Lothar Spurzem",
+        "licence": "CC BY-SA 2.0 DE",
+        "page": "https://commons.wikimedia.org/wiki/File:Case_International_1056_XL_2006-07-20.jpg"
+      }
+    },
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_IHC_1056XL",
+      "https://www.lestracteursrouges.com/fichier_tracteurs/tracteurs_francais/1056_xl.htm",
+      "https://www.tractordata.com/farm-tractors/007/8/3/7838-caseih-1056-xl.html",
+      "https://southernstar.ie/news/farm-classic-a-comfortable-ride-in-cases-1056xl-4276334",
+      "https://commons.wikimedia.org/wiki/File:Case_International_1056_XL_2006-07-20.jpg"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "renault-651",
+    "modele": "651",
+    "surnom": "",
+    "constructeur": "renault",
+    "photos": [
+      "assets/img/tracteurs/commons-renault-651-1.jpg"
+    ],
+    "debut": 1972,
+    "fin": 1986,
+    "pays": "France",
+    "puissance_ch": 65,
+    "moteur": "MWM D 227-4, diesel atmosphérique à injection directe, soupapes en tête",
+    "cylindres": 4,
+    "cylindree_cm3": 3770,
+    "couple_nm": 222,
+    "poids_kg": 2670,
+    "qualites": [
+      "Direction hydrostatique Danfoss",
+      "Relevage Tracto-Control à contrôle d'effort",
+      "Moteur MWM robuste"
+    ],
+    "defauts": [
+      "Freins à expansion Girling peu puissants (décélération 3 m/s²)",
+      "Blocage de différentiel manuel",
+      "Vitesse maxi limitée (≈ 23-25 km/h)"
+    ],
+    "reputation": "Modèle le plus produit de la gamme Renault MWM des années 1970 d'après les chiffres du Traktorenlexikon, polyvalent et resté quatorze ans au catalogue.",
+    "histoire": "Présenté fin 1972 avec le 551, le 651 inaugure la nouvelle gamme Renault à moteurs MWM et lignes droites, complétée par les 461 (1973) et 751/851/951 (1973-74). Wikipédia mentionne que des composants du 651 ont été partagés avec Carraro dans le cadre de l'accord de 1972. Il devient 651 S en novembre 1980 avec cabine de série et reste produit jusqu'en 1986.",
+    "anecdote": "",
+    "versions": "651 2RM ; 651-4 (4RM, pont Carraro) ; 651 S (cabine de sécurité de série, nov. 1980 – mars 1986)",
+    "usine": "Le Mans (Sarthe, France)",
+    "serie": "Gamme Renault 1972-1980 à moteurs MWM (461 à 951, désignations en « 1 »), puis série S à partir de novembre 1980",
+    "nombre_produit": "18 229 exemplaires dont 3 748 651 S (novembre 1972 – mars 1986, Traktorenlexikon)",
+    "alesage_course": "100 × 120 mm",
+    "regime": "2 350 tr/min",
+    "refroidissement": "eau (Traktorenlexikon ; Koneviesti indique un refroidissement par air)",
+    "vitesses": "4 AV / 1 AR × 3 gammes (lentes, champ, route) = 12 AV / 3 AR",
+    "vitesse_min_kmh": 0.64,
+    "vitesse_max_kmh": 25,
+    "prise_de_force": "Indépendante (embrayage double LuK), 540 tr/min, 1 3/8\" 6 cannelures ; poulie en option",
+    "relevage": "Renault Tracto-Control (contrôle de position et d'effort), catégorie I/II, 2 240 kg aux rotules",
+    "dimensions": "L 3 617 mm (4 073 avec attelage), l 1 860-2 280 mm, H 2 200 mm (cabine), empattement 2 242 mm",
+    "pneus": "AV 7.50-16, AR 16.9-28 (options 16.9-30, 13.6-36, 13.6-32)",
+    "reservoir_l": 65,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/commons-renault-651-1.jpg": {
+        "auteur": "Joost J. Bakker (IJmuiden)",
+        "licence": "CC BY 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Renault_651.jpg"
+      }
+    },
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Renault_651_R7461",
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Renault_551_R7451",
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Renault_461_R7441",
+      "https://www.tractordata.com/farm-tractors/004/2/9/4297-renault-651.html",
+      "https://www.koneviesti.fi/en/konedata/traktorit/renault/renault-551-851",
+      "https://fr.wikipedia.org/wiki/Renault_Agriculture",
+      "https://commons.wikimedia.org/wiki/File:Renault_651.jpg"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "renault-1181-4s",
+    "modele": "1181-4 S",
+    "surnom": "",
+    "constructeur": "renault",
+    "photos": [
+      "assets/img/tracteurs/commons-renault-1181-4s-1.jpg"
+    ],
+    "debut": 1980,
+    "fin": 1982,
+    "pays": "France",
+    "puissance_ch": 118,
+    "moteur": "MWM D 226-6, diesel atmosphérique à injection directe",
+    "cylindres": 6,
+    "cylindree_cm3": 6234,
+    "couple_nm": 406,
+    "poids_kg": 5390,
+    "qualites": [
+      "Couple et relevage les plus élevés de la gamme 6 cylindres",
+      "Pont avant Carraro à autobloquant Blocamatic",
+      "Inverseur 12/12 synchronisé"
+    ],
+    "defauts": [
+      "Cabine bruyante (90 dB)",
+      "Lourd (5,4 t)",
+      "Commandes de relevage mécaniques"
+    ],
+    "reputation": "Haut de gamme Renault au début des années 1980, rare (622 exemplaires S).",
+    "histoire": "Successeur du 1151-4 en 1976, le 1181-4 reçoit fin 1980 le badge S, la livrée jaune et noir, une vitesse sur route accrue et une capacité de relevage supérieure. Le lancement de la série TX entraîne l'arrêt des 6 cylindres de l'ancienne gamme en 1982.",
+    "anecdote": "",
+    "versions": "1181-4 (1976-1980) ; 1181-4 S (1980-1982, 4RM uniquement)",
+    "usine": "Le Mans (Sarthe, France), centre de production des tracteurs Renault selon Wikipédia (non précisé modèle par modèle)",
+    "serie": "Série S des 6 cylindres Renault (fin 1980, livrée jaune et noir)",
+    "nombre_produit": "622 exemplaires de 1181-4 S sur 2 557 1181-4 au total (Traktorenlexikon)",
+    "alesage_course": "105 × 120 mm",
+    "regime": "2 350 tr/min",
+    "refroidissement": "eau",
+    "vitesses": "12 AV / 12 AR synchronisée avec inverseur mécanique ; option 16/16 avec super-lentes",
+    "vitesse_min_kmh": 1.48,
+    "vitesse_max_kmh": 29,
+    "prise_de_force": "Indépendante, 540 et 1000 tr/min, PdF proportionnelle en option",
+    "relevage": "Renault Tracto-Control, catégorie I/II, 4 150 kg en continu, 5 200 kg aux rotules",
+    "dimensions": "L 4 400 mm, l 2 020-2 455 mm, H 3 280 mm, empattement 2 683 mm",
+    "pneus": "AV 14.9 R28, AR 16.9 R38",
+    "reservoir_l": 117,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/commons-renault-1181-4s-1.jpg": {
+        "auteur": "Joost J. Bakker (IJmuiden)",
+        "licence": "CC BY 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Renault_1181.4.jpg"
+      }
+    },
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Renault_1181-4_R7674",
+      "https://www.koneviesti.fi/en/konedata/traktorit/renault/renault-891s-1181s",
+      "https://www.tractordata.com/farm-tractors/004/3/1/4319-renault-1181s.html",
+      "https://fr.wikipedia.org/wiki/Renault_Agriculture",
+      "https://commons.wikimedia.org/wiki/File:Renault_1181.4.jpg"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "renault-103-14-tx",
+    "modele": "103-14 TX",
+    "surnom": "",
+    "constructeur": "renault",
+    "photos": [],
+    "debut": 1981,
+    "fin": 1986,
+    "pays": "France",
+    "puissance_ch": 93,
+    "moteur": "MWM TD 226-4, diesel turbocompressé à injection directe",
+    "cylindres": 4,
+    "cylindree_cm3": 4156,
+    "couple_nm": 299,
+    "poids_kg": 4920,
+    "qualites": [
+      "Cabine TX insonorisée (82 dB), première cabine silencieuse Renault à leviers latéraux",
+      "Conception modulaire facilitant l'entretien",
+      "Pont avant à autobloquant Blocamatic"
+    ],
+    "defauts": [
+      "Freins encore à disques secs",
+      "Relevage et inverseur à commande mécanique",
+      "Boîte reprise des modèles précédents"
+    ],
+    "reputation": "Koneviesti souligne une cabine silencieuse et une conception pensée pour l'entretien ; Wikipédia rappelle que la cabine TX de 1981 équipait encore le Temis en 2000.",
+    "histoire": "Lancée début 1981 après une longue pause sans nouveautés chez Renault, la série TX débute avec les 103-12 et 103-14 à moteur MWM turbo. Elle est complétée en 1982 par les 95-12/14 atmosphériques et en 1983 par les versions TS à cabine simplifiée.",
+    "anecdote": "Selon Wikipédia, la cabine « TX » introduite en 1981 apportait confort et accessibilité à la mécanique, et elle était encore montée sur le Renault Temis en 2000.",
+    "versions": "103-12 TX (2RM) ; 103-14 TX (4RM) ; 103-14 TS (cabine simplifiée, 1983)",
+    "usine": "Le Mans (Sarthe, France), centre de production des tracteurs Renault selon Wikipédia (non précisé pour ce modèle)",
+    "serie": "Série TX (1981-1986)",
+    "nombre_produit": "2 082 exemplaires (avril 1981 – février 1986, Traktorenlexikon)",
+    "alesage_course": "105 × 120 mm",
+    "regime": "2 350 tr/min",
+    "refroidissement": "eau",
+    "vitesses": "12 AV / 12 AR synchronisée (4 vitesses × 3 gammes) avec inverseur mécanique ; option 16 vitesses à super-lentes",
+    "vitesse_min_kmh": 1.5,
+    "vitesse_max_kmh": 30,
+    "prise_de_force": "Indépendante, 540 et 1000 tr/min ; PdF avant 1000 tr/min en option",
+    "relevage": "Catégorie II à crochets rapides, 3 200 kg en continu, 4 100 kg aux rotules ; relevage avant intégré en option",
+    "dimensions": "L 4 304 mm, l 2 055 mm, H 2 823 mm (cabine), empattement 2 480 mm",
+    "pneus": "AV 14.9-28 (option 13.6-28), AR 16.9-38",
+    "reservoir_l": 125,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Renault_103-14_TS/TX_R7822",
+      "https://www.koneviesti.fi/en/konedata/traktorit/renault/renault-95-12-tx-145-14-tx",
+      "https://www.tractordata.com/farm-tractors/004/3/3/4331-renault-103-14-tx.html",
+      "https://fr.wikipedia.org/wiki/Renault_Agriculture"
+    ],
+    "verifie": false
   }
 ];
