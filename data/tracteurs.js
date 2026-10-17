@@ -2538,7 +2538,9 @@ window.TRACTEURS = [
     "modele": "145-14 TX",
     "surnom": "",
     "constructeur": "renault",
-    "photos": [],
+    "photos": [
+      "assets/img/tracteurs/laurent-renault-145-14-tx-1.jpg"
+    ],
     "debut": 1981,
     "fin": 1986,
     "pays": "France",
@@ -2583,7 +2585,13 @@ window.TRACTEURS = [
       "https://www.tractordata.com/farm-tractors/004/3/3/4336-renault-145-14-tx.html",
       "https://fr.wikipedia.org/wiki/Renault_Agriculture"
     ],
-    "verifie": false
+    "verifie": false,
+    "credits": {
+      "assets/img/tracteurs/laurent-renault-145-14-tx-1.jpg": {
+        "auteur": "Laurent",
+        "licence": "tous droits réservés"
+      }
+    }
   },
   {
     "id": "zetor-7045",
