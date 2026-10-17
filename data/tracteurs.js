@@ -1274,7 +1274,9 @@ window.TRACTEURS = [
     "modele": "851-4 S",
     "surnom": "",
     "constructeur": "renault",
-    "photos": [],
+    "photos": [
+      "assets/img/tracteurs/laurent-renault-851-4s-1.jpg"
+    ],
     "debut": 1980,
     "fin": 1989,
     "pays": "France",
@@ -1316,7 +1318,13 @@ window.TRACTEURS = [
       "https://www.koneviesti.fi/en/konedata/traktorit/renault/renault-551-851",
       "https://www.tractordata.com/farm-tractors/004/3/1/4315-renault-851s.html"
     ],
-    "verifie": false
+    "verifie": false,
+    "credits": {
+      "assets/img/tracteurs/laurent-renault-851-4s-1.jpg": {
+        "auteur": "Laurent",
+        "licence": "tous droits réservés"
+      }
+    }
   },
   {
     "id": "renault-551-4s",
@@ -1569,7 +1577,9 @@ window.TRACTEURS = [
     "modele": "1451-4",
     "surnom": "",
     "constructeur": "renault",
-    "photos": [],
+    "photos": [
+      "assets/img/tracteurs/laurent-renault-1451-1.jpg"
+    ],
     "debut": 1974,
     "fin": 1980,
     "pays": "France",
@@ -1613,7 +1623,13 @@ window.TRACTEURS = [
       "https://www.koneviesti.fi/en/konedata/traktorit/renault/renault-891-1451",
       "https://www.tractordata.com/farm-tractors/004/3/0/4308-renault-1451.html"
     ],
-    "verifie": false
+    "verifie": false,
+    "credits": {
+      "assets/img/tracteurs/laurent-renault-1451-1.jpg": {
+        "auteur": "Laurent",
+        "licence": "tous droits réservés"
+      }
+    }
   },
   {
     "id": "ih-745",
@@ -1930,7 +1946,9 @@ window.TRACTEURS = [
     "modele": "1380",
     "surnom": "",
     "constructeur": "fiat",
-    "photos": [],
+    "photos": [
+      "assets/img/tracteurs/laurent-fiat-1380-1.jpg"
+    ],
     "debut": 1979,
     "fin": 1984,
     "pays": "Italie",
@@ -1967,6 +1985,12 @@ window.TRACTEURS = [
       "https://www.tractordata.com/farm-tractors/002/0/0/2001-fiat-1380.html",
       "https://fr.wikipedia.org/wiki/Fiat_Trattori"
     ],
-    "verifie": false
+    "verifie": false,
+    "credits": {
+      "assets/img/tracteurs/laurent-fiat-1380-1.jpg": {
+        "auteur": "Laurent",
+        "licence": "tous droits réservés"
+      }
+    }
   }
 ];
