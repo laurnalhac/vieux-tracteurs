@@ -26,6 +26,8 @@ Les photos originales (`photos-tractomania-caussade-2026/`) ne sont pas publiée
 
 ## Ajouter un tracteur
 
+Photos : uniquement les photos de Laurent ou des photos sous licence libre de Wikimedia Commons (CC BY, CC BY-SA, CC0, domaine public), avec auteur et licence renseignés dans `credits`.
+
 1. Réduire les photos : 1600 px de large dans `assets/img/tracteurs/`, 600 px dans `assets/img/tracteurs/vignettes/`, même nom de fichier en minuscules.
 2. Si le constructeur n'existe pas, l'ajouter dans `data/constructeurs.js` :
    `{ id, marque, nom, pays, fondation, fin, histoire }`.
@@ -44,7 +46,12 @@ Les photos originales (`photos-tractomania-caussade-2026/`) ne sont pas publiée
   qualites: [], defauts: [],
   reputation: "", histoire: "",
   photos: ["assets/img/tracteurs/dsc09891.jpg"],
-  anecdote: "",                 // encadré « Le saviez-vous ? » (paragraphes séparés par une ligne vide)
+  anecdote: "",
+  // Champs détaillés facultatifs (affichés seulement s'ils sont remplis) : usine, serie,
+  // nombre_produit, alesage_course, regime, refroidissement, vitesses, vitesse_min_kmh,
+  // vitesse_max_kmh, prise_de_force, relevage, dimensions, pneus, reservoir_l, versions,
+  // prix_epoque, cote_collection.
+  // credits: { "assets/img/tracteurs/x.jpg": { auteur, licence, page } } pour les photos libres.                 // encadré « Le saviez-vous ? » (paragraphes séparés par une ligne vide)
   sources: ["https://…"],       // URL des sources, affichées en bas de la fiche
   verifie: false
 }

@@ -125,7 +125,12 @@ window.CONSTRUCTEURS = [
     "pays": "France",
     "fondation": 1918,
     "fin": 2009,
-    "histoire": "Le premier tracteur Renault, le GP à chenilles dérivé du char FT, sort en 1919. Le VI de 1932 est présenté comme le premier tracteur français à moteur diesel ; Le Mans devient l'usine principale après 1945. Claas rachète l'activité entre 2003 et 2008 ; le dernier tracteur Renault sort en 2009."
+    "histoire": "Le premier tracteur Renault, le GP à chenilles dérivé du char FT, sort en 1919. La fabrication s'installe au Mans en 1941 ; dès 1945, tous les tracteurs de la marque y sont produits, et la production annuelle passe de 9 000 tracteurs en 1949 à un record de 25 000 en 1962. Au printemps 1956, la série D à moteurs MWM inaugure la livrée orange ; son modèle phare, le D22, dépasse 31 000 exemplaires. Suivent les séries Super, puis au début des années 1970 la gamme à moteurs MWM (551, 651, 751, 851), devenue série S jaune et noire en 1980, avant les TX de 1981. Claas rachète l'activité entre 2003 et 2008 ; le dernier tracteur Renault sort en 2009.",
+    "sources": [
+      "https://www.sites.google.com/view/associationrenaulthistoire/un-peu-d-histoire/histoire-des-sites-renault/le-mans",
+      "https://fr.wikipedia.org/wiki/Renault_Agriculture",
+      "https://www.planeterenault.com/15-histoire/1605-agriculture-rva/5421-renault-agriculture/amp/"
+    ]
   },
   {
     "id": "lanz",

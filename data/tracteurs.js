@@ -1268,5 +1268,351 @@ window.TRACTEURS = [
       "https://fr.wikipedia.org/wiki/Ferguson_TE20"
     ],
     "verifie": false
+  },
+  {
+    "id": "renault-851-4s",
+    "modele": "851-4 S",
+    "surnom": "",
+    "constructeur": "renault",
+    "photos": [],
+    "debut": 1980,
+    "fin": 1989,
+    "pays": "France",
+    "puissance_ch": 85,
+    "moteur": "MWM TD 226-4, diesel turbocompressé à injection directe",
+    "cylindres": 4,
+    "cylindree_cm3": 4154,
+    "couple_nm": 300,
+    "poids_kg": 3950,
+    "qualites": [
+      "Boîte 12 + 12 entièrement synchronisée avec inverseur",
+      "Relevage puissant à contrôle d'effort Tracto-Control",
+      "Freins à disques et direction hydrostatique"
+    ],
+    "defauts": [],
+    "reputation": "",
+    "histoire": "Les 751 et 851 arrivent fin 1973 en haut de la gamme 51 à moteurs MWM, plus robustes que les petits modèles et refroidis par eau. En 1980, la gamme moyenne reçoit le suffixe S et une livrée jaune et noire. Le 851-4 S, version turbo à quatre roues motrices, est vendu jusqu'en 1989.",
+    "anecdote": "",
+    "versions": "Le 851-4 (4 roues motrices) sort en même temps que le 851 à deux roues motrices, en 1974. En 1980, la gamme moyenne prend le suffixe S et la livrée jaune et noire : couple en hausse, vitesse sur route portée vers 30 km/h, relevage plus puissant. Cabine de sécurité vitrée de série à partir de novembre 1980. Pont avant à transmission centrale avec Blocamatic, direction hydrostatique Danfoss, freins à disques Girling.",
+    "usine": "Le Mans (où toute la production de tracteurs Renault est centralisée depuis 1945)",
+    "serie": "Série S (mise à jour de 1980 de la gamme 51), version 4 roues motrices du 851",
+    "nombre_produit": "4 227 exemplaires (851-4 S)",
+    "alesage_course": "105 × 120 mm",
+    "regime": "2 350 tr/min",
+    "refroidissement": "Liquide",
+    "vitesses": "12 AV / 12 AR entièrement synchronisées, inverseur mécanique (4 rapports × 3 gammes) ; 16 AV / 16 AR avec super-rampantes en option",
+    "vitesse_min_kmh": 1.2,
+    "vitesse_max_kmh": 26.8,
+    "prise_de_force": "Indépendante, 540 et 1 000 tr/min ; proportionnelle à l'avancement en option",
+    "relevage": "Contrôle d'effort Tracto-Control, catégorie I/II, un vérin principal et deux auxiliaires ; 4 500 kg selon Koneviesti (3 720 kg aux rotules pour le 851-4 selon le Traktorenlexikon)",
+    "dimensions": "Longueur 4 120 mm, hauteur avec cabine 2 700 mm, empattement 2 420 mm",
+    "pneus": "AV 13.6-24 / AR 16.9-34",
+    "reservoir_l": 77,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Renault_851-4_R7664",
+      "https://www.koneviesti.fi/en/konedata/traktorit/renault/renault-461s-851s",
+      "https://www.koneviesti.fi/en/konedata/traktorit/renault/renault-551-851",
+      "https://www.tractordata.com/farm-tractors/004/3/1/4315-renault-851s.html"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "renault-551-4s",
+    "modele": "551-4 S",
+    "surnom": "",
+    "constructeur": "renault",
+    "photos": [
+      "assets/img/tracteurs/commons-renault-551-4s-1.jpg"
+    ],
+    "debut": 1980,
+    "fin": 1986,
+    "pays": "France",
+    "puissance_ch": 55,
+    "moteur": "MWM D 226-3, diesel atmosphérique à injection directe",
+    "cylindres": 3,
+    "cylindree_cm3": 3117,
+    "couple_nm": 192,
+    "poids_kg": 2910,
+    "qualites": [
+      "Pont avant moteur de conception Renault",
+      "Contrôle d'effort et freins à disques, typiques des Renault",
+      "Direction hydrostatique"
+    ],
+    "defauts": [],
+    "reputation": "",
+    "histoire": "Le 551 apparaît en 1972 dans la nouvelle gamme Renault à moteurs MWM ; la version quatre roues motrices (551-4) est ajoutée en 1976. En 1980, le modèle devient 551-4 S, avec la nouvelle livrée jaune et noire, et il est construit jusqu'en 1986.",
+    "anecdote": "",
+    "versions": "Le 551-4 est produit d'avril 1976 à mars 1986, version S comprise. La version S arrive en 1980 avec la livrée jaune et noire, un couple et un relevage en hausse. Les 551 S et 651 S utilisaient un pont avant moteur de conception Renault. Cabine de sécurité en option, puis de série à partir de novembre 1980. La photo montre un 551-4 dont la version (S ou antérieure) n'est pas précisée.",
+    "usine": "Le Mans",
+    "serie": "Série S (mise à jour de 1980 de la gamme 51), version 4 roues motrices du 551",
+    "nombre_produit": "3 523 exemplaires (551-4 S)",
+    "alesage_course": "105 × 120 mm",
+    "regime": "2 350 tr/min",
+    "refroidissement": "Liquide",
+    "vitesses": "12 AV / 12 AR entièrement synchronisées, inverseur mécanique",
+    "vitesse_min_kmh": 0.7,
+    "vitesse_max_kmh": 26.9,
+    "prise_de_force": "Indépendante, 540 et 1 000 tr/min",
+    "relevage": "Contrôle d'effort Tracto-Control, catégorie I/II ; 2 500 kg selon Koneviesti",
+    "dimensions": "Longueur 3 700 mm, hauteur avec cabine 2 390 mm, empattement 2 100 mm",
+    "pneus": "AV 9.5-24 / AR 14.9-28",
+    "reservoir_l": 65,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/commons-renault-551-4s-1.jpg": {
+        "auteur": "JohannesErwinEugen.R",
+        "licence": "CC0",
+        "page": "https://commons.wikimedia.org/wiki/File:Renault_551-4.jpg"
+      }
+    },
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Renault_551-4_R7454",
+      "https://www.koneviesti.fi/en/konedata/traktorit/renault/renault-461s-851s",
+      "https://www.tractordata.com/farm-tractors/004/3/1/4310-renault-551s.html",
+      "https://commons.wikimedia.org/wiki/File:Renault_551-4.jpg"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "renault-d22",
+    "modele": "D22",
+    "surnom": "",
+    "constructeur": "renault",
+    "photos": [
+      "assets/img/tracteurs/commons-renault-d22-1.jpg"
+    ],
+    "debut": 1956,
+    "fin": 1960,
+    "pays": "France",
+    "puissance_ch": 22,
+    "moteur": "MWM AKD 112 Z, diesel atmosphérique à injection directe",
+    "cylindres": 2,
+    "cylindree_cm3": 1810,
+    "couple_nm": null,
+    "poids_kg": 1480,
+    "qualites": [
+      "Grande fiabilité",
+      "Entretien facile",
+      "Moteur MWM refroidi par air, sans eau qui gèle ou qui fuit"
+    ],
+    "defauts": [
+      "Relevage et prise de force non utilisables en même temps"
+    ],
+    "reputation": "Modèle phare, réputé pour sa grande fiabilité, qui a véritablement relancé Renault Agriculture. Il reste recherché par les amateurs pour sa fiabilité et sa facilité d'entretien.",
+    "histoire": "Au printemps 1956, Renault lance la série D, entièrement nouvelle, avec des moteurs MWM de 16 à 35 ch et une livrée orange. Le D22 bicylindre en est le modèle phare ; il est présenté comme le tracteur Renault le plus vendu.",
+    "anecdote": "Une publicité d'époque annonçait fièrement 100 tracteurs construits chaque jour au Mans, et 46 000 agriculteurs ayant choisi le modèle depuis 1956. Elle mettait aussi en avant 144 concessionnaires, 2 517 agents formés et une garantie gratuite de six mois, pièces et main-d'œuvre.\n\nLe D22 occupait la classe de puissance la plus demandée de l'époque, d'où un succès foudroyant en à peine 43 mois de production.",
+    "versions": "Boîte 6 vitesses ou 12 vitesses avec réducteur. Trois voies : normale, vigneronne et étroite. Double embrayage, vitesses rampantes et entraînement de faucheuse en option. Le type R 7052 est ensuite repris par les N 72, Super 3 et Super 3 D.",
+    "usine": "Le Mans",
+    "serie": "Série D (type R 7052), avec les D16, D30, E30 et D35",
+    "nombre_produit": "Environ 31 200 à 31 900 exemplaires selon les sources",
+    "alesage_course": "98 × 120 mm",
+    "regime": "1 700 tr/min",
+    "refroidissement": "Air",
+    "vitesses": "6 AV / 1 AR (5e et 6e synchronisées) ; 12 AV / 2 AR avec réducteur en option",
+    "vitesse_min_kmh": 3.22,
+    "vitesse_max_kmh": 22.22,
+    "prise_de_force": "540 tr/min, entraînée par la boîte ; indépendante en option avec double embrayage ; poulie de 230 mm",
+    "relevage": "Relevage hydraulique Bendix, attelage trois points catégorie I, 1 300 kg aux rotules ; relevage et prise de force ne fonctionnent pas en même temps",
+    "dimensions": "3 000 × 1 570 (à 2 110) × 1 540 mm, empattement 1 720 mm",
+    "pneus": "AV 5.50-16 / AR 10-28 (11-28 en option)",
+    "reservoir_l": 40,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/commons-renault-d22-1.jpg": {
+        "auteur": "FALGUIERES Jean-Paul",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Tracteur_Renault_D22.jpg"
+      }
+    },
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Renault_D22_R7052",
+      "https://fr.wikipedia.org/wiki/Renault_D22",
+      "https://www.koneviesti.fi/en/konedata/traktorit/renault/renault-d16-d35-1956-60",
+      "https://www.tractordata.com/farm-tractors/011/6/9/11693-renault-d22.html",
+      "https://www.planeterenault.com/15-histoire/1605-agriculture-rva/5421-renault-agriculture/amp/",
+      "https://commons.wikimedia.org/wiki/File:Tracteur_Renault_D22.jpg"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "renault-super-6d",
+    "modele": "Super 6 D",
+    "surnom": "",
+    "constructeur": "renault",
+    "photos": [
+      "assets/img/tracteurs/commons-renault-super-6d-1.jpg",
+      "assets/img/tracteurs/commons-renault-super-6d-2.jpg"
+    ],
+    "debut": 1965,
+    "fin": 1968,
+    "pays": "France",
+    "puissance_ch": 42,
+    "moteur": "MWM D 322-3, diesel atmosphérique à injection directe",
+    "cylindres": 3,
+    "cylindree_cm3": 2715,
+    "couple_nm": 166,
+    "poids_kg": 2090,
+    "qualites": [
+      "Contrôle d'effort Tracto-Control, principale innovation de la série Super de 1965",
+      "Moteur MWM à injection directe",
+      "Vidange hydraulique espacée de 1 200 heures"
+    ],
+    "defauts": [
+      "Freins à tambour et direction mécanique",
+      "Prise de force retirée de l'équipement de série"
+    ],
+    "reputation": "",
+    "histoire": "En 1965, Renault renouvelle sa série Super avec les Super 2 D à 7 D. Le Super 6 D, à moteur MWM trois cylindres refroidi par air, en est l'un des plus puissants. La série R lui succède en 1968.",
+    "anecdote": "1965, l'année du Super 6 D, est la meilleure année de ventes de tracteurs de toute l'histoire de Renault. Rarissime : la version à quatre roues motrices n'a été produite qu'à 53 exemplaires.",
+    "versions": "Successeur du Super 6 de 1964 (40 ch). Le moteur D 322-3 porte la puissance à 42 ch ; le Tracto-Control arrive en octobre 1965. Une version à quatre roues motrices est construite de 1966 à 1968, à 53 exemplaires seulement.",
+    "usine": "Le Mans",
+    "serie": "Série Super D (type R 7050), du Super 2 D au Super 7 D",
+    "nombre_produit": "15 617 exemplaires, dont 53 à quatre roues motrices",
+    "alesage_course": "98 × 120 mm",
+    "regime": "2 000 tr/min",
+    "refroidissement": "Air",
+    "vitesses": "6 AV / 1 AR (deux rapports supérieurs synchronisés) ; 10 AV / 2 AR avec réducteur en option",
+    "vitesse_min_kmh": 0.85,
+    "vitesse_max_kmh": 23.45,
+    "prise_de_force": "Indépendante à 540 tr/min (prise de force de boîte en option) ; poulie en option",
+    "relevage": "Catégorie I ; contrôle d'effort Tracto-Control à partir d'octobre 1965 ; 1 350 à 1 760 kg selon les sources",
+    "dimensions": "3 140 × 1 570 (à 2 140) × 1 550 mm, empattement 1 860 mm",
+    "pneus": "AV 6.00-16 / AR 11-28 ou 12.4-28",
+    "reservoir_l": 40,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/commons-renault-super-6d-1.jpg": {
+        "auteur": "Wleiter",
+        "licence": "Domaine public",
+        "page": "https://commons.wikimedia.org/wiki/File:Renault_Super6D_1967.jpg"
+      },
+      "assets/img/tracteurs/commons-renault-super-6d-2.jpg": {
+        "auteur": "Cjp24",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:1966_Renault_Super_6_D.jpg"
+      }
+    },
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Renault_Super_6D_R7050",
+      "https://koneviesti.fi/en/konedata/traktorit/renault/renault-super-2d-super-7d",
+      "https://www.tractordata.com/farm-tractors/004/2/6/4268-renault-super-6d.html",
+      "https://commons.wikimedia.org/wiki/File:Renault_Super6D_1967.jpg",
+      "https://commons.wikimedia.org/wiki/File:1966_Renault_Super_6_D.jpg"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "renault-751",
+    "modele": "751",
+    "surnom": "",
+    "constructeur": "renault",
+    "photos": [
+      "assets/img/tracteurs/commons-renault-751-1.jpg"
+    ],
+    "debut": 1973,
+    "fin": 1980,
+    "pays": "France",
+    "puissance_ch": 75,
+    "moteur": "MWM D 226-4, diesel atmosphérique à injection directe",
+    "cylindres": 4,
+    "cylindree_cm3": 4156,
+    "couple_nm": 255,
+    "poids_kg": 2995,
+    "qualites": [
+      "Construction plus robuste que celle des petits modèles de la gamme",
+      "Boîte 12 + 12 à inverseur avec de nombreux rapports lents",
+      "Relevage de 2 750 kg, jusqu'à 3 850 kg avec vérins auxiliaires"
+    ],
+    "defauts": [],
+    "reputation": "",
+    "histoire": "En décembre 1973, Renault étend vers le haut sa gamme à moteurs MWM avec les 751 et 851, plus robustes, refroidis par eau et dotés d'un relevage plus puissant. Le 751 est construit jusqu'en mars 1980, puis remplacé par le 751 S.",
+    "anecdote": "",
+    "versions": "751 à deux roues motrices (R 7621) et 751-4 à quatre roues motrices (R 7624). Le 751 S lui succède à partir de 1979-1980. Direction hydrostatique Danfoss, freins à disques Girling, cabine de sécurité tout vitrée.",
+    "usine": "Le Mans",
+    "serie": "Gamme 51 (type R 7621), deux roues motrices",
+    "nombre_produit": "6 200 exemplaires",
+    "alesage_course": "105 × 120 mm",
+    "regime": "2 350 tr/min",
+    "refroidissement": "Liquide",
+    "vitesses": "12 AV / 12 AR (4 rapports synchronisés × 3 gammes, avec inverseur) ; 16 AV / 16 AR avec super-rampantes en option",
+    "vitesse_min_kmh": 0.75,
+    "vitesse_max_kmh": 23.16,
+    "prise_de_force": "Indépendante, commandée au pied, 540 tr/min ; 540/1 000 tr/min en option",
+    "relevage": "Contrôle d'effort Tracto-Control, catégorie I/II ; 2 750 kg aux rotules (3 850 kg avec deux vérins auxiliaires)",
+    "dimensions": "3 814 × 1 860 (à 2 260) × 2 545 mm, empattement 2 374 mm",
+    "pneus": "AV 7.50-18 / AR 16.9-30 ou 16.9-34",
+    "reservoir_l": 82,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "credits": {
+      "assets/img/tracteurs/commons-renault-751-1.jpg": {
+        "auteur": "Joost J. Bakker",
+        "licence": "CC BY 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Renault_751_Tractor.jpg"
+      }
+    },
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Renault_751_R7621",
+      "https://www.koneviesti.fi/en/konedata/traktorit/renault/renault-551-851",
+      "https://www.tractordata.com/farm-tractors/004/2/9/4299-renault-751.html",
+      "https://commons.wikimedia.org/wiki/File:Renault_751_Tractor.jpg"
+    ],
+    "verifie": false
+  },
+  {
+    "id": "renault-1451",
+    "modele": "1451-4",
+    "surnom": "",
+    "constructeur": "renault",
+    "photos": [],
+    "debut": 1974,
+    "fin": 1980,
+    "pays": "France",
+    "puissance_ch": 145,
+    "moteur": "MWM TD 228-6, diesel turbocompressé à injection directe",
+    "cylindres": 6,
+    "cylindree_cm3": 6234,
+    "couple_nm": 505,
+    "poids_kg": 5970,
+    "qualites": [
+      "Puissance, couple et relevage les plus élevés de la gamme Renault de l'époque",
+      "Boîte et pont avant ZF",
+      "Cabine climatisée et assez silencieuse"
+    ],
+    "defauts": [
+      "Hydraulique plus simple que sur les autres Renault, sans Tracto-Control",
+      "Freins à tambour"
+    ],
+    "reputation": "Un succès modeste : seulement 230 exemplaires en six ans, ce qui en fait aujourd'hui un Renault très rare.",
+    "histoire": "Version de série du prototype 1401, le 1451 apparaît en 1974 et fait entrer Renault dans une nouvelle classe de puissance. Il n'est vendu qu'à 230 exemplaires jusqu'en 1980.",
+    "anecdote": "Pour entrer dans la classe des gros tracteurs, Renault n'a pas tout conçu lui-même : le 1451 assemble un six-cylindres turbo MWM, une boîte, un pont avant et un relevage ZF. Avec 230 exemplaires seulement, c'est l'un des Renault les plus rares de son époque.",
+    "versions": "Version de série du prototype 1401-4, construite en grande partie avec des composants achetés : boîte, pont avant et relevage ZF. N'existe qu'en quatre roues motrices (1451-4). Vitesse de 25 km/h de série, 30 km/h en option ; cabine de sécurité vitrée en option. Le poids varie selon les sources (5 125 à 5 970 kg).",
+    "usine": "",
+    "serie": "Haut de gamme Renault des années 1970 (type R 7694), quatre roues motrices uniquement",
+    "nombre_produit": "230 exemplaires",
+    "alesage_course": "105 × 120 mm",
+    "regime": "2 400 tr/min",
+    "refroidissement": "Liquide",
+    "vitesses": "16 AV / 6 AR (boîte ZF T-3450)",
+    "vitesse_min_kmh": 1.26,
+    "vitesse_max_kmh": 30,
+    "prise_de_force": "Indépendante, 1 000 tr/min",
+    "relevage": "Relevage ZF, catégorie II, deux vérins auxiliaires ; environ 4 620 kg aux rotules ; pas de Tracto-Control",
+    "dimensions": "4 737 × 2 070 (à 2 470) × 2 850 mm, empattement 2 700 mm",
+    "pneus": "AV 14.9-28 / AR 18.4-38",
+    "reservoir_l": 144,
+    "prix_epoque": "",
+    "cote_collection": "",
+    "sources": [
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Renault_1451-4_R7694",
+      "https://www.koneviesti.fi/en/konedata/traktorit/renault/renault-891-1451",
+      "https://www.tractordata.com/farm-tractors/004/3/0/4308-renault-1451.html"
+    ],
+    "verifie": false
   }
 ];
