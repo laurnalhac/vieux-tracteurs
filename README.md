@@ -47,7 +47,9 @@ Les photos originales (`photos-tractomania-caussade-2026/`) ne sont pas publiée
 }
 ```
 
-Laisser une valeur vide (`""`, `null` ou `[]`) plutôt que de deviner : la fiche affiche « à compléter ». Ne passer `verifie` à `true` qu'une fois les chiffres recoupés avec au moins une source fiable.
+Laisser une valeur vide (`""`, `null` ou `[]`) plutôt que de deviner : la fiche affiche « à compléter ». Le champ `verifie` sert de suivi interne (il n'est plus affiché sur le site) : ne le passer à `true` qu'une fois les chiffres recoupés avec au moins une source fiable.
+
+Après une modification des fichiers CSS ou JS, augmenter le numéro `?v=` dans les balises `<script>` et `<link>` des pages HTML pour que les navigateurs rechargent les nouvelles versions.
 
 ## Mise en ligne sur GitHub Pages
 

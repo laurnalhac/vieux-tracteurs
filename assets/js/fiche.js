@@ -57,8 +57,6 @@
     '<p class="fil"><a href="index.html">Catalogue</a> › ' + e(marque) + " " + e(t.modele) + "</p>" +
     '<div class="fiche-entete"><h1>' + e(marque) + " " + e(t.modele) + "</h1>" +
     (t.surnom ? '<span class="surnom">« ' + e(t.surnom) + " »</span>" : "") + "</div>" +
-    (t.verifie ? "" : '<div class="encart"><strong>Fiche à vérifier.</strong> Les informations de cette fiche n\'ont pas encore été recoupées avec une source fiable. ' +
-      'Vous connaissez ce modèle ? <a href="proposer.html?marque=' + encodeURIComponent(marque) + "&modele=" + encodeURIComponent(t.modele) + '">Proposez une correction</a>.</div>') +
     galerie +
     '<div class="fiche-grille"><div>' +
     "<h2>Histoire</h2>" + paragraphe(t.histoire) +
@@ -66,6 +64,7 @@
     '<div class="qualites-defauts"><div><h3>Qualités</h3>' + liste(t.qualites) + "</div>" +
     "<div><h3>Défauts</h3>" + liste(t.defauts) + "</div></div>" +
     "</div><div><h2>Caractéristiques</h2><table class=\"caracs\">" + caracs + "</table>" +
+    '<p class="aide">Une erreur ou une information à ajouter ? <a href="proposer.html?marque=' + encodeURIComponent(marque) + "&modele=" + encodeURIComponent(t.modele) + '">Proposez une correction</a>.</p>' +
     (c ? "<h2>Le constructeur</h2><h3>" + e(c.nom) + "</h3>" + paragraphe(c.histoire) +
       '<p><a href="constructeurs.html#' + e(c.id) + '">Tous les modèles ' + e(c.marque) + "</a></p>" : "") +
     "</div></div>" +

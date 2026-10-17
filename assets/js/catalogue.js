@@ -85,7 +85,6 @@
     return '<a class="carte" href="tracteur.html?id=' + encodeURIComponent(t.id) + '">' +
       '<div class="vignette">' +
       (photo ? '<img src="' + VT.echapper(VT.vignette(photo)) + '" alt="' + VT.echapper(marque + " " + t.modele) + '" loading="lazy">' : "") +
-      (t.verifie ? "" : '<span class="badge">Fiche à vérifier</span>') +
       "</div>" +
       '<div class="corps"><span class="marque">' + VT.echapper(marque) + "</span>" +
       "<h3>" + VT.echapper(t.modele) + "</h3><dl>" + lignes + "</dl></div></a>";
