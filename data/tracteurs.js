@@ -27,11 +27,14 @@ window.TRACTEURS = [
     "photos": [
       "assets/img/tracteurs/dsc09847.jpg"
     ],
+    "anecdote": "Avant les supercars, il y a eu les tracteurs. Ferruccio Lamborghini fonde Lamborghini Trattori en 1948 et en fait en une dizaine d'années le troisième constructeur italien de tracteurs. La fortune bâtie sur ces machines finance ensuite l'aventure automobile.\n\nSelon la légende rapportée par Wikipédia, Ferruccio, propriétaire d'une Ferrari à l'embrayage capricieux, s'en serait plaint à Enzo Ferrari, qui lui aurait répondu avec mépris : « Lamborghini, vous êtes peut-être capable de conduire un tracteur… ». Piqué au vif, il décide de construire sa propre voiture de sport. Son emblème, le taureau, répond au cheval cabré.",
     "sources": [
       "https://www.artcurial.com/ventes/3888/lots/119-a",
       "https://silodrome.com/lamborghini-5c-tl-tractor/",
       "https://www.hagerty.com/media/buying-and-selling/lamborghini-wasnt-always-horsepower-and-carbon-fiber/",
-      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Lamborghini"
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Lamborghini",
+      "https://fr.wikipedia.org/wiki/Ferruccio_Lamborghini",
+      "https://fr.wikipedia.org/wiki/Lamborghini_Trattori"
     ],
     "verifie": false
   },
@@ -60,9 +63,11 @@ window.TRACTEURS = [
     "photos": [
       "assets/img/tracteurs/dsc09848.jpg"
     ],
+    "anecdote": "La série D-06 reposait sur un système modulaire : de nombreuses pièces s'échangeaient d'un modèle à l'autre. Après l'arrêt de leur fabrication en Allemagne, ces tracteurs ont connu une seconde vie, produits sous licence en ex-Yougoslavie et en Algérie.",
     "sources": [
       "https://de.wikibooks.org/wiki/Traktorenlexikon:_Deutz_D_6206",
-      "https://tractordata.com/farm-tractors/002/1/9/2195-deutz-d-6206.html"
+      "https://tractordata.com/farm-tractors/002/1/9/2195-deutz-d-6206.html",
+      "https://de.wikipedia.org/wiki/Deutz_D-06"
     ],
     "verifie": false
   },
@@ -96,6 +101,7 @@ window.TRACTEURS = [
     "photos": [
       "assets/img/tracteurs/dsc09852.jpg"
     ],
+    "anecdote": "Pour motoriser son Pony diesel, Massey-Harris n'a pas développé de moteur : la marque a acheté à l'allemand Hanomag le bicylindre deux temps qui équipait déjà le Hanomag R 18.\n\nSa carrière a été aussi courte que fulgurante : 11 953 exemplaires en 1957, 14 297 en 1958, puis 4 033 en 1959, 948 en 1960… et 46 seulement en 1961.",
     "sources": [
       "https://de.wikibooks.org/wiki/Traktorenlexikon:_Massey-Harris_Massey-Harris_Pony_820",
       "https://www.koneviesti.fi/en/konedata/traktorit/massey-ferguson/massey-harris-pony",
@@ -131,9 +137,11 @@ window.TRACTEURS = [
     "photos": [
       "assets/img/tracteurs/dsc09898.jpg"
     ],
+    "anecdote": "Né au Canada en 1947, le petit Pony a finalement eu une carrière bien plus française que canadienne : environ 29 000 exemplaires produits au Canada jusqu'en 1954, contre près de 90 000 en France, à l'usine de Marquette-lez-Lille, jusqu'en 1962. En fin de carrière, il a été rebaptisé Massey-Ferguson 21.",
     "sources": [
       "https://www.koneviesti.fi/en/konedata/traktorit/massey-ferguson/massey-harris-pony",
-      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Massey-Harris_Massey-Harris_Pony_811/812"
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Massey-Harris_Massey-Harris_Pony_811/812",
+      "https://www.agriland.co.uk/farming-news/marquette-massey-fergusons-other-french-factory/"
     ],
     "verifie": false
   },
@@ -164,6 +172,7 @@ window.TRACTEURS = [
     "photos": [
       "assets/img/tracteurs/dsc09851.jpg"
     ],
+    "anecdote": "Le F-137 D est un pur produit de l'usine de Saint-Dizier, en Haute-Marne, rachetée par la filiale française d'International Harvester en 1950 et modernisée en partie grâce aux dollars du plan Marshall. Dès 1953, l'usine fabrique ses propres moteurs ; en 1958 y naît le Farmall 135 D, best-seller de sa catégorie, dont le F-137 D est l'évolution.",
     "sources": [
       "https://de.wikibooks.org/wiki/Traktorenlexikon:_McCormick_F-137_D",
       "https://www.farmcollector.com/tractors/tractors-company-history/IHC-McCormick-France-ze0z1402zjhar/",
@@ -200,6 +209,7 @@ window.TRACTEURS = [
     "photos": [
       "assets/img/tracteurs/dsc09846.jpg"
     ],
+    "anecdote": "Avec son grand frère le 15-30, le 10-20 a ouvert l'ère des tracteurs légers et sonné la fin des lourdes machines héritées des locomobiles. Il a d'abord été annoncé sous le nom d'International Tractor 10-20, avant d'être rebaptisé McCormick-Deering.\n\nLe succès a été massif : la production annuelle de la version standard passe de 7 117 unités en 1923 à 39 433 en 1929, pour 215 472 exemplaires au total.",
     "sources": [
       "https://de.wikibooks.org/wiki/Traktorenlexikon:_IHC_10-20",
       "https://tractordata.com/farm-tractors/003/4/2/3429-mccormick-deering-10-20-tests.html",
@@ -232,9 +242,12 @@ window.TRACTEURS = [
     "photos": [
       "assets/img/tracteurs/dsc09865.jpg"
     ],
+    "anecdote": "Le nom « Dieselross » (« cheval diesel ») résume le projet : la machine devait épargner le cheval au paysan. Selon Fendt, ce surnom lui aurait été donné par un agriculteur voisin qui essayait les tracteurs.\n\nLa publicité vantait un moteur Deutz qui tournait « sans bougie, sans carburateur et sans magnéto », et une heure de travail ne coûtait qu'environ 15 pfennigs. Sur ses pneus pleins en caoutchouc, ce petit monocylindre de 9 ch atteignait 13 km/h.",
     "sources": [
       "https://de.wikibooks.org/wiki/Traktorenlexikon:_Fendt_Dieselross_F9_1930-1936",
-      "https://de.wikipedia.org/wiki/Fendt_(Marke)"
+      "https://de.wikipedia.org/wiki/Fendt_(Marke)",
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Fendt_Dieselross",
+      "https://de.wikipedia.org/wiki/Fendt_Dieselross"
     ],
     "verifie": false
   },
@@ -263,9 +276,11 @@ window.TRACTEURS = [
     "photos": [
       "assets/img/tracteurs/dsc09868.jpg"
     ],
+    "anecdote": "Le F 18 H a apporté un détail resté célèbre : son capot rond est devenu la marque de fabrique de tous les Dieselross, jusqu'à l'arrivée de la gamme « ff ». En 1950, il coûtait 6 675 DM au catalogue.",
     "sources": [
       "https://de.wikibooks.org/wiki/Traktorenlexikon:_Fendt_Dieselross_F18H",
-      "https://www.fendt.com/us/technologies/innovation-stories"
+      "https://www.fendt.com/us/technologies/innovation-stories",
+      "https://de.wikipedia.org/wiki/Fendt_Dieselross"
     ],
     "verifie": false
   },
@@ -294,6 +309,7 @@ window.TRACTEURS = [
     "photos": [
       "assets/img/tracteurs/dsc09869.jpg"
     ],
+    "anecdote": "Le F 20 soignait la longévité : ses chemises de cylindre amovibles, chromées dur, étaient décrites comme presque insensibles à la corrosion, et un témoin rouge s'allumait dès que le moteur tournait sans huile.\n\nLa version H 6, montée sur de grandes roues, atteignait 25 km/h, une belle vitesse pour un tracteur de l'époque.",
     "sources": [
       "https://de.wikibooks.org/wiki/Traktorenlexikon:_Fendt_Dieselross_F20"
     ],
@@ -325,9 +341,12 @@ window.TRACTEURS = [
     "photos": [
       "assets/img/tracteurs/dsc09866.jpg"
     ],
+    "anecdote": "Le F 22 est né d'un mariage imposé. Otto Martin, fabricant de machines à bois d'Ottobeuren, avait mis au point un tracteur présenté en 1937. Le ministère de l'Économie du Reich, qui voulait concentrer la production, a poussé à en tirer un modèle commun avec Fendt. Le même tracteur a donc été vendu sous deux noms : « Dieselross F 22 » chez Fendt et « F 22 » chez Martin.\n\nFendt en a écoulé bien davantage : 2 258 exemplaires, contre 375 pour Martin.",
     "sources": [
       "https://de.wikibooks.org/wiki/Traktorenlexikon:_Fendt_Dieselross_F22",
-      "https://de.wikipedia.org/wiki/Fendt_(Marke)"
+      "https://de.wikipedia.org/wiki/Fendt_(Marke)",
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Martin_F22",
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Martin"
     ],
     "verifie": false
   },
@@ -358,6 +377,7 @@ window.TRACTEURS = [
     "photos": [
       "assets/img/tracteurs/dsc09873.jpg"
     ],
+    "anecdote": "Fendt avait lancé en 1954 le F 24 L refroidi par air pour suivre la mode du moment, puis ajouté un an plus tard ce F 24 W refroidi par eau. Le public a tranché en faveur de l'air : 6 369 F 24 L vendus, contre 4 148 F 24 W.",
     "sources": [
       "https://de.wikibooks.org/wiki/Traktorenlexikon:_Fendt_Dieselross_F24"
     ],
@@ -388,6 +408,7 @@ window.TRACTEURS = [
     "photos": [
       "assets/img/tracteurs/dsc09892.jpg"
     ],
+    "anecdote": "Le Fix 2 existait en deux versions, refroidie par eau (18 ch) ou par air (19 ch), vendues au même prix catalogue de 7 650 DM. Fendt vantait son capot « racé » qui intégrait les phares, et son « Hydro-Drucksystem » breveté, qui reportait le poids des outils portés sur l'essieu arrière pour limiter le patinage.",
     "sources": [
       "https://de.wikibooks.org/wiki/Traktorenlexikon:_Fendt_Fix_2",
       "https://www.tractordata.com/farm-tractors/002/6/1/2615-fendt-fix-2.html",
@@ -424,10 +445,12 @@ window.TRACTEURS = [
       "assets/img/tracteurs/dsc09890.jpg",
       "assets/img/tracteurs/dsc09889.jpg"
     ],
+    "anecdote": "En 1961, c'est un Farmer 2 qui est sorti de chaîne comme 100 000e tracteur Fendt, souvent surnommé le « Goldener Fendt » (le Fendt doré).\n\nLe Farmer 2 a aussi fait carrière à la télévision : un exemplaire de première génération joue dans la série allemande « Neues aus Büttenwarder », aux côtés du personnage de Kurt Brakelmann. Son dispositif « Start-O-Stop », un levier sur l'aile gauche qui commandait frein et embrayage, permettait au conducteur de marcher à côté du tracteur pendant les travaux de binage.",
     "sources": [
       "https://de.wikibooks.org/wiki/Traktorenlexikon:_Fendt_Farmer_2",
       "https://de.wikipedia.org/wiki/Fendt_(Marke)",
-      "https://tractordata.com/farm-tractors/007/2/7/7279-fendt-farmer-2-engine.html"
+      "https://tractordata.com/farm-tractors/007/2/7/7279-fendt-farmer-2-engine.html",
+      "https://de.wikipedia.org/wiki/Neues_aus_B%C3%BCttenwarder"
     ],
     "verifie": false
   },
@@ -461,6 +484,7 @@ window.TRACTEURS = [
       "assets/img/tracteurs/dsc09887.jpg",
       "assets/img/tracteurs/dsc09888.jpg"
     ],
+    "anecdote": "D'après Fendt, les performances de l'embrayage hydraulique Turbomatik, apparu sur le Farmer 3 S, n'ont été dépassées dans la gamme qu'avec la transmission à variation continue Vario, en 1995. Son convertisseur de couple augmentait la force de traction d'environ 30 %.",
     "sources": [
       "https://de.wikibooks.org/wiki/Traktorenlexikon:_Fendt_Farmer_3_S/SA",
       "https://www.fendt.com/us/technologies/innovation-stories",
@@ -493,6 +517,7 @@ window.TRACTEURS = [
     "photos": [
       "assets/img/tracteurs/dsc09860.jpg"
     ],
+    "anecdote": "Le Traktorenlexikon ne tarit pas d'éloges : contrairement au Farmer 102 de base, plus dépouillé, le 102 S était « dans toutes ses versions un coup de génie ». Lors de l'année jubilaire 1978, il gagne encore en puissance pour atteindre 48 ch.",
     "sources": [
       "https://de.wikibooks.org/wiki/Traktorenlexikon:_Fendt_Farmer_102_S/SA"
     ],
@@ -523,6 +548,7 @@ window.TRACTEURS = [
     "photos": [
       "assets/img/tracteurs/dsc09861.jpg"
     ],
+    "anecdote": "Sa longue carrière se lit dans son prix : le modèle à deux roues motrices coûtait 18 670 DM en 1972, et 48 347 DM en 1986.",
     "sources": [
       "https://de.wikibooks.org/wiki/Traktorenlexikon:_Fendt_Farmer_103_S/SA"
     ],
@@ -553,6 +579,7 @@ window.TRACTEURS = [
     "photos": [
       "assets/img/tracteurs/dsc09862.jpg"
     ],
+    "anecdote": "Le « L » du Farmer 105 LS signifie « Luxus » : il était livré avec une cabine intégrée sur silentblocs, chauffée à l'eau chaude. La liste des options en dit long sur ce confort nouveau : on y trouvait même un allume-cigare et un système de gonflage des pneus.\n\nAvec ses super-rampantes optionnelles, il pouvait avancer à 0,34 km/h et monter à 30 km/h sur route.",
     "sources": [
       "https://de.wikibooks.org/wiki/Traktorenlexikon:_Fendt_Farmer_105_LS/LSA",
       "https://www.tractordata.com/farm-tractors/002/6/3/2639-fendt-farmer-105ls.html"
@@ -584,6 +611,7 @@ window.TRACTEURS = [
     "photos": [
       "assets/img/tracteurs/dsc09864.jpg"
     ],
+    "anecdote": "En 1991, avec l'inverseur et les commandes électro-hydrauliques, le prix du Farmer 307 LSA a franchi la barre des 100 000 DM (106 784 DM en version 40 km/h).",
     "sources": [
       "https://de.wikibooks.org/wiki/Traktorenlexikon:_Fendt_Farmer_307_LSA",
       "https://www.tractordata.com/farm-tractors/002/6/5/2650-fendt-farmer-307ls.html"
@@ -617,6 +645,7 @@ window.TRACTEURS = [
     "photos": [
       "assets/img/tracteurs/dsc09863.jpg"
     ],
+    "anecdote": "Son nom résume son époque : « L » pour « Luxus », en référence à la cabine entièrement vitrée à deux portes du milieu des années 1970, et « S » pour l'embrayage hydraulique Turbo, devenu le standard Fendt en 1968.",
     "sources": [
       "https://de.wikibooks.org/wiki/Traktorenlexikon:_Fendt_Favorit_600_LS",
       "https://www.tractordata.com/farm-tractors/002/6/6/2664-fendt-favorit-600ls.html"
@@ -648,10 +677,13 @@ window.TRACTEURS = [
       "assets/img/tracteurs/dsc09877.jpg",
       "assets/img/tracteurs/dsc09878.jpg"
     ],
+    "anecdote": "Le R 6000 illustre le grand virage de Landini. La marque de Fabbrico s'était fait connaître avec ses monocylindres semi-diesel à boule chaude ; en 1957, elle signe un accord pour fabriquer sous licence des moteurs Perkins. Devenu actionnaire majoritaire, Massey Ferguson vendait même certains Landini sous sa propre marque, notamment en France. Dans le nom, la lettre « R » désigne les modèles à roues arrière motrices.",
     "sources": [
       "https://tractordata.com/farm-tractors/011/3/9/11393-landini-r-6000.html",
       "https://www.tractordata.com/farm-tractors/tractor-brands/landini/landini-tractors.html",
-      "https://en.wikipedia.org/wiki/Landini_(tractor)"
+      "https://en.wikipedia.org/wiki/Landini_(tractor)",
+      "https://fr.wikipedia.org/wiki/Landini",
+      "https://www.koneviesti.fi/en/konedata/traktorit/landini/landini-3000-7000-1961-68"
     ],
     "verifie": false
   },
@@ -681,10 +713,12 @@ window.TRACTEURS = [
     "photos": [
       "assets/img/tracteurs/dsc09879.jpg"
     ],
+    "anecdote": "Le MF 140 est un Massey Ferguson à part : construit en France, il n'était pas destiné au marché allemand et s'est surtout vendu en Espagne et en Italie. Selon le Traktorenlexikon, les versions standard et étroite du MF 140 S ont même été conçues uniquement pour l'Italie et la France.\n\nEn option, le Multi-Power, un réducteur hydraulique passable sous charge, doublait le nombre de vitesses : de 6 à 12 en marche avant.",
     "sources": [
       "https://de.wikibooks.org/wiki/Traktorenlexikon:_Massey_Ferguson_MF_140",
       "https://www.tractordata.com/farm-tractors/003/5/7/3572-massey-ferguson-140.html",
-      "https://en.wikipedia.org/wiki/Massey_Ferguson_135"
+      "https://en.wikipedia.org/wiki/Massey_Ferguson_135",
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Massey_Ferguson_MF_140_S"
     ],
     "verifie": false
   },
@@ -743,6 +777,7 @@ window.TRACTEURS = [
     "photos": [
       "assets/img/tracteurs/dsc09908.jpg"
     ],
+    "anecdote": "Successeur direct du célèbre MF 135, le MF 235 n'a été produit que deux ans aux États-Unis, à Detroit. Il coûtait 6 900 dollars en 1976, et existait aussi en tracteur de plantation et en tracteur vigneron.",
     "sources": [
       "https://de.wikibooks.org/wiki/Traktorenlexikon:_Massey_Ferguson_MF_235",
       "https://www.tractordata.com/farm-tractors/000/7/5/756-massey-ferguson-235.html"
@@ -776,9 +811,11 @@ window.TRACTEURS = [
     "photos": [
       "assets/img/tracteurs/dsc09901.jpg"
     ],
+    "anecdote": "Le « 8 » de MF 821 indique son lieu de naissance. Chez Massey Ferguson, le premier chiffre du numéro désignait l'usine : 6 pour l'Allemagne, 7 pour Kilmarnock en Écosse et 8 pour Marquette-lez-Lille. Le MF 21 devenait donc MF 821 lorsqu'il sortait de l'usine nordiste.\n\nL'usine de Marquette, ouverte en 1926 et surtout connue pour ses moissonneuses-batteuses, a fermé en 1984.",
     "sources": [
       "https://www.tractordata.com/farm-tractors/009/5/5/9555-massey-ferguson-821.html",
-      "https://www.koneviesti.fi/en/konedata/traktorit/massey-ferguson/massey-harris-pony"
+      "https://www.koneviesti.fi/en/konedata/traktorit/massey-ferguson/massey-harris-pony",
+      "https://www.agriland.co.uk/farming-news/marquette-massey-fergusons-other-french-factory/"
     ],
     "verifie": false
   },
@@ -808,9 +845,11 @@ window.TRACTEURS = [
     "photos": [
       "assets/img/tracteurs/dsc09883.jpg"
     ],
+    "anecdote": "En 1932, des ingénieurs d'Allis-Chalmers ont monté sur le Model U d'Albert Schroeder, un agriculteur du Wisconsin, deux pneus d'avion Firestone. L'essai a été si concluant qu'en octobre de la même année, la marque annonçait des pneus de série sur le Model U.\n\nPour en faire la promotion, Allis-Chalmers et Firestone ont organisé à l'été 1933 des courses de tracteurs dans les foires agricoles du Midwest. Le pilote automobile Barney Oldfield y conduisait un Model U presque de série, et aurait établi un record de vitesse pour tracteur à environ 103 km/h.",
     "sources": [
       "https://www.tractordata.com/farm-tractors/000/7/2/721-allis-chalmers-u.html",
-      "https://www.farmcollector.com/tractors/tractors-company-history/allis-chalmers-model-u-zm0z18mayzhur/"
+      "https://www.farmcollector.com/tractors/tractors-company-history/allis-chalmers-model-u-zm0z18mayzhur/",
+      "https://www.farmcollector.com/tractors/allis-chalmers-rubber-firestone-tires"
     ],
     "verifie": false
   },
@@ -840,10 +879,13 @@ window.TRACTEURS = [
     "photos": [
       "assets/img/tracteurs/dsc09893.jpg"
     ],
+    "anecdote": "Le nom Zetor est né au printemps 1946. Il associe « Zet », la lettre Z de Zbrojovka Brno, une ancienne fabrique d'armes, et la finale « -or » de « traktor ». Les trois premiers Zetor 25 sont livrés le 15 mars 1946.\n\nPrésenté en 1966, le 5511 est alors le plus gros modèle de la gamme unifiée, avec une proue anguleuse et un capot à arêtes vives qui tranchent avec les anciens Zetor.",
     "sources": [
       "https://de.wikibooks.org/wiki/Traktorenlexikon:_Zetor_5511",
       "https://en.wikipedia.org/wiki/Zetor",
-      "https://www.tractordata.com/farm-tractors/001/7/5/1757-zetor-5511.html"
+      "https://www.tractordata.com/farm-tractors/001/7/5/1757-zetor-5511.html",
+      "https://fr.wikipedia.org/wiki/Zetor",
+      "https://www.auto.cz/zetor-a-jeho-prvnich-70-let-96301"
     ],
     "verifie": false
   },
@@ -871,11 +913,13 @@ window.TRACTEURS = [
     "photos": [
       "assets/img/tracteurs/dsc09909.jpg"
     ],
+    "anecdote": "Curieuse variante : le « Bisomtrac », conçu par les établissements Lhermite de Dreux, accouplait deux SOM 40 en tandem pour en faire un seul engin plus puissant.",
     "sources": [
       "https://en.wikipedia.org/wiki/Someca",
       "https://www.agriland.co.uk/farming-news/machinery-focus-someca-the-french-fiat-that-filled-a-need/",
       "https://de.wikibooks.org/wiki/Traktorenlexikon:_Someca_SOM_40_Super",
-      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Someca_SOM_40"
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Someca_SOM_40",
+      "https://fr.wikipedia.org/wiki/Someca"
     ],
     "verifie": false
   },
@@ -904,8 +948,10 @@ window.TRACTEURS = [
     "photos": [
       "assets/img/tracteurs/dsc09904.jpg"
     ],
+    "anecdote": "Le Someca 450 est en réalité un tracteur Fiat produit en France : depuis 1965, Someca ne fabriquait plus que des modèles Fiat sous licence. Son nom de série, « Nastro d'Oro », signifie « ruban d'or ».",
     "sources": [
-      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Someca_450"
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Someca_450",
+      "https://fr.wikipedia.org/wiki/Someca"
     ],
     "verifie": false
   },
@@ -935,6 +981,7 @@ window.TRACTEURS = [
       "assets/img/tracteurs/dsc09902.jpg",
       "assets/img/tracteurs/dsc09903.jpg"
     ],
+    "anecdote": "La version quatre roues motrices pesait environ 4 tonnes, et son relevage pouvait soulever jusqu'à 3,75 tonnes : une belle illustration de la montée en puissance des tracteurs dans les années 1970.",
     "sources": [
       "https://de.wikibooks.org/wiki/Traktorenlexikon:_Fiat_1000/1000_DT",
       "https://de.wikibooks.org/wiki/Traktorenlexikon:_Someca_1000"
@@ -968,10 +1015,12 @@ window.TRACTEURS = [
     "photos": [
       "assets/img/tracteurs/dsc09899.jpg"
     ],
+    "anecdote": "Le Ford 4000 de 1965 appartient à la gamme qui accompagne l'ouverture de l'usine de tracteurs neuve de Basildon, en 1964. Selon le Farmers Journal, c'est alors que commence l'ère du tracteur Ford bleu à roues blanches.\n\nSa boîte Select-O-Speed, une transmission sans embrayage passable sous charge, a laissé de mauvais souvenirs : selon un spécialiste cité par le journal, elle fonctionnait au mieux sur le Ford 5000, mais se montrait particulièrement peu fiable sur le 4000.",
     "sources": [
       "https://de.wikibooks.org/wiki/Traktorenlexikon:_Ford_4000",
       "https://www.tractordata.com/farm-tractors/003/7/7/3771-ford-4000.html",
-      "https://www.farmersjournal.ie/50-years-ford-tractor-celebration-169301"
+      "https://www.farmersjournal.ie/50-years-ford-tractor-celebration-169301",
+      "https://farmersjournal.ie/the-era-of-ford-tractors-and-farming-248771"
     ],
     "verifie": false
   },
@@ -999,6 +1048,7 @@ window.TRACTEURS = [
     "photos": [
       "assets/img/tracteurs/dsc09849.jpg"
     ],
+    "anecdote": "Le nom Normag-Zorge raconte une histoire de guerre. Pendant le conflit, faute de carburant, l'usine de Nordhausen ne produit plus que des tracteurs à gazogène. Juste avant la fin de la guerre, la production est transférée à Zorge, dans le Harz occidental, avec l'aide de l'armée américaine, d'où le nouveau nom de l'entreprise. Les halles vides de Nordhausen sont occupées en juillet 1945 par l'armée soviétique.",
     "sources": [
       "https://de.wikipedia.org/wiki/Normag",
       "https://de.wikibooks.org/wiki/Traktorenlexikon:_Normag"
@@ -1035,11 +1085,13 @@ window.TRACTEURS = [
       "assets/img/tracteurs/dsc09855.jpg",
       "assets/img/tracteurs/dsc09854.jpg"
     ],
+    "anecdote": "Le B2B fait partie des derniers tracteurs d'une vieille maison de l'Aube, installée à Vendeuvre-sur-Barse depuis 1837 et d'abord connue pour ses batteuses et ses machines à vapeur. Rachetée par l'américain Allis-Chalmers, elle cesse de produire des modèles Vendeuvre en 1964.",
     "sources": [
       "https://www.amicalevendeuvre.com/v-b2b-16-p207235.html",
       "https://www.amicalevendeuvre.com/serie-v-1959-1961-p206419.html",
       "https://www.materielagricole.info/tracteur-retro/article/862789/orange-mecanique",
-      "https://leblogdutracteur.com/2017/05/10/vendeuvre-synonyme-de-linnovation-a-la-francaise/"
+      "https://leblogdutracteur.com/2017/05/10/vendeuvre-synonyme-de-linnovation-a-la-francaise/",
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Vendeuvre"
     ],
     "verifie": false
   },
@@ -1067,6 +1119,7 @@ window.TRACTEURS = [
     "photos": [
       "assets/img/tracteurs/dsc09840.jpg"
     ],
+    "anecdote": "Sous le capot de ce Renault, pas de moteur maison : un diesel allemand MWM refroidi par air, associé à une boîte entièrement synchronisée à 8 vitesses avant, un vrai confort à une époque où les boîtes à crabots dominaient encore.",
     "sources": [
       "https://www.tractordata.com/farm-tractors/004/2/8/4284-renault-94.html",
       "https://koneviesti.fi/en/konedata/traktorit/renault/renault-92-98-496-498"
@@ -1101,6 +1154,7 @@ window.TRACTEURS = [
     "photos": [
       "assets/img/tracteurs/dsc09881.jpg"
     ],
+    "anecdote": "On prête à son concepteur, Fritz Huber, cette devise : « Un tracteur n'est jamais assez monocylindre ! ». Son moteur multicarburant acceptait gazole, huiles minérales ou végétales, pétrole et même goudron de houille.\n\nCuriosité : les premiers modèles n'avaient pas de marche arrière. Pour reculer, on faisait tourner le moteur à l'envers ; il a fallu attendre 1928 pour avoir une vraie marche arrière.",
     "sources": [
       "https://fr.wikipedia.org/wiki/Lanz_Bulldog",
       "https://de.wikipedia.org/wiki/Lanz_Bulldog"
@@ -1135,9 +1189,11 @@ window.TRACTEURS = [
       "assets/img/tracteurs/dsc09880.jpg",
       "assets/img/tracteurs/dsc09912.jpg"
     ],
+    "anecdote": "Le « System Porsche » prolonge un projet d'avant-guerre : depuis 1938, le bureau de Ferdinand Porsche dessinait un « Volksschlepper » (tracteur du peuple), jamais construit à cause de la guerre. Allgaier reprend ces plans en 1949.\n\nÀ l'exposition agricole DLG de Francfort en 1950, l'AP17 reçoit 5 000 commandes en une semaine, soit plus que tous les tracteurs Allgaier vendus jusque-là.",
     "sources": [
       "https://de.wikibooks.org/wiki/Traktorenlexikon:_Allgaier_AP17",
-      "https://de.wikipedia.org/wiki/Allgaier_Werke"
+      "https://de.wikipedia.org/wiki/Allgaier_Werke",
+      "https://de.wikibooks.org/wiki/Traktorenlexikon:_Allgaier"
     ],
     "verifie": false
   },
@@ -1169,9 +1225,11 @@ window.TRACTEURS = [
       "assets/img/tracteurs/dsc09885.jpg",
       "assets/img/tracteurs/dsc09913.jpg"
     ],
+    "anecdote": "Le 302, premier Vierzon à porter la livrée verte et jaune, est le modèle le plus vendu de l'histoire de la marque, avec environ 9 400 exemplaires construits à Vierzon puis au Creusot. Son petit frère le 201, proposé en versions normale, vigneronne et large, a dépassé les 10 000 exemplaires.",
     "sources": [
       "https://fr.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_fran%C3%A7aise_de_Vierzon",
-      "https://www.tractordata.com/farm-tractors/011/6/8/11683-sfv-302.html"
+      "https://www.tractordata.com/farm-tractors/011/6/8/11683-sfv-302.html",
+      "https://tractordata.co.uk/vierzon/pages/vierzon_302_1953/index.htm"
     ],
     "verifie": false
   },
@@ -1204,6 +1262,7 @@ window.TRACTEURS = [
     "photos": [
       "assets/img/tracteurs/dsc09896.jpg"
     ],
+    "anecdote": "Le « petit gris » est entré dans l'histoire de l'exploration polaire. Pour l'expédition transantarctique du Commonwealth (1955-1958), Edmund Hillary disposait de Ferguson TE 20 presque de série, montés sur chenilles. Ils sont devenus les premiers véhicules à atteindre le pôle Sud par la route : c'était le premier voyage terrestre vers le pôle depuis le capitaine Scott.\n\nDeux de ces tracteurs sont aujourd'hui exposés en Nouvelle-Zélande, à Christchurch et à Auckland. Les Néo-Zélandais ont aussi eu un TE 20 dans leur portefeuille : il figurait sur le billet de 5 dollars de 1992 à 2015.",
     "sources": [
       "https://en.wikipedia.org/wiki/Ferguson_TE20",
       "https://fr.wikipedia.org/wiki/Ferguson_TE20"

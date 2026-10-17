@@ -3,6 +3,7 @@
   var PAGES = [
     ["index.html", "Catalogue"],
     ["constructeurs.html", "Constructeurs"],
+    ["technique-moteur.html", "Technique"],
     ["forum.html", "Forum"],
     ["proposer.html", "Proposer un tracteur"],
     ["boutique.html", "Boutique"]
@@ -10,6 +11,7 @@
 
   var courante = location.pathname.split("/").pop() || "index.html";
   if (courante === "tracteur.html") courante = "index.html";
+  if (courante === "technique-relevage.html") courante = "technique-moteur.html";
 
   var nav = PAGES.map(function (p) {
     var actif = p[0] === courante ? ' aria-current="page"' : "";

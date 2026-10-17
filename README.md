@@ -9,6 +9,8 @@ Site statique (HTML, CSS, JavaScript, sans framework ni étape de compilation) q
 | `index.html` | Catalogue : grille de cartes et filtres (recherche, marque, période, pays, puissance), reflétés dans l'URL |
 | `tracteur.html?id=…` | Fiche d'un tracteur : photos, histoire, caractéristiques, constructeur, commentaires |
 | `constructeurs.html` | Une section par constructeur, avec ses modèles du catalogue |
+| `technique-moteur.html` | Technique : moteur diesel, semi-diesel, refroidissement, embrayage, boîte, prise de force |
+| `technique-relevage.html` | Technique : relevage hydraulique trois points et contrôle d'effort (Harry Ferguson) |
 | `forum.html` | Forum général (Giscus) |
 | `proposer.html` | Formulaire qui ouvre une issue GitHub préremplie (label `proposition`) |
 | `boutique.html` | Page d'attente de la boutique |
@@ -42,6 +44,7 @@ Les photos originales (`photos-tractomania-caussade-2026/`) ne sont pas publiée
   qualites: [], defauts: [],
   reputation: "", histoire: "",
   photos: ["assets/img/tracteurs/dsc09891.jpg"],
+  anecdote: "",                 // encadré « Le saviez-vous ? » (paragraphes séparés par une ligne vide)
   sources: ["https://…"],       // URL des sources, affichées en bas de la fiche
   verifie: false
 }

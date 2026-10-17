@@ -1,0 +1,252 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Moteur, embrayage et boîte · Vieux Tracteurs</title>
+<meta name="description" content="Comment fonctionnent le moteur diesel, le semi-diesel à boule chaude, l'embrayage et la boîte de vitesses d'un tracteur ancien.">
+<link rel="icon" href="assets/img/logo.svg" type="image/svg+xml">
+<link rel="stylesheet" href="assets/css/style.css?v=4">
+</head>
+<body>
+<header id="entete"></header>
+<main class="conteneur technique">
+<h1>Moteur, embrayage et boîte de vitesses</h1>
+<nav class="sous-nav" aria-label="Pages techniques">
+  <a href="technique-moteur.html" aria-current="page">Moteur, embrayage, boîte</a>
+  <a href="technique-relevage.html">Relevage hydraulique et contrôle d'effort</a>
+</nav>
+<p class="chapo">Sous le capot d'un vieux tracteur, trois organes font tout le travail : le moteur produit la force, l'embrayage la transmet en douceur et la boîte de vitesses l'adapte à la tâche. Voici comment ils fonctionnent, avec des exemples tirés du <a href="index.html">catalogue</a>.</p>
+
+<nav class="sous-nav" aria-label="Sommaire">
+  <a href="#diesel">Le moteur diesel</a>
+  <a href="#boule-chaude">Le semi-diesel à boule chaude</a>
+  <a href="#refroidissement">Refroidissement : air ou eau</a>
+  <a href="#embrayage">L'embrayage</a>
+  <a href="#boite">La boîte de vitesses</a>
+  <a href="#prise-de-force">La prise de force</a>
+</nav>
+
+<h2 id="diesel">Le moteur diesel</h2>
+<p>Le moteur diesel a été mis au point par l'ingénieur allemand Rudolf Diesel dans les années 1890. Son principe : au lieu d'allumer le carburant avec une étincelle, comme dans un moteur à essence, on comprime de l'air si fort qu'il devient assez chaud pour enflammer tout seul le gazole qu'on y injecte. C'est l'<strong>allumage par compression</strong>.</p>
+<p>La plupart des tracteurs du catalogue ont un moteur diesel à <strong>quatre temps</strong> : il faut deux tours de vilebrequin, donc quatre courses du piston, pour accomplir un cycle complet.</p>
+
+<figure class="schema">
+<svg viewBox="0 0 800 300" role="img" aria-labelledby="t-cycle">
+  <title id="t-cycle">Les quatre temps du moteur diesel : admission, compression, injection et combustion, échappement</title>
+  <defs>
+    <marker id="fl" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" style="fill:var(--rouille)"/></marker>
+  </defs>
+  <g font-size="15" text-anchor="middle" style="fill:var(--encre)">
+    <!-- 1 admission -->
+    <g transform="translate(20,0)">
+      <rect x="40" y="60" width="100" height="150" rx="4" style="fill:#fff;stroke:var(--encre)" stroke-width="3"/>
+      <rect x="44" y="64" width="92" height="80" style="fill:#dfeef7"/>
+      <rect x="44" y="144" width="92" height="40" rx="3" style="fill:var(--gris)"/>
+      <line x1="90" y1="184" x2="90" y2="240" style="stroke:var(--encre)" stroke-width="6"/>
+      <line x1="65" y1="60" x2="65" y2="30" style="stroke:var(--encre)" stroke-width="3"/>
+      <line x1="55" y1="50" x2="55" y2="20" style="stroke:var(--rouille)" stroke-width="3" marker-end="url(#fl)" transform="rotate(180 55 35)"/>
+      <line x1="90" y1="150" x2="90" y2="175" style="stroke:#fff" stroke-width="3" marker-end="url(#fl)"/>
+      <text x="90" y="270" font-weight="bold">1. Admission</text>
+      <text x="90" y="290" font-size="13">le piston descend, l'air entre</text>
+    </g>
+    <!-- 2 compression -->
+    <g transform="translate(210,0)">
+      <rect x="40" y="60" width="100" height="150" rx="4" style="fill:#fff;stroke:var(--encre)" stroke-width="3"/>
+      <rect x="44" y="64" width="92" height="22" style="fill:#f6c58f"/>
+      <rect x="44" y="86" width="92" height="40" rx="3" style="fill:var(--gris)"/>
+      <line x1="90" y1="126" x2="90" y2="240" style="stroke:var(--encre)" stroke-width="6"/>
+      <line x1="90" y1="120" x2="90" y2="95" style="stroke:#fff" stroke-width="3" marker-end="url(#fl)"/>
+      <text x="90" y="270" font-weight="bold">2. Compression</text>
+      <text x="90" y="290" font-size="13">l'air comprimé s'échauffe</text>
+    </g>
+    <!-- 3 combustion -->
+    <g transform="translate(400,0)">
+      <rect x="40" y="60" width="100" height="150" rx="4" style="fill:#fff;stroke:var(--encre)" stroke-width="3"/>
+      <rect x="44" y="64" width="92" height="80" style="fill:#f0a35e"/>
+      <path d="M90 64 L80 95 L90 88 L84 120 L100 84 L91 90 L98 64 Z" style="fill:var(--or)"/>
+      <rect x="84" y="40" width="12" height="24" style="fill:var(--encre)"/>
+      <text x="125" y="40" font-size="12">injecteur</text>
+      <rect x="44" y="144" width="92" height="40" rx="3" style="fill:var(--gris)"/>
+      <line x1="90" y1="184" x2="90" y2="240" style="stroke:var(--encre)" stroke-width="6"/>
+      <line x1="90" y1="150" x2="90" y2="175" style="stroke:#fff" stroke-width="3" marker-end="url(#fl)"/>
+      <text x="90" y="270" font-weight="bold">3. Combustion</text>
+      <text x="90" y="290" font-size="13">le gazole s'enflamme, pousse</text>
+    </g>
+    <!-- 4 échappement -->
+    <g transform="translate(590,0)">
+      <rect x="40" y="60" width="100" height="150" rx="4" style="fill:#fff;stroke:var(--encre)" stroke-width="3"/>
+      <rect x="44" y="64" width="92" height="22" style="fill:#c9c2b8"/>
+      <rect x="44" y="86" width="92" height="40" rx="3" style="fill:var(--gris)"/>
+      <line x1="90" y1="126" x2="90" y2="240" style="stroke:var(--encre)" stroke-width="6"/>
+      <line x1="115" y1="60" x2="115" y2="30" style="stroke:var(--encre)" stroke-width="3"/>
+      <line x1="125" y1="50" x2="125" y2="18" style="stroke:var(--gris)" stroke-width="3" marker-end="url(#fl)"/>
+      <line x1="90" y1="120" x2="90" y2="95" style="stroke:#fff" stroke-width="3" marker-end="url(#fl)"/>
+      <text x="90" y="270" font-weight="bold">4. Échappement</text>
+      <text x="90" y="290" font-size="13">le piston chasse les gaz</text>
+    </g>
+  </g>
+</svg>
+<figcaption>Les quatre temps du diesel. Seul le troisième fournit de l'énergie : le volant moteur, lourd, entraîne le piston pendant les trois autres.</figcaption>
+</figure>
+
+<ol>
+  <li><strong>Admission</strong> : le piston descend et aspire de l'air pur (pas de mélange air-carburant, contrairement au moteur à essence).</li>
+  <li><strong>Compression</strong> : le piston remonte et comprime cet air dans un volume environ quinze à vingt fois plus petit. L'air atteint plusieurs centaines de degrés.</li>
+  <li><strong>Injection et combustion</strong> : la pompe d'injection envoie sous très forte pression une petite dose de gazole par l'injecteur. Au contact de l'air brûlant, il s'enflamme spontanément ; les gaz se dilatent et repoussent violemment le piston.</li>
+  <li><strong>Échappement</strong> : le piston remonte et chasse les gaz brûlés par la soupape d'échappement.</li>
+</ol>
+
+<h3>Injection directe ou préchambre</h3>
+<p>Sur les moteurs à <strong>injection directe</strong>, le gazole est pulvérisé directement au-dessus du piston : c'est le cas du Fendt <a href="tracteur.html?id=fendt-farmer-105ls">Farmer 105 LS</a> ou du <a href="tracteur.html?id=someca-450">Someca 450</a>. D'autres moteurs injectent dans une petite <strong>préchambre</strong> (ou chambre de turbulence) creusée dans la culasse, où la combustion commence avant de gagner le cylindre ; c'est le cas du <a href="tracteur.html?id=mccormick-farmall-f-137-d">McCormick F-137 D</a> ou du Fendt <a href="tracteur.html?id=fendt-dieselross-f24w">F 24 W</a>. La préchambre rend le moteur plus doux, l'injection directe le rend plus économe.</p>
+
+<h3>Le préchauffage</h3>
+<p>Par temps froid, les parois du moteur absorbent la chaleur de compression et l'air ne devient pas assez chaud pour enflammer le gazole. On utilise alors des <strong>bougies de préchauffage</strong> : de petites résistances électriques qui chauffent la préchambre quelques secondes avant le démarrage. Ce n'est pas un allumage : une fois le moteur lancé, elles ne servent plus.</p>
+
+<h2 id="boule-chaude">Le semi-diesel à boule chaude</h2>
+<p>Avant la généralisation du diesel moderne, de nombreux tracteurs utilisaient un moteur plus rustique : le <strong>semi-diesel à boule chaude</strong> (ou à tête incandescente). C'est le moteur du célèbre <a href="tracteur.html?id=lanz-bulldog">Lanz Bulldog</a> allemand, de ses cousins français de la <a href="tracteur.html?id=sfv-vierzon">Société Française de Vierzon</a> et des Landini italiens « testa calda ».</p>
+<ul>
+  <li>C'est un moteur <strong>deux temps</strong> à un seul gros cylindre couché, qui tourne lentement.</li>
+  <li>Sa compression est faible : elle ne suffit pas à enflammer le carburant. C'est la <strong>tête du cylindre</strong>, une masse de métal maintenue très chaude, qui assure l'allumage.</li>
+  <li>Pour démarrer, il faut d'abord chauffer cette tête à la lampe à souder ou au chalumeau pendant plusieurs minutes, puis lancer le moteur en faisant tourner le volant à la main.</li>
+  <li>Une fois chaud, il entretient lui-même la température de sa tête, et accepte toutes sortes de carburants bon marché : gazole, pétrole, huiles de récupération.</li>
+</ul>
+<p>Simples, robustes et peu exigeants, ces moteurs ont fait le succès des Bulldog, produits à plus de 220 000 exemplaires. Leur démarrage laborieux et leur forte consommation ont fini par les faire céder la place aux diesels classiques dans les années 1950.</p>
+
+<h2 id="refroidissement">Refroidissement : air ou eau</h2>
+<p>Un moteur transforme en chaleur une grande partie de l'énergie du carburant : il faut l'évacuer. Deux écoles se sont affrontées, et le catalogue en montre de beaux exemples.</p>
+<div class="qualites-defauts">
+  <div class="encadre">
+    <p><strong>Refroidissement par eau</strong></p>
+    <p>Un liquide circule autour des cylindres puis traverse un radiateur placé derrière la calandre, refroidi par un ventilateur. Le moteur chauffe de façon régulière et reste plus silencieux. Exemples : Fendt <a href="tracteur.html?id=fendt-farmer-2">Farmer 2</a>, <a href="tracteur.html?id=fendt-dieselross-f24w">F 24 W</a>, <a href="tracteur.html?id=landini-r6000">Landini R 6000</a>.</p>
+  </div>
+  <div class="encadre">
+    <p><strong>Refroidissement par air</strong></p>
+    <p>Les cylindres sont couverts d'ailettes, et une turbine souffle de l'air dessus. Pas de radiateur, pas d'eau qui gèle ou qui fuit : idéal pour une ferme. En contrepartie, le moteur est plus bruyant. Exemples : <a href="tracteur.html?id=deutz-d-6206">Deutz D 6206</a>, tracteurs <a href="tracteur.html?id=allgaier-porsche">Allgaier « System Porsche »</a>, Fendt <a href="tracteur.html?id=fendt-fix-2">Fix 2</a>, <a href="tracteur.html?id=renault-94">Renault 94</a> à moteur MWM.</p>
+  </div>
+</div>
+<p>Fendt a même proposé le même tracteur dans les deux versions : le F 24 L refroidi par air et le <a href="tracteur.html?id=fendt-dieselross-f24w">F 24 W</a> refroidi par eau. Les tout premiers Dieselross, comme le <a href="tracteur.html?id=fendt-dieselross-f9">F 9</a>, utilisaient un troisième procédé, le refroidissement par évaporation : l'eau d'un réservoir bouillait autour du cylindre et il fallait la compléter régulièrement.</p>
+
+<h2 id="embrayage">L'embrayage</h2>
+<p>Un moteur ne peut pas démarrer en étant relié aux roues, ni rester relié aux roues quand le tracteur s'arrête. L'embrayage sert à <strong>relier ou séparer</strong> le moteur et la transmission, progressivement, pour démarrer sans à-coup et pour changer de vitesse.</p>
+
+<figure class="schema">
+<svg viewBox="0 0 800 260" role="img" aria-labelledby="t-embr">
+  <title id="t-embr">Embrayage à friction : volant moteur, disque garni et plateau de pression serré par des ressorts</title>
+  <defs>
+    <marker id="fl2" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" style="fill:var(--rouille)"/></marker>
+  </defs>
+  <g font-size="14" style="fill:var(--encre)">
+    <!-- arbre moteur -->
+    <rect x="20" y="122" width="150" height="16" style="fill:var(--gris)"/>
+    <text x="30" y="112">vilebrequin (moteur)</text>
+    <!-- volant -->
+    <rect x="170" y="30" width="40" height="200" rx="6" style="fill:var(--encre)"/>
+    <text x="150" y="252">volant moteur</text>
+    <!-- disque -->
+    <rect x="222" y="45" width="14" height="170" rx="3" style="fill:var(--or)"/>
+    <rect x="218" y="45" width="4" height="170" style="fill:#7b5a2c"/>
+    <rect x="236" y="45" width="4" height="170" style="fill:#7b5a2c"/>
+    <text x="205" y="22" style="fill:var(--rouille)" font-weight="bold">disque garni</text>
+    <!-- plateau -->
+    <rect x="252" y="40" width="26" height="180" rx="4" style="fill:var(--rouille)"/>
+    <text x="250" y="252">plateau de pression</text>
+    <!-- ressorts -->
+    <path d="M278 70 l10 -8 l10 16 l10 -16 l10 16 l10 -16 l10 8" style="fill:none;stroke:var(--encre)" stroke-width="3"/>
+    <path d="M278 190 l10 -8 l10 16 l10 -16 l10 16 l10 -16 l10 8" style="fill:none;stroke:var(--encre)" stroke-width="3"/>
+    <rect x="338" y="40" width="10" height="180" style="fill:var(--gris)"/>
+    <text x="300" y="40">ressorts</text>
+    <!-- arbre boite -->
+    <rect x="236" y="124" width="380" height="12" style="fill:var(--gris)"/>
+    <text x="420" y="116">arbre vers la boîte</text>
+    <!-- butée / pédale -->
+    <rect x="380" y="112" width="20" height="36" rx="3" style="fill:var(--encre)"/>
+    <line x1="390" y1="148" x2="430" y2="215" style="stroke:var(--encre)" stroke-width="5"/>
+    <rect x="420" y="215" width="40" height="12" rx="3" style="fill:var(--encre)"/>
+    <text x="470" y="226">pédale d'embrayage</text>
+    <text x="540" y="170" font-size="13"><tspan x="540" font-weight="bold">Pédale relâchée :</tspan><tspan x="540" dy="17">tout est serré, le moteur</tspan><tspan x="540" dy="17">entraîne la boîte.</tspan></text>
+    <text x="540" y="40" font-size="13"><tspan x="540" font-weight="bold">Pédale enfoncée :</tspan><tspan x="540" dy="17">le plateau recule,</tspan><tspan x="540" dy="17">le disque tourne libre.</tspan></text>
+  </g>
+</svg>
+<figcaption>L'embrayage à friction, vu en coupe. Des ressorts serrent le disque entre le volant et le plateau ; la pédale écarte le plateau.</figcaption>
+</figure>
+
+<p>Sur la plupart des tracteurs anciens, c'est un <strong>embrayage à friction à sec</strong> : un disque recouvert d'une garniture, semblable à celle d'un frein, est pris en sandwich entre le volant du moteur et un plateau poussé par de puissants ressorts. Quand on appuie sur la pédale, le plateau recule et le disque tourne librement. En relâchant doucement, le disque frotte puis adhère : le tracteur démarre progressivement.</p>
+
+<h3>Le double embrayage</h3>
+<p>Beaucoup d'outils (faucheuse, botteleuse, épandeur) sont entraînés par la <a href="#prise-de-force">prise de force</a>. Avec un embrayage simple, appuyer sur la pédale arrête à la fois l'avancement <em>et</em> l'outil : si la faucheuse bourre, il faut tout arrêter. Le <strong>double embrayage</strong> résout ce problème : à mi-course, la pédale ne débraye que l'avancement, et l'outil continue de tourner ; en fin de course, elle coupe aussi la prise de force. Le conducteur peut ainsi s'arrêter pour laisser l'outil se dégager. C'est l'une des limites du <a href="tracteur.html?id=ferguson-te20">Ferguson TE 20</a> : sa prise de force et son hydraulique s'arrêtent dès qu'on débraye.</p>
+
+<h3>L'embrayage hydraulique</h3>
+<p>À partir du <a href="tracteur.html?id=fendt-farmer-3s">Farmer 3 S</a>, Fendt a ajouté devant l'embrayage un <strong>coupleur hydraulique</strong> Voith, baptisé Turbomatik : deux roues à aubes face à face dans un carter rempli d'huile. La première, entraînée par le moteur, projette l'huile sur la seconde, qui se met à tourner à son tour. Il n'y a aucun contact métallique, donc aucun à-coup : le tracteur démarre en douceur même lourdement chargé, et le moteur ne cale pas. Les tracteurs <a href="tracteur.html?id=allgaier-porsche">Allgaier « System Porsche »</a> utilisaient déjà un coupleur de ce type au début des années 1950.</p>
+
+<h2 id="boite">La boîte de vitesses</h2>
+<p>Un moteur tourne vite (de 1 500 à 2 500 tours par minute pour un diesel de tracteur), alors qu'un tracteur qui laboure avance à peine plus vite qu'un homme au pas. La boîte de vitesses <strong>démultiplie</strong> la rotation du moteur : plus le rapport est court, plus le tracteur est lent mais puissant.</p>
+
+<figure class="schema">
+<svg viewBox="0 0 800 280" role="img" aria-labelledby="t-boite">
+  <title id="t-boite">Boîte à train baladeur : des pignons coulissent sur un arbre cannelé pour engrener avec les pignons de l'arbre intermédiaire</title>
+  <defs>
+    <marker id="fl3" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" style="fill:var(--rouille)"/></marker>
+  </defs>
+  <g font-size="14" style="fill:var(--encre)">
+    <rect x="60" y="40" width="680" height="200" rx="10" style="fill:none;stroke:var(--bord)" stroke-width="3"/>
+    <!-- arbre primaire / secondaire (cannelé) -->
+    <rect x="20" y="92" width="760" height="12" style="fill:var(--gris)"/>
+    <text x="70" y="30">arbre cannelé (vers les roues)</text>
+    <!-- arbre intermédiaire -->
+    <rect x="20" y="182" width="760" height="12" style="fill:var(--gris)"/>
+    <text x="70" y="262">arbre intermédiaire (entraîné par le moteur)</text>
+    <!-- pignons intermédiaires fixes -->
+    <rect x="170" y="150" width="26" height="76" rx="3" style="fill:var(--encre)"/>
+    <rect x="330" y="160" width="26" height="56" rx="3" style="fill:var(--encre)"/>
+    <rect x="500" y="170" width="26" height="36" rx="3" style="fill:var(--encre)"/>
+    <!-- pignons baladeurs -->
+    <rect x="200" y="78" width="26" height="40" rx="3" style="fill:var(--rouille)"/>
+    <rect x="360" y="68" width="26" height="60" rx="3" style="fill:var(--or)"/>
+    <rect x="470" y="58" width="26" height="80" rx="3" style="fill:var(--rouille)"/>
+    <line x1="215" y1="60" x2="185" y2="60" style="stroke:var(--rouille)" stroke-width="3" marker-end="url(#fl3)"/>
+    <line x1="485" y1="48" x2="515" y2="48" style="stroke:var(--rouille)" stroke-width="3" marker-end="url(#fl3)"/>
+    <text x="560" y="130" font-size="13"><tspan x="560" font-weight="bold">Pignons baladeurs :</tspan><tspan x="560" dy="16">ils coulissent sur l'arbre</tspan><tspan x="560" dy="16">pour engrener ou non.</tspan></text>
+    <text x="200" y="250" font-size="13" style="fill:var(--gris)" visibility="hidden">.</text>
+  </g>
+</svg>
+<figcaption>Principe de la boîte à train baladeur. Le levier fait glisser un pignon sur son arbre jusqu'à ce qu'il engrène avec un pignon de l'arbre voisin. Un grand pignon entraîné par un petit donne un rapport court : lent mais puissant.</figcaption>
+</figure>
+
+<h3>Le train baladeur</h3>
+<p>Les tracteurs anciens ont presque tous une boîte à <strong>train baladeur</strong> : le levier de vitesses fait coulisser des pignons le long d'un arbre cannelé, jusqu'à ce qu'ils engrènent avec les pignons d'un second arbre. Chaque couple de pignons donne un rapport. Ces boîtes ne sont pas <strong>synchronisées</strong> : pour passer une vitesse sans faire craquer les dents, il faut en général s'arrêter, ou maîtriser le double débrayage. C'est rustique, mais presque indestructible.</p>
+
+<h3>Le réducteur</h3>
+<p>Pour multiplier les rapports sans multiplier les pignons, on ajoute derrière la boîte principale un <strong>réducteur</strong> (ou boîte de gammes) à deux ou trois positions : lente, normale, parfois rapide. Avec une boîte de cinq vitesses et un réducteur à deux gammes, on obtient dix rapports : c'est le cas du <a href="tracteur.html?id=zetor-5511">Zetor 5511</a> et de ses dix vitesses avant à deux groupes. Les Fendt Farmer des années 1970 atteignaient ainsi treize rapports avant, avec des vitesses « rampantes » pour les travaux très lents comme la plantation.</p>
+
+<h3>Le différentiel</h3>
+<p>Dans un virage, la roue extérieure parcourt plus de chemin que la roue intérieure. Le <strong>différentiel</strong>, placé entre les deux roues arrière, leur permet de tourner à des vitesses différentes. Revers de la médaille : si une roue patine dans la boue, toute la force part de ce côté. Le <strong>blocage de différentiel</strong>, commandé par une pédale ou un levier, solidarise les deux roues le temps de se sortir du mauvais pas.</p>
+
+<h2 id="prise-de-force">La prise de force</h2>
+<p>La <strong>prise de force</strong> est un arbre cannelé qui sort à l'arrière du tracteur et transmet la puissance du moteur directement aux outils attelés : faucheuse, botteleuse, pompe, broyeur. Sa vitesse a été normalisée à <strong>540 tours par minute</strong>, puis à 1 000 tours par minute pour les outils plus gourmands. On la reconnaît sur les fiches à des mentions comme « prise de force 540/1 000 tr/min » (<a href="tracteur.html?id=fendt-farmer-3s">Farmer 3 S</a>, <a href="tracteur.html?id=renault-94">Renault 94</a>).</p>
+<p>On distingue la prise de force <strong>dépendante</strong>, qui s'arrête quand on débraye, de la prise de force <strong>indépendante</strong>, qui a sa propre commande et continue de tourner tracteur arrêté. Fendt s'en est fait une spécialité dès le <a href="tracteur.html?id=fendt-dieselross-f22">F 22</a> de 1938. Avant la prise de force, on entraînait les machines fixes (batteuses, scies) par une <strong>poulie</strong> latérale et une longue courroie, comme sur le <a href="tracteur.html?id=mccormick-deering-10-20">McCormick-Deering 10-20</a> : c'est pourquoi les anciennes puissances sont souvent données « à la poulie ».</p>
+
+<p class="encadre">Pour la suite, découvrez comment un petit tracteur léger a pu tirer une charrue aussi bien qu'un gros : <a href="technique-relevage.html">le relevage hydraulique trois points et le contrôle d'effort</a>.</p>
+
+<section class="sources">
+  <h2>Sources</h2>
+  <ul>
+    <li><a href="https://fr.wikipedia.org/wiki/Moteur_Diesel" target="_blank" rel="noopener">Wikipédia : Moteur Diesel</a></li>
+    <li><a href="https://fr.wikipedia.org/wiki/Moteur_semi-diesel" target="_blank" rel="noopener">Wikipédia : Moteur semi-diesel</a></li>
+    <li><a href="https://fr.wikipedia.org/wiki/Bougie_de_pr%C3%A9chauffage" target="_blank" rel="noopener">Wikipédia : Bougie de préchauffage</a></li>
+    <li><a href="https://fr.wikipedia.org/wiki/Lanz_Bulldog" target="_blank" rel="noopener">Wikipédia : Lanz Bulldog</a></li>
+    <li><a href="https://fr.wikipedia.org/wiki/Embrayage" target="_blank" rel="noopener">Wikipédia : Embrayage</a></li>
+    <li><a href="https://fr.wikipedia.org/wiki/Coupleur_hydraulique" target="_blank" rel="noopener">Wikipédia : Coupleur hydraulique</a></li>
+    <li><a href="https://fr.wikipedia.org/wiki/Bo%C3%AEte_de_vitesses" target="_blank" rel="noopener">Wikipédia : Boîte de vitesses</a></li>
+    <li><a href="https://fr.wikipedia.org/wiki/Diff%C3%A9rentiel" target="_blank" rel="noopener">Wikipédia : Différentiel</a></li>
+    <li><a href="https://fr.wikipedia.org/wiki/Prise_de_force" target="_blank" rel="noopener">Wikipédia : Prise de force</a></li>
+    <li><a href="https://de.wikibooks.org/wiki/Traktorenlexikon:_Fendt_Farmer_3_S/SA" target="_blank" rel="noopener">Traktorenlexikon : Fendt Farmer 3 S (Turbomatik)</a></li>
+    <li><a href="https://de.wikibooks.org/wiki/Traktorenlexikon:_Fendt_Dieselross_F24" target="_blank" rel="noopener">Traktorenlexikon : Fendt Dieselross F 24 (versions L et W)</a></li>
+  </ul>
+</section>
+</main>
+<footer id="pied"></footer>
+<script src="assets/js/config.js?v=4"></script>
+<script src="assets/js/commun.js?v=4"></script>
+</body>
+</html>

@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Relevage hydraulique · Vieux Tracteurs</title>
+<meta name="description" content="Le relevage hydraulique trois points et le contrôle d'effort inventés par Harry Ferguson : fonctionnement, histoire et tracteurs concernés.">
+<link rel="icon" href="assets/img/logo.svg" type="image/svg+xml">
+<link rel="stylesheet" href="assets/css/style.css?v=4">
+</head>
+<body>
+<header id="entete"></header>
+<main class="conteneur technique">
+<h1>Le relevage hydraulique et le contrôle d'effort</h1>
+<nav class="sous-nav" aria-label="Pages techniques">
+  <a href="technique-moteur.html">Moteur, embrayage, boîte</a>
+  <a href="technique-relevage.html" aria-current="page">Relevage hydraulique et contrôle d'effort</a>
+</nav>
+<p class="chapo">À l'arrière de presque tous les tracteurs du monde, on trouve le même dispositif : trois points d'attelage et un relevage hydraulique. Cette invention de l'Irlandais <strong>Harry Ferguson</strong> a permis à de petits tracteurs légers de labourer aussi bien que de lourdes machines, et a changé le travail des paysans.</p>
+
+<nav class="sous-nav" aria-label="Sommaire">
+  <a href="#avant">Avant Ferguson</a>
+  <a href="#trois-points">L'attelage trois points</a>
+  <a href="#effort">Le contrôle d'effort</a>
+  <a href="#position">Le contrôle de position</a>
+  <a href="#histoire">Histoire d'une invention</a>
+  <a href="#catalogue">Dans le catalogue</a>
+</nav>
+
+<h2 id="avant">Avant Ferguson : la charrue traînée</h2>
+<p>Les premiers tracteurs tiraient leurs outils comme un cheval : une charrue sur roues, accrochée à une simple barre d'attelage par une chaîne ou un timon. Cette méthode avait trois gros défauts :</p>
+<ul>
+  <li><strong>Il fallait du poids.</strong> Pour ne pas patiner, le tracteur devait être lourd, donc cher, gourmand et tassant pour le sol.</li>
+  <li><strong>Le réglage était pénible.</strong> La profondeur de labour se réglait à la main, souvent en descendant du tracteur, et variait avec le terrain.</li>
+  <li><strong>C'était dangereux.</strong> Quand la charrue accrochait une grosse pierre ou une souche, le tracteur, bloqué par l'arrière, pouvait se cabrer et se retourner sur le conducteur. Les accidents de ce type étaient fréquents avec les premiers Fordson.</li>
+</ul>
+
+<h2 id="trois-points">L'attelage trois points</h2>
+<p>Ferguson a remplacé la barre d'attelage par une <strong>tringlerie à trois points</strong> : deux bras inférieurs articulés de chaque côté, et un bras supérieur réglable au centre, le <strong>troisième point</strong>. L'outil est accroché à ces trois points et fait corps avec le tracteur. Un vérin hydraulique, alimenté par une pompe entraînée par le moteur, soulève les bras inférieurs : un levier suffit pour lever la charrue en bout de champ, la transporter et la reposer.</p>
+
+<figure class="schema">
+<svg viewBox="0 0 800 330" role="img" aria-labelledby="t-3pts">
+  <title id="t-3pts">Vue de côté d'un attelage trois points : tracteur, bras inférieur, troisième point et charrue, avec les forces en jeu</title>
+  <defs>
+    <marker id="f4" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" style="fill:var(--rouille)"/></marker>
+    <marker id="f5" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" style="fill:var(--or)"/></marker>
+  </defs>
+  <g font-size="14" style="fill:var(--encre)">
+    <!-- sol -->
+    <rect x="0" y="262" width="800" height="68" style="fill:#d9c7a3"/>
+    <line x1="0" y1="262" x2="800" y2="262" style="stroke:#a88a5a" stroke-width="2"/>
+    <!-- tracteur -->
+    <rect x="60" y="120" width="240" height="70" rx="10" style="fill:var(--gris)"/>
+    <rect x="70" y="95" width="120" height="30" rx="6" style="fill:var(--gris)"/>
+    <rect x="95" y="60" width="10" height="40" style="fill:var(--encre)"/>
+    <rect x="215" y="85" width="50" height="10" rx="4" style="fill:var(--encre)"/>
+    <circle cx="245" cy="200" r="62" style="fill:var(--encre)"/>
+    <circle cx="245" cy="200" r="30" style="fill:var(--or)"/>
+    <circle cx="95" cy="232" r="30" style="fill:var(--encre)"/>
+    <circle cx="95" cy="232" r="13" style="fill:var(--or)"/>
+    <text x="70" y="50">tracteur</text>
+    <!-- vérin -->
+    <rect x="292" y="135" width="40" height="14" rx="4" style="fill:var(--rouille)"/>
+    <text x="268" y="130" font-size="12" style="fill:var(--rouille)">vérin</text>
+    <!-- bras inférieur -->
+    <line x1="300" y1="215" x2="470" y2="225" style="stroke:var(--encre)" stroke-width="9" stroke-linecap="round"/>
+    <text x="330" y="248">bras inférieur</text>
+    <line x1="332" y1="149" x2="370" y2="215" style="stroke:var(--encre)" stroke-width="4"/>
+    <!-- troisième point -->
+    <line x1="315" y1="140" x2="470" y2="120" style="stroke:var(--rouille)" stroke-width="7" stroke-linecap="round"/>
+    <text x="330" y="88" font-weight="bold" style="fill:var(--rouille)">troisième point</text>
+    <!-- charrue -->
+    <path d="M470 110 L490 110 L490 230 L470 230 Z" style="fill:var(--encre)"/>
+    <path d="M490 200 L560 200 L620 250 L640 290 L600 292 L560 250 L490 240 Z" style="fill:var(--gris)"/>
+    <text x="520" y="180">charrue</text>
+    <!-- forces -->
+    <line x1="720" y1="290" x2="650" y2="290" style="stroke:var(--rouille)" stroke-width="4" marker-end="url(#f4)"/>
+    <text x="640" y="320" font-size="13">résistance du sol</text>
+    <line x1="455" y1="98" x2="355" y2="112" style="stroke:var(--rouille)" stroke-width="3" marker-end="url(#f4)"/>
+    <text x="560" y="60" font-size="13"><tspan x="560">le sol résiste :</tspan><tspan x="560" dy="16">la charrue pousse</tspan><tspan x="560" dy="16">sur le troisième point</tspan></text>
+    <line x1="245" y1="100" x2="245" y2="150" style="stroke:var(--or)" stroke-width="5" marker-end="url(#f5)"/>
+    <text x="150" y="20" font-size="13">le poids de l'outil reporté sur les roues arrière</text>
+    <line x1="245" y1="26" x2="245" y2="90" style="stroke:var(--or)" stroke-width="2" stroke-dasharray="4 4"/>
+  </g>
+</svg>
+<figcaption>L'attelage trois points vu de côté. Quand le sol résiste davantage, la charrue pousse sur le troisième point : c'est ce signal qu'utilise le contrôle d'effort.</figcaption>
+</figure>
+
+<p>Le génie du système tient à sa <strong>géométrie</strong>. Les bras sont disposés de façon que leurs prolongements se croisent loin devant, près de l'essieu avant. Quand la charrue tire vers l'arrière et vers le bas, cette force appuie sur les roues arrière du tracteur au lieu de le faire cabrer. Le tracteur gagne en adhérence sans avoir besoin d'être lourd, et le risque de retournement disparaît presque.</p>
+
+<h2 id="effort">Le contrôle d'effort</h2>
+<p>Le contrôle d'effort (en anglais <em>draft control</em>) est la seconde invention de Ferguson, et la plus subtile. Il règle automatiquement la profondeur de travail pour garder un <strong>effort de traction constant</strong>.</p>
+<ol>
+  <li>Le conducteur choisit une position sur le levier de relevage : elle correspond à un certain effort.</li>
+  <li>Quand la charrue rencontre un sol plus dur ou s'enfonce trop, le sol résiste davantage. La charrue pousse alors vers l'avant sur le <strong>troisième point</strong>, qui comprime un ressort.</li>
+  <li>Ce ressort actionne la valve du circuit hydraulique : le relevage <strong>soulève légèrement</strong> la charrue. L'effort diminue.</li>
+  <li>Si le sol devient plus meuble, l'effort baisse, le ressort se détend et le relevage <strong>laisse redescendre</strong> la charrue.</li>
+</ol>
+<p>Le résultat : le tracteur ne cale pas et ne patine pas, même sur un terrain inégal. Et comme le relevage porte une partie du poids de l'outil, ce poids s'ajoute à celui du tracteur sur les roues arrière. Un tracteur d'à peine plus d'une tonne, comme le <a href="tracteur.html?id=ferguson-te20">Ferguson TE 20</a>, pouvait tirer une charrue à deux socs qui demandait jusque-là un tracteur beaucoup plus lourd.</p>
+
+<div class="encadre">
+<p><strong>En résumé :</strong> le contrôle d'effort, c'est un régulateur. Le sol « parle » au tracteur par le troisième point, et l'hydraulique ajuste la profondeur des dizaines de fois par minute, sans que le conducteur ait à intervenir.</p>
+</div>
+
+<h2 id="position">Le contrôle de position</h2>
+<p>Le contrôle d'effort convient aux outils qui travaillent dans le sol, comme la charrue ou le cultivateur. Pour d'autres outils, on veut au contraire une <strong>hauteur fixe</strong>, quelle que soit la résistance : une faucheuse, un pulvérisateur, une herse portée, une lame niveleuse. C'est le rôle du <strong>contrôle de position</strong> : la position du levier correspond à une hauteur des bras, que l'hydraulique maintient. Les relevages ultérieurs, comme ceux des Massey Ferguson de la série 100 (<a href="tracteur.html?id=massey-ferguson-155">MF 155</a>), combinent les deux modes, et parfois un mélange des deux.</p>
+
+<h2 id="histoire">Histoire d'une invention</h2>
+<ol class="chronologie">
+  <li><strong>Années 1910.</strong> Harry Ferguson, mécanicien et vendeur de tracteurs en Irlande du Nord, cherche à rendre la charrue plus efficace et plus sûre, notamment sur le Fordson.</li>
+  <li><strong>Années 1920.</strong> Il met au point et fait breveter un attelage hydraulique avec régulation de la profondeur par la résistance du sol : le principe du contrôle d'effort.</li>
+  <li><strong>1936.</strong> Le Ferguson-Brown Type A, construit par David Brown en Angleterre, est le premier tracteur de série à combiner relevage hydraulique trois points et contrôle d'effort.</li>
+  <li><strong>1939.</strong> Après un accord conclu d'une simple poignée de main avec Henry Ford, le système équipe le <strong>Ford-Ferguson 9N</strong>, produit en grande série aux États-Unis.</li>
+  <li><strong>1946.</strong> Après la rupture avec Ford, Ferguson lance son propre tracteur, le <strong>TE 20</strong>, le « petit gris », fabriqué à Coventry par Standard Motor et assemblé aussi en France. Il est produit à plus d'un demi-million d'exemplaires.</li>
+  <li><strong>1953.</strong> Ferguson fusionne avec le canadien Massey-Harris : naît <strong>Massey-Harris-Ferguson</strong>, qui devient <strong>Massey Ferguson</strong> en 1958. Le système Ferguson devient la marque de fabrique de tous les tracteurs MF.</li>
+  <li><strong>Ensuite.</strong> À l'expiration des brevets, les autres constructeurs adoptent l'attelage trois points, qui est normalisé : aujourd'hui, un outil porté s'attelle à n'importe quel tracteur, quelle que soit sa marque.</li>
+</ol>
+
+<div class="encadre">
+<p><strong>À ne pas confondre :</strong> on attribue souvent le relevage à Massey Ferguson, parce que la marque l'a rendu célèbre dans le monde entier. Mais l'inventeur est bien <strong>Harry Ferguson</strong>, des décennies avant la fusion de 1953. Massey Ferguson en a hérité, l'a perfectionné et l'a diffusé.</p>
+</div>
+
+<h2>Pourquoi cela a tout changé</h2>
+<ul>
+  <li><strong>Un tracteur abordable.</strong> Plus besoin d'un engin lourd et cher : un petit tracteur léger suffisait, à la portée des petites et moyennes exploitations. En France, les « petits gris » ont souvent été le premier tracteur de la ferme et ont remplacé le cheval.</li>
+  <li><strong>Moins de fatigue.</strong> Plus besoin de descendre régler la charrue ni de la relever à la main : un levier suffit, depuis le siège.</li>
+  <li><strong>Plus de sécurité.</strong> Le report des efforts vers l'avant évite au tracteur de se cabrer quand l'outil accroche.</li>
+  <li><strong>Un sol mieux respecté.</strong> Un tracteur léger tasse moins la terre, et la profondeur de labour reste régulière.</li>
+  <li><strong>Des outils pour tous.</strong> La normalisation de l'attelage a créé un immense marché d'outils portés compatibles avec tous les tracteurs.</li>
+</ul>
+
+<h2 id="catalogue">Dans le catalogue</h2>
+<ul class="liens-modeles">
+  <li><a href="tracteur.html?id=ferguson-te20">Ferguson TE 20 « petit gris »</a></li>
+  <li><a href="tracteur.html?id=massey-ferguson-140-super">Massey Ferguson MF 140 Super</a></li>
+  <li><a href="tracteur.html?id=massey-ferguson-155">Massey Ferguson MF 155</a></li>
+  <li><a href="tracteur.html?id=massey-ferguson-235">Massey Ferguson MF 235</a></li>
+  <li><a href="tracteur.html?id=massey-ferguson-821">Massey Ferguson MF 821</a></li>
+  <li><a href="tracteur.html?id=ford-4000">Ford 4000</a></li>
+</ul>
+<p>Les <a href="tracteur.html?id=massey-harris-pony-820">Massey-Harris Pony</a> avaient eux aussi un relevage trois points en option, mais d'un modèle non standard qui demandait des outils spécifiques.</p>
+
+<section class="sources">
+  <h2>Sources</h2>
+  <ul>
+    <li><a href="https://fr.wikipedia.org/wiki/Harry_Ferguson" target="_blank" rel="noopener">Wikipédia : Harry Ferguson</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Harry_Ferguson" target="_blank" rel="noopener">Wikipedia (en) : Harry Ferguson</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Three-point_hitch" target="_blank" rel="noopener">Wikipedia (en) : Three-point hitch</a></li>
+    <li><a href="https://fr.wikipedia.org/wiki/Ferguson_TE20" target="_blank" rel="noopener">Wikipédia : Ferguson TE20</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Ford_N-series_tractor" target="_blank" rel="noopener">Wikipedia (en) : Ford N-series tractor (9N)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Massey_Ferguson" target="_blank" rel="noopener">Wikipedia (en) : Massey Ferguson</a></li>
+    <li><a href="https://de.wikibooks.org/wiki/Traktorenlexikon:_Massey-Harris_Massey-Harris_Pony_820" target="_blank" rel="noopener">Traktorenlexikon : Massey-Harris Pony 820</a></li>
+  </ul>
+</section>
+</main>
+<footer id="pied"></footer>
+<script src="assets/js/config.js?v=4"></script>
+<script src="assets/js/commun.js?v=4"></script>
+</body>
+</html>

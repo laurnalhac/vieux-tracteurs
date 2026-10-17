@@ -60,6 +60,11 @@
     galerie +
     '<div class="fiche-grille"><div>' +
     "<h2>Histoire</h2>" + paragraphe(t.histoire) +
+    (t.anecdote
+      ? '<aside class="saviez"><h3>Le saviez-vous ?</h3>' + t.anecdote.split(/\n\s*\n/).map(function (p) {
+          return "<p>" + e(p) + "</p>";
+        }).join("") + "</aside>"
+      : "") +
     "<h2>Réputation</h2>" + paragraphe(t.reputation) +
     '<div class="qualites-defauts"><div><h3>Qualités</h3>' + liste(t.qualites) + "</div>" +
     "<div><h3>Défauts</h3>" + liste(t.defauts) + "</div></div>" +
